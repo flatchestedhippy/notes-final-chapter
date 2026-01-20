@@ -172,7 +172,8 @@
               "title": "Outreach Batches - Hiring Pain"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -336,10 +337,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3d31836c7b8427b9",
+  "active": "9ff43224aa51af26",
   "lastOpenFiles": [
-    "Start.md",
     "daily-notes/01.20.2026.md",
+    "Start.md",
     "Tiller Interviews/Tiller Outreach/Outreach Batches - Hiring Pain.md",
     "daily-notes/01.15.2026.md",
     "daily-notes/01.14.2026.md",
