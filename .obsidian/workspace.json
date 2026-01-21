@@ -41,19 +41,19 @@
             }
           },
           {
-            "id": "3d31836c7b8427b9",
+            "id": "4aa8ae97b0bcf1ab",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/01.20.2026.md",
+                "file": "daily-notes/01.21.2026.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "01.20.2026"
+              "title": "01.21.2026"
             }
           }
         ],
@@ -78,22 +78,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Start"
-            }
-          },
-          {
-            "id": "3889564cb4c30ad6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/01.15.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01.15.2026"
             }
           },
           {
@@ -126,6 +110,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "01.19.2026"
+            }
+          },
+          {
+            "id": "3d31836c7b8427b9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/01.20.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "01.20.2026"
             }
           },
           {
@@ -172,8 +172,7 @@
               "title": "Outreach Batches - Hiring Pain"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -337,17 +336,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9ff43224aa51af26",
+  "active": "4aa8ae97b0bcf1ab",
   "lastOpenFiles": [
-    "daily-notes/01.20.2026.md",
     "Start.md",
-    "Tiller Interviews/Tiller Outreach/Outreach Batches - Hiring Pain.md",
-    "daily-notes/01.15.2026.md",
-    "daily-notes/01.14.2026.md",
+    "daily-notes/01.21.2026.md",
     "daily-notes/01.16.2026.md",
+    "daily-notes/01.15.2026.md",
     "daily-notes/01.19.2026.md",
-    "Tiller Interviews/2026-1-19 - Tiller Interview - Hiring Pain -- Michael Littman.md",
+    "daily-notes/01.20.2026.md",
+    "Tiller Interviews/Tiller Outreach/Outreach Batches - Hiring Pain.md",
     "Other/Kingsmen Resignation Jan 16, 2026.md",
+    "daily-notes/01.14.2026.md",
+    "Tiller Interviews/2026-1-19 - Tiller Interview - Hiring Pain -- Michael Littman.md",
     "Extras/Templates/tiller/Template - Hiring Pain.md",
     "Tiller Interviews/2026-1-06 - Tiller Interview - Hiring Pain -- Mark Harris.md",
     "daily-notes/01.13.2026.md",
@@ -365,7 +365,6 @@
     "daily-notes/01.06.2026.md",
     "daily-notes/12.23.2025.md",
     "daily-notes/12.19.2025.md",
-    "daily-notes/12.03.2025.md",
     "William",
     "Extras/Templates/tiller/parts/hiring-pain",
     "Extras/Templates/tiller/parts/general",
