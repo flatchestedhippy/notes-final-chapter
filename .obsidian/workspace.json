@@ -9,55 +9,22 @@
         "dimension": 41.80952380952381,
         "children": [
           {
-            "id": "a087f74685330395",
+            "id": "9a445caa18cb0644",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tiller Interviews/2026-1-15 - Tiller Interview - Hiring Pain -- Drew Robbins.md",
+                "file": "daily-notes/01.22.2026.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-1-15 - Tiller Interview - Hiring Pain -- Drew Robbins"
-            }
-          },
-          {
-            "id": "a1b6e891982577c4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tiller Interviews/2026-1-19 - Tiller Interview - Hiring Pain -- Michael Littman.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-1-19 - Tiller Interview - Hiring Pain -- Michael Littman"
-            }
-          },
-          {
-            "id": "4aa8ae97b0bcf1ab",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/01.21.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01.21.2026"
+              "title": "01.22.2026"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "6af37589e57fc3e6",
@@ -145,63 +112,23 @@
             }
           },
           {
-            "id": "f7dbda70fc31072a",
+            "id": "4aa8ae97b0bcf1ab",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tiller Interviews/Tiller Outreach/Outreach Batches - Hiring Pain.md",
+                "file": "daily-notes/01.21.2026.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Outreach Batches - Hiring Pain"
-            }
-          },
-          {
-            "id": "d8d1d1d18e150118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tiller Interviews/Tiller Outreach/Outreach Batches - Hiring Pain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Outreach Batches - Hiring Pain"
-            }
-          },
-          {
-            "id": "b8c7ce1c94d6d42f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tiller Interviews/Tiller Outreach/Outreach Batches - Hiring Pain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Outreach Batches - Hiring Pain"
-            }
-          },
-          {
-            "id": "9a445caa18cb0644",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tiller Interviews/Tiller Outreach/Outreach Batches - Hiring Pain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Outreach Batches - Hiring Pain"
+              "title": "01.21.2026"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -365,10 +292,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9a445caa18cb0644",
+  "active": "4aa8ae97b0bcf1ab",
   "lastOpenFiles": [
-    "daily-notes/01.21.2026.md",
     "Tiller Interviews/Tiller Outreach/Outreach Batches - Hiring Pain.md",
+    "daily-notes/01.22.2026.md",
+    "Tiller Interviews/2026-1-15 - Tiller Interview - Hiring Pain -- Drew Robbins.md",
+    "Tiller Interviews/2026-1-19 - Tiller Interview - Hiring Pain -- Michael Littman.md",
+    "daily-notes/01.21.2026.md",
     "Start.md",
     "daily-notes/01.20.2026.md",
     "daily-notes/01.16.2026.md",
@@ -376,12 +306,10 @@
     "daily-notes/01.19.2026.md",
     "Other/Kingsmen Resignation Jan 16, 2026.md",
     "daily-notes/01.14.2026.md",
-    "Tiller Interviews/2026-1-19 - Tiller Interview - Hiring Pain -- Michael Littman.md",
     "Extras/Templates/tiller/Template - Hiring Pain.md",
     "Tiller Interviews/2026-1-06 - Tiller Interview - Hiring Pain -- Mark Harris.md",
     "daily-notes/01.13.2026.md",
     "Tiller Interviews/2025-12-25 – Tiller Interview – Hiring Pain – ACME Corp.md",
-    "Tiller Interviews/2026-1-15 - Tiller Interview - Hiring Pain -- Drew Robbins.md",
     "Other/Pain Sources.md",
     "Tiller Interviews/Tiller Outreach Dashboard.md",
     "Tiller Interviews/Tiller Outreach/Tiller – Hiring Pain – Batch 1.md",
@@ -393,7 +321,6 @@
     "daily-notes/12.22.2025.md",
     "daily-notes/01.06.2026.md",
     "daily-notes/12.23.2025.md",
-    "daily-notes/12.19.2025.md",
     "William",
     "Extras/Templates/tiller/parts/hiring-pain",
     "Extras/Templates/tiller/parts/general",
