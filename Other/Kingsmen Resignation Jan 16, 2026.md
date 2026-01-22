@@ -3,6 +3,12 @@ Note:
 - I did not send this on that Friday Jan 16th, 2026
 - I did not send this on that Monday, Jan 19, 2026
 
+---
+
+I stepped away from my role to be more present for my son as a single father, and to create space to explore building something of my own. I’m also open to the right remote or leadership opportunities where flexibility and impact are a strong fit
+
+---
+
 
 Hi Russell & Brandon,
 

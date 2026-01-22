@@ -307,78 +307,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "floating": {
-    "id": "9cd5da265d655b30",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0f37fe4f844889a7",
-        "type": "window",
-        "children": [
-          {
-            "id": "889320dcc9ae6398",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ff0079a98f63ba6f",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tiller Interviews/2026-1-06 - Tiller Interview - Hiring Pain -- Mark Harris.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "2026-1-06 - Tiller Interview - Hiring Pain -- Mark Harris"
-                }
-              },
-              {
-                "id": "731db8fe159eb6be",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tiller Interviews/2026-1-15 - Tiller Interview - Hiring Pain -- Drew Robbins.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-1-15 - Tiller Interview - Hiring Pain -- Drew Robbins"
-                }
-              },
-              {
-                "id": "055e5831989d5df3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tiller Interviews/2026-1-19 - Tiller Interview - Hiring Pain -- Michael Littman.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-1-19 - Tiller Interview - Hiring Pain -- Michael Littman"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 5260,
-        "y": 78,
-        "width": 1001,
-        "height": 1124,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "9ff43224aa51af26",
   "lastOpenFiles": [
     "daily-notes/12.11.2025.md",
+    "Start.md",
+    "Other/Kingsmen Resignation Jan 16, 2026.md",
+    "Tiller Interviews/2026-1-06 - Tiller Interview - Hiring Pain -- Mark Harris.md",
     "daily-notes/12.10.2025.md",
     "daily-notes/12.12.2025.md",
     "daily-notes/12.09.2025.md",
@@ -387,7 +321,6 @@
     "daily-notes/12.04.2025.md",
     "daily-notes/12.03.2025.md",
     "Tiller Interviews/Tiller Synthesis/Tiller Synthesis - Hiring Pain.md",
-    "Tiller Interviews/2026-1-06 - Tiller Interview - Hiring Pain -- Mark Harris.md",
     "Tiller Interviews/2026-1-15 - Tiller Interview - Hiring Pain -- Drew Robbins.md",
     "Tiller Interviews/2026-1-19 - Tiller Interview - Hiring Pain -- Michael Littman.md",
     "daily-notes/01.19.2026.md",
@@ -396,11 +329,9 @@
     "Tiller Interviews/Tiller Synthesis",
     "daily-notes/01.20.2026.md",
     "daily-notes/01.21.2026.md",
-    "Start.md",
     "daily-notes/01.16.2026.md",
     "Tiller Interviews/Tiller Outreach/Outreach Batches - Hiring Pain.md",
     "daily-notes/01.15.2026.md",
-    "Other/Kingsmen Resignation Jan 16, 2026.md",
     "daily-notes/01.14.2026.md",
     "Extras/Templates/tiller/Template - Hiring Pain.md",
     "daily-notes/01.13.2026.md",
