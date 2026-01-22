@@ -48,22 +48,6 @@
             }
           },
           {
-            "id": "96b98efee90ec532",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/01.16.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01.16.2026"
-            }
-          },
-          {
             "id": "a58bf6a3dae3b428",
             "type": "leaf",
             "pinned": true,
@@ -96,22 +80,6 @@
             }
           },
           {
-            "id": "9ff43224aa51af26",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other/Kingsmen Resignation Jan 16, 2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Kingsmen Resignation Jan 16, 2026"
-            }
-          },
-          {
             "id": "4aa8ae97b0bcf1ab",
             "type": "leaf",
             "pinned": true,
@@ -126,9 +94,25 @@
               "icon": "lucide-file",
               "title": "01.21.2026"
             }
+          },
+          {
+            "id": "9ff43224aa51af26",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Kingsmen Resignation Jan 16, 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Kingsmen Resignation Jan 16, 2026"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -292,18 +276,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4aa8ae97b0bcf1ab",
+  "active": "9a445caa18cb0644",
   "lastOpenFiles": [
-    "Tiller Interviews/Tiller Outreach/Outreach Batches - Hiring Pain.md",
+    "daily-notes/01.20.2026.md",
+    "daily-notes/01.21.2026.md",
     "daily-notes/01.22.2026.md",
+    "daily-notes/01.19.2026.md",
+    "Start.md",
+    "daily-notes/01.16.2026.md",
+    "Tiller Interviews/Tiller Outreach/Outreach Batches - Hiring Pain.md",
     "Tiller Interviews/2026-1-15 - Tiller Interview - Hiring Pain -- Drew Robbins.md",
     "Tiller Interviews/2026-1-19 - Tiller Interview - Hiring Pain -- Michael Littman.md",
-    "daily-notes/01.21.2026.md",
-    "Start.md",
-    "daily-notes/01.20.2026.md",
-    "daily-notes/01.16.2026.md",
     "daily-notes/01.15.2026.md",
-    "daily-notes/01.19.2026.md",
     "Other/Kingsmen Resignation Jan 16, 2026.md",
     "daily-notes/01.14.2026.md",
     "Extras/Templates/tiller/Template - Hiring Pain.md",
