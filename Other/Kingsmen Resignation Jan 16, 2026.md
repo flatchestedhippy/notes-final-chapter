@@ -1,6 +1,12 @@
+
+Note:
+- I did not send this on that Friday Jan 16th, 2026
+- I did not send this on that Monday, Jan 19, 2026
+
+
 Hi Russell & Brandon,
 
-After a lot of thought, I’ve decided to step away from my role with the company. Please consider this my two weeks’ notice, with my last day being January 30th, 2026.
+After a lot of thought, I’ve decided to step away from my role with the company. Please consider this my two weeks’ notice, with my last day being February 6th, 2026.
 
 I want to thank you for the opportunity to work here over the past six plus years. I’ve appreciated the chance to lead teams, support different clients, and contribute to a wide range of projects. I’m grateful for the trust and opportunities I’ve been given during that time.
 
