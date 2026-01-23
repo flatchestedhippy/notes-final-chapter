@@ -9,22 +9,6 @@
         "dimension": 41.80952380952381,
         "children": [
           {
-            "id": "9a445caa18cb0644",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/01.22.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01.22.2026"
-            }
-          },
-          {
             "id": "9e7c510b51e4c92e",
             "type": "leaf",
             "pinned": true,
@@ -43,19 +27,21 @@
           {
             "id": "26ca4c6bf044847f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/12.11.2025.md",
+                "file": "daily-notes/01.23.2026.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "12.11.2025"
+              "title": "01.23.2026"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "6af37589e57fc3e6",
@@ -124,6 +110,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "01.21.2026"
+            }
+          },
+          {
+            "id": "9a445caa18cb0644",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/01.22.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "01.22.2026"
             }
           },
           {
@@ -307,11 +309,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9ff43224aa51af26",
+  "active": "26ca4c6bf044847f",
   "lastOpenFiles": [
-    "daily-notes/01.21.2026.md",
-    "Other/Kingsmen Resignation Jan 16, 2026.md",
+    "daily-notes/01.22.2026.md",
+    "daily-notes/01.23.2026.md",
+    "Tiller Interviews/Tiller Synthesis/Tiller Synthesis - Hiring Pain.md",
     "daily-notes/12.11.2025.md",
+    "Other/Kingsmen Resignation Jan 16, 2026.md",
+    "daily-notes/01.21.2026.md",
     "Start.md",
     "Tiller Interviews/2026-1-06 - Tiller Interview - Hiring Pain -- Mark Harris.md",
     "daily-notes/12.10.2025.md",
@@ -321,11 +326,9 @@
     "daily-notes/12.05.2025.md",
     "daily-notes/12.04.2025.md",
     "daily-notes/12.03.2025.md",
-    "Tiller Interviews/Tiller Synthesis/Tiller Synthesis - Hiring Pain.md",
     "Tiller Interviews/2026-1-15 - Tiller Interview - Hiring Pain -- Drew Robbins.md",
     "Tiller Interviews/2026-1-19 - Tiller Interview - Hiring Pain -- Michael Littman.md",
     "daily-notes/01.19.2026.md",
-    "daily-notes/01.22.2026.md",
     "Tiller Interviews/TILLER PRE-PREP.md",
     "Tiller Interviews/Tiller Synthesis",
     "daily-notes/01.20.2026.md",
@@ -335,7 +338,6 @@
     "daily-notes/01.14.2026.md",
     "Extras/Templates/tiller/Template - Hiring Pain.md",
     "daily-notes/01.13.2026.md",
-    "Tiller Interviews/2025-12-25 – Tiller Interview – Hiring Pain – ACME Corp.md",
     "Tiller Interviews/Tiller Outreach",
     "William",
     "Extras/Templates/tiller/parts/hiring-pain",
