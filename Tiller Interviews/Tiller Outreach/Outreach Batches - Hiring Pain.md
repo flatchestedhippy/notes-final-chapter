@@ -13,7 +13,7 @@
 | 1     | 2025-12-23 | 14       | LinkedIn | 2    | 2         | 2         | 1        | 1        | 2026-01-06     | Yes            | Mark & Drew came from this batch |
 | 2     | 2026-01-09 | 6        | LinkedIn | 0    | 0         | 0         | 0        | 0        | 2026-01-20     | Yes            |                                  |
 | 3     | 2026-01-14 | 8        | LinkedIn | 0    | 0         | 0         | 0        | 1        | 2026-01-21     | Yes            |                                  |
-| 4     | 2026-01-16 | 7        | LinkedIn | 0    | 0         | 1         | 0        | 0        |                | No             |                                  |
+| 4     | 2026-01-16 | 7        | LinkedIn | 0    | 0         | 1         | 0        | 0        |                | No             | Michael Littman                  |
 
 ## Individual Outreach
 
