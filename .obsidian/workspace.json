@@ -41,6 +41,18 @@
             }
           },
           {
+            "id": "22eb3668e2b57ad9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
             "id": "d0f6517e082dde17",
             "type": "leaf",
             "pinned": true,
@@ -57,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "6af37589e57fc3e6",
@@ -216,8 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488.5,
-    "collapsed": true
+    "width": 488.5
   },
   "right": {
     "id": "47c923d3d726f0e9",
@@ -324,7 +335,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "372f29e49b22ffc9",
+  "active": "22eb3668e2b57ad9",
   "lastOpenFiles": [
     "Tiller Interviews/Tiller Synthesis/Tiller Synthesis - Hiring Pain.md",
     "Tiller Interviews/Tiller Outreach/Outreach Batches - Hiring Pain.md",
