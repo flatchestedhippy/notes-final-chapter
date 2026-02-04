@@ -66,23 +66,23 @@ I’m not selling anything. I’m just trying to understand how people deal with
 Intro: 
 "Thanks again for doing this. Just to restate, I’m not selling anything — I’m trying to understand how interviewing actually shows up in people’s work lives so I can learn from real experience  — not in theory, but in practice. 
 
-I’m especially trying to understand where interviewing or the hiring process creates real friction for you — time, stress, coordination, anything like that.."
+** changed from template **
+I’m especially trying to understand where people decisions around hiring create real friction for you — time, mental load, coordination, or downstream impact.."
 
 1. "Can you tell me a bit about your role and whether interviewing candidates is part of it?"
 	1. 
 2. “What does your involvement usually look like — are you doing full interview loops, occasional panels, or more oversight?”
 	1. 
-3. “Would it be okay if I asked specifically about your experience with interviewing?”
+3. "When you think about interviewing candidates, does it tend to feel energizing for you, neutral, or draining?"
 	1. 
-4. "When you think about interviewing candidates, does it tend to feel energizing for you, neutral, or draining?"
-	1. 
-5. “Does it take anything away from you — time, focus, energy, or something else?”
+4. “Does it take anything away from you — time, focus, energy, momentum or something else?”
 	1. 
 
 
 If after Q4 and Q5 they show **no cost, no frustration, no impact**, you stop early. That’s a valid weak-signal outcome.
 
-6. "Can you walk me through the last time you went through an interview cycle?" (Context)
+*** changed
+6. "Can you walk me through the last time you had to make a meaningful hiring decision?" (Context)
 	1. 
 7.  “How often does this come up for you?” (Frequency)
 	1. 
