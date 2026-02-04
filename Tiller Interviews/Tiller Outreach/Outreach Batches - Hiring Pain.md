@@ -17,9 +17,10 @@
 
 ## Individual Outreach
 
-| Name            | Company     | Title         | Batch | Contacted  | Replied | Scheduled | Completed | Outcome Notes                                                       |
-| --------------- | ----------- | ------------- | ----- | ---------- | ------- | --------- | --------- | ------------------------------------------------------------------- |
-| Mark Harris     | West Monroe | Director      | 1     | 2025-12-23 | Yes     | Yes       | Yes       | Completed 1/13                                                      |
-| Drew Robbins    | Microsoft   | Exec          | 1     | 2025-12-23 | Yes     | Yes       | Yes       | Completed 1/15                                                      |
-| Michael Littman | Huckle      | Partner       | 4     | 2026-01-16 | Yes     | Yes       | Yes       | Completed 1/19                                                      |
-| John Wallace    | HomeTown    | Sr. Developer | 1     | 2025-12-23 | Yes     | Yes       |           | This was from the orig batch and he did not respond until 1/28/2026 |
+| Name            | Company     | Title         | Batch | Contacted  | Replied | Scheduled | Completed | Outcome Notes                                                                              |
+| --------------- | ----------- | ------------- | ----- | ---------- | ------- | --------- | --------- | ------------------------------------------------------------------------------------------ |
+| Mark Harris     | West Monroe | Director      | 1     | 2025-12-23 | Yes     | Yes       | Yes       | Completed 1/13                                                                             |
+| Drew Robbins    | Microsoft   | Exec          | 1     | 2025-12-23 | Yes     | Yes       | Yes       | Completed 1/15                                                                             |
+| Michael Littman | Huckle      | Partner       | 4     | 2026-01-16 | Yes     | Yes       | Yes       | Completed 1/19                                                                             |
+| John Wallace    | HomeTown    | Sr. Developer | 1     | 2025-12-23 | Yes     | Yes       | Yes       | This was from the orig batch and he did not respond until 1/28/2026.<br>Completed 2/4/2026 |
+|                 |             |               |       |            |         |           |           |                                                                                            |
