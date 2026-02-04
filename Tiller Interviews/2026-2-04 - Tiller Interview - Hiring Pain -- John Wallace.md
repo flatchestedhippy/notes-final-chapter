@@ -99,29 +99,44 @@ If after Q4 and Q5 they show **no cost, no frustration, no impact**, you stop ea
 	1. 
 9. “What’s the most frustrating part about it for you?” (Emotional Heat)
 	1. finding candidates is expensive and hard
+	2. if did get candidates, going through correspondence worth hiring
+	3. up front work most challenging
 10. “What have you tried so far to deal with this?”  (Existing Solutions)
-	1. 
+	1. avoid paying hefty fee
+	2. business partner doing a lot of web scraping
+	3. talking to network
+	4. recruiters last choice
     Follow-ups:
 	- “Why didn’t that fully solve it?”
 	- “What do you still dislike about it?”
 11. “Compared to everything else you’re dealing with, where does this rank?” (Priority Check)
-	1. 
+	1. low
+	2. a lot of other things to do
 12. “If this were magically solved, what would be different for you?” (Ideal Outcome - no pitching) 
-	1. 
+	1. sourcing is the problem
+	2. adequately find qualified people
     
 ---
 ### Goal
 Fill out during/after but ensure all answered.
 - Is the pain real?
+	- yes
 - How often does it occur?
+	- often
 - How emotionally heavy is it?
+	- medium
 - Have they tried to solve it already?
+	- yes
 - Would solving it meaningfully improve their life or work?
+	- yes
 
 ### Immediate Takeaways (5 minutes max)
 - Strong signals:
+	- 
 - Weak signals:
+	- doesnt interview currently, in IC role
 - Exact phrases worth remembering:
+	- LLMs would just do the test today
 - Surprises:
 
 ---
