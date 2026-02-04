@@ -70,26 +70,35 @@ Intro:
 I’m especially trying to understand where people decisions around hiring create real friction for you — time, mental load, coordination, or downstream impact.."
 
 1. "Can you tell me a bit about your role and whether interviewing candidates is part of it?"
-	1. 
+	1. current role not much, past roles lots of interviewing - currently IC
 2. “What does your involvement usually look like — are you doing full interview loops, occasional panels, or more oversight?”
-	1. 
+	1. number of small business, have hired 100's of people
+	2. interviewing and supervisor
 3. "When you think about interviewing candidates, does it tend to feel energizing for you, neutral, or draining?"
-	1. 
+	1. enjoy cause like meeting people
+	2. inconvenience - often times either growing - stress working on 10 things at once
+		1. or replacing someone
 4. “Does it take anything away from you — time, focus, energy, momentum or something else?”
-	1. 
+	1. yes  - takes time
+	2. is this person going to match and how to test for that
 
 
 If after Q4 and Q5 they show **no cost, no frustration, no impact**, you stop early. That’s a valid weak-signal outcome.
 
 *** changed
 6. "Can you walk me through the last time you had to make a meaningful hiring decision?" (Context)
-	1. 
+	1. around crucial people on engineering team
+	2. typically like to put people in where acting in same way as in job - often time 3 phase meet
+		1. initial,  flags on resume
+		2. programming assignment - 2hrs or so
+		3. go through what they did, ask questions on decisions made
+		4. now llms just answer
 7.  “How often does this come up for you?” (Frequency)
-	1. 
+	1. different years were different, prob hired 50 people
 8. “What happens if this doesn’t get handled well?” (Consequences)
 	1. 
 9. “What’s the most frustrating part about it for you?” (Emotional Heat)
-	1. 
+	1. finding candidates is expensive and hard
 10. “What have you tried so far to deal with this?”  (Existing Solutions)
 	1. 
     Follow-ups:

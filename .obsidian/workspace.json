@@ -6,7 +6,7 @@
       {
         "id": "a937ab42125a6058",
         "type": "tabs",
-        "dimension": 41.80952380952381,
+        "dimension": 89.14223669923996,
         "children": [
           {
             "id": "9e7c510b51e4c92e",
@@ -62,7 +62,7 @@
       {
         "id": "6af37589e57fc3e6",
         "type": "tabs",
-        "dimension": 58.19047619047619,
+        "dimension": 10.857763300760045,
         "children": [
           {
             "id": "ab5effeb47ed2780",
@@ -201,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488.5
+    "width": 488.5,
+    "collapsed": true
   },
   "right": {
     "id": "47c923d3d726f0e9",
@@ -308,8 +309,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c7b044b63c8a36a2",
+  "active": "d0f6517e082dde17",
   "lastOpenFiles": [
+    "Tiller Interviews/2025-12-25 – Tiller Interview – Hiring Pain – ACME Corp.md",
     "Tiller Interviews/2026-2-04 - Tiller Interview - Hiring Pain -- John Wallace.md",
     "daily-notes/02.04.2026.md",
     "Start.md",
@@ -336,7 +338,6 @@
     "Tiller Interviews/TILLER PRE-PREP.md",
     "Tiller Interviews/Tiller Synthesis",
     "daily-notes/01.16.2026.md",
-    "daily-notes/01.15.2026.md",
     "Tiller Interviews/Tiller Outreach",
     "William",
     "Extras/Templates/tiller/parts/hiring-pain",
