@@ -53,18 +53,6 @@
             }
           },
           {
-            "id": "eae9d7bb1bd9f2b4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
-          },
-          {
             "id": "d0f6517e082dde17",
             "type": "leaf",
             "pinned": true,
@@ -347,7 +335,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "eae9d7bb1bd9f2b4",
+  "active": "d0f6517e082dde17",
   "lastOpenFiles": [
     "Tiller Interviews/Tiller Synthesis/Tiller Synthesis - Hiring Pain.md",
     "Tiller Interviews/Tiller Outreach/Outreach Batches - Hiring Pain.md",
