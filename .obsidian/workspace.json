@@ -6,52 +6,8 @@
       {
         "id": "a937ab42125a6058",
         "type": "tabs",
-        "dimension": 57.9954954954955,
+        "dimension": 42.96922148461074,
         "children": [
-          {
-            "id": "9e7c510b51e4c92e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tiller Interviews/Tiller Synthesis/Tiller Synthesis - Hiring Pain.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Tiller Synthesis - Hiring Pain"
-            }
-          },
-          {
-            "id": "372f29e49b22ffc9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/02.04.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02.04.2026"
-            }
-          },
-          {
-            "id": "22eb3668e2b57ad9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
-          },
           {
             "id": "b2f8e90954428399",
             "type": "leaf",
@@ -68,13 +24,12 @@
               "title": "02.25.2026"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "6af37589e57fc3e6",
         "type": "tabs",
-        "dimension": 42.0045045045045,
+        "dimension": 57.03077851538926,
         "children": [
           {
             "id": "ab5effeb47ed2780",
@@ -155,9 +110,25 @@
               "icon": "lucide-file",
               "title": "01.23.2026"
             }
+          },
+          {
+            "id": "372f29e49b22ffc9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/02.04.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "02.04.2026"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -321,20 +292,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "26ca4c6bf044847f",
+  "active": "b2f8e90954428399",
   "lastOpenFiles": [
+    "daily-notes/02.04.2026.md",
+    "Start.md",
     "daily-notes/02.25.2026.md",
+    "Tiller Interviews/Tiller Synthesis/Tiller Synthesis - Hiring Pain.md",
+    "daily-notes/01.23.2026.md",
     "William/1.5.2026 - Letter to my son William.md",
     "Tiller Interviews/2026-2-04 - Tiller Interview - Hiring Pain -- John Wallace.md",
-    "Tiller Interviews/Tiller Synthesis/Tiller Synthesis - Hiring Pain.md",
     "Tiller Interviews/Tiller Outreach/Outreach Batches - Hiring Pain.md",
-    "Start.md",
     "Tiller Interviews/2025-12-25 – Tiller Interview – Hiring Pain – ACME Corp.md",
-    "daily-notes/02.04.2026.md",
     "daily-notes/01.20.2026.md",
     "daily-notes/01.21.2026.md",
     "daily-notes/01.22.2026.md",
-    "daily-notes/01.23.2026.md",
     "Tiller Interviews/2026-1-19 - Tiller Interview - Hiring Pain -- Michael Littman.md",
     "daily-notes/01.05.2026.md",
     "Other/Kingsmen Resignation Jan 16, 2026.md",
