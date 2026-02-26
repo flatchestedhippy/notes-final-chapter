@@ -184,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "47c923d3d726f0e9",
@@ -294,8 +293,9 @@
   },
   "active": "b2f8e90954428399",
   "lastOpenFiles": [
-    "Start.md",
+    "Untitled.md",
     "daily-notes/02.25.2026.md",
+    "Start.md",
     "daily-notes/02.04.2026.md",
     "Tiller Interviews/Tiller Synthesis/Tiller Synthesis - Hiring Pain.md",
     "daily-notes/01.23.2026.md",
@@ -319,7 +319,6 @@
     "daily-notes/12.05.2025.md",
     "daily-notes/12.04.2025.md",
     "daily-notes/12.03.2025.md",
-    "Tiller Interviews/2026-1-15 - Tiller Interview - Hiring Pain -- Drew Robbins.md",
     "Tiller Interviews/Tiller Synthesis",
     "Tiller Interviews/Tiller Outreach",
     "William",
