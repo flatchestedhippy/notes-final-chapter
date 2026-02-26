@@ -127,8 +127,7 @@
               "title": "02.04.2026"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "47c923d3d726f0e9",
@@ -294,9 +294,9 @@
   },
   "active": "b2f8e90954428399",
   "lastOpenFiles": [
-    "daily-notes/02.04.2026.md",
     "Start.md",
     "daily-notes/02.25.2026.md",
+    "daily-notes/02.04.2026.md",
     "Tiller Interviews/Tiller Synthesis/Tiller Synthesis - Hiring Pain.md",
     "daily-notes/01.23.2026.md",
     "William/1.5.2026 - Letter to my son William.md",
