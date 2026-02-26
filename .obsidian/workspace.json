@@ -53,22 +53,6 @@
             }
           },
           {
-            "id": "d0f6517e082dde17",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tiller Interviews/2026-2-04 - Tiller Interview - Hiring Pain -- John Wallace.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-2-04 - Tiller Interview - Hiring Pain -- John Wallace"
-            }
-          },
-          {
             "id": "b2f8e90954428399",
             "type": "leaf",
             "pinned": true,
@@ -85,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "6af37589e57fc3e6",
@@ -337,10 +321,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b2f8e90954428399",
+  "active": "26ca4c6bf044847f",
   "lastOpenFiles": [
-    "Tiller Interviews/2026-2-04 - Tiller Interview - Hiring Pain -- John Wallace.md",
     "daily-notes/02.25.2026.md",
+    "William/1.5.2026 - Letter to my son William.md",
+    "Tiller Interviews/2026-2-04 - Tiller Interview - Hiring Pain -- John Wallace.md",
     "Tiller Interviews/Tiller Synthesis/Tiller Synthesis - Hiring Pain.md",
     "Tiller Interviews/Tiller Outreach/Outreach Batches - Hiring Pain.md",
     "Start.md",
@@ -364,7 +349,6 @@
     "daily-notes/12.04.2025.md",
     "daily-notes/12.03.2025.md",
     "Tiller Interviews/2026-1-15 - Tiller Interview - Hiring Pain -- Drew Robbins.md",
-    "Tiller Interviews/TILLER PRE-PREP.md",
     "Tiller Interviews/Tiller Synthesis",
     "Tiller Interviews/Tiller Outreach",
     "William",
