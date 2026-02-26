@@ -48,86 +48,21 @@
             }
           },
           {
-            "id": "3d31836c7b8427b9",
+            "id": "d8ae84ecc7854a18",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/01.20.2026.md",
+                "file": "TODO - Still.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "01.20.2026"
-            }
-          },
-          {
-            "id": "4aa8ae97b0bcf1ab",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/01.21.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01.21.2026"
-            }
-          },
-          {
-            "id": "9a445caa18cb0644",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/01.22.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01.22.2026"
-            }
-          },
-          {
-            "id": "26ca4c6bf044847f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/01.23.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01.23.2026"
-            }
-          },
-          {
-            "id": "372f29e49b22ffc9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/02.04.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02.04.2026"
+              "title": "TODO - Still"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -291,21 +226,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b2f8e90954428399",
+  "active": "d8ae84ecc7854a18",
   "lastOpenFiles": [
-    "Untitled.md",
-    "daily-notes/02.25.2026.md",
     "Start.md",
-    "daily-notes/02.04.2026.md",
-    "Tiller Interviews/Tiller Synthesis/Tiller Synthesis - Hiring Pain.md",
+    "daily-notes/01.20.2026.md",
+    "daily-notes/01.21.2026.md",
+    "daily-notes/01.22.2026.md",
     "daily-notes/01.23.2026.md",
+    "daily-notes/02.04.2026.md",
+    "daily-notes/02.26.2026.md",
+    "daily-notes/02.25.2026.md",
+    "TODO - Still.md",
+    "Tiller Interviews/Tiller Synthesis/Tiller Synthesis - Hiring Pain.md",
     "William/1.5.2026 - Letter to my son William.md",
     "Tiller Interviews/2026-2-04 - Tiller Interview - Hiring Pain -- John Wallace.md",
     "Tiller Interviews/Tiller Outreach/Outreach Batches - Hiring Pain.md",
     "Tiller Interviews/2025-12-25 – Tiller Interview – Hiring Pain – ACME Corp.md",
-    "daily-notes/01.20.2026.md",
-    "daily-notes/01.21.2026.md",
-    "daily-notes/01.22.2026.md",
     "Tiller Interviews/2026-1-19 - Tiller Interview - Hiring Pain -- Michael Littman.md",
     "daily-notes/01.05.2026.md",
     "Other/Kingsmen Resignation Jan 16, 2026.md",
@@ -318,7 +254,6 @@
     "daily-notes/12.08.2025.md",
     "daily-notes/12.05.2025.md",
     "daily-notes/12.04.2025.md",
-    "daily-notes/12.03.2025.md",
     "Tiller Interviews/Tiller Synthesis",
     "Tiller Interviews/Tiller Outreach",
     "William",
