@@ -23,8 +23,25 @@
               "icon": "lucide-file",
               "title": "03.02.2026"
             }
+          },
+          {
+            "id": "c3424924f609e543",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/03.04.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "03.04.2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6af37589e57fc3e6",
@@ -211,10 +228,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "429c5433be77a69d",
+  "active": "c3424924f609e543",
   "lastOpenFiles": [
-    "TODO - Still.md",
     "daily-notes/03.02.2026.md",
+    "daily-notes/03.04.2026.md",
+    "TODO - Still.md",
     "daily-notes/02.25.2026.md",
     "daily-notes/02.26.2026.md",
     "Start.md",
@@ -238,7 +256,6 @@
     "daily-notes/12.12.2025.md",
     "daily-notes/12.09.2025.md",
     "daily-notes/12.08.2025.md",
-    "daily-notes/12.05.2025.md",
     "Tiller Interviews/Tiller Synthesis",
     "Tiller Interviews/Tiller Outreach",
     "William",
