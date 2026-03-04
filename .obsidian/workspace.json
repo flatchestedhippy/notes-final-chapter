@@ -43,19 +43,37 @@
           {
             "id": "110d8d66a84c7760",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Agents.md",
+                "file": "AI/Brain Dump.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Agents"
+              "title": "Brain Dump"
+            }
+          },
+          {
+            "id": "5db318e247ecce8b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Plan & Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Plan & Notes"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "6af37589e57fc3e6",
@@ -242,10 +260,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c7b044b63c8a36a2",
+  "active": "5db318e247ecce8b",
   "lastOpenFiles": [
-    "AI/Runbook.md",
+    "AI/Brain Dump.md",
+    "AI/Plan & Notes.md",
     "AI/Agents.md",
+    "AI/Runbook.md",
     "AI/OpenClaw/Prompts.md",
     "AI/OpenClaw",
     "daily-notes/03.04.2026.md",
@@ -270,8 +290,6 @@
     "Other/Kingsmen Resignation Jan 16, 2026.md",
     "daily-notes/01.19.2026.md",
     "daily-notes/12.11.2025.md",
-    "Tiller Interviews/2026-1-06 - Tiller Interview - Hiring Pain -- Mark Harris.md",
-    "daily-notes/12.10.2025.md",
     "Tiller Interviews/Tiller Synthesis",
     "Tiller Interviews/Tiller Outreach",
     "William",
