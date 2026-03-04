@@ -41,22 +41,6 @@
             }
           },
           {
-            "id": "110d8d66a84c7760",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Brain Dump.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Brain Dump"
-            }
-          },
-          {
             "id": "5db318e247ecce8b",
             "type": "leaf",
             "pinned": true,
@@ -70,6 +54,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Plan & Notes"
+            }
+          },
+          {
+            "id": "110d8d66a84c7760",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Brain Dump.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Brain Dump"
             }
           }
         ],
@@ -260,10 +260,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5db318e247ecce8b",
+  "active": "110d8d66a84c7760",
   "lastOpenFiles": [
-    "AI/Brain Dump.md",
     "AI/Plan & Notes.md",
+    "AI/Brain Dump.md",
     "AI/Agents.md",
     "AI/Runbook.md",
     "AI/OpenClaw/Prompts.md",
