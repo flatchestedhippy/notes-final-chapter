@@ -6,7 +6,7 @@
       {
         "id": "a937ab42125a6058",
         "type": "tabs",
-        "dimension": 42.96922148461074,
+        "dimension": 69.39477303988996,
         "children": [
           {
             "id": "429c5433be77a69d",
@@ -46,12 +46,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Runbook.md",
+                "file": "LLM/OpenClaw/Prompts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Runbook"
+              "title": "Prompts"
             }
           }
         ],
@@ -60,7 +60,7 @@
       {
         "id": "6af37589e57fc3e6",
         "type": "tabs",
-        "dimension": 57.03077851538926,
+        "dimension": 30.605226960110045,
         "children": [
           {
             "id": "3837a0530c2ed61d",
@@ -244,8 +244,10 @@
   },
   "active": "110d8d66a84c7760",
   "lastOpenFiles": [
-    "daily-notes/03.04.2026.md",
     "LLM/Runbook.md",
+    "LLM/OpenClaw/Prompts.md",
+    "LLM/OpenClaw",
+    "daily-notes/03.04.2026.md",
     "LLM",
     "daily-notes/03.02.2026.md",
     "TODO - Still.md",
@@ -270,7 +272,6 @@
     "Tiller Interviews/2026-1-06 - Tiller Interview - Hiring Pain -- Mark Harris.md",
     "daily-notes/12.10.2025.md",
     "daily-notes/12.12.2025.md",
-    "daily-notes/12.09.2025.md",
     "Tiller Interviews/Tiller Synthesis",
     "Tiller Interviews/Tiller Outreach",
     "William",
@@ -279,7 +280,6 @@
     "Tiller Interviews",
     "Extras/Templates/tiller/parts",
     "Extras/Templates/tiller",
-    "Customer Interviews",
     "Extras/Attachments/Pasted image 20251204061105.png"
   ]
 }
