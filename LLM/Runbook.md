@@ -1,4 +1,6 @@
 
+## Ollama Runners
+
 3060 GPU (on proxmox)
 
 ```bash
@@ -21,4 +23,10 @@ curl http://192.168.1.34:11434/api/generate \
     "prompt": "Say hello",
     "stream": false
   }'
+```
+
+## OpenClaw
+view log
+```bash
+reset && tail -f /tmp/openclaw/openclaw-*.log
 ```
