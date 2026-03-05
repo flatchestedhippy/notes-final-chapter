@@ -54,3 +54,35 @@ Make sure to:
    web page, it should use agent-browser
 ```
 
+## Mission Control
+```markdown
+Programming task. Follow ROUTER.md exactly (Sarah spec → Johnny implement → Sarah verify → Jess notify → final response).
+
+Goal: Create “Mission Control” running locally on the OpenClaw machine.
+
+Hard constraints:
+- Johnny must create the project under: ~/openclaw-sandbox/mission-control
+- Use Next.js (App Router) + TypeScript.
+- Port: 3010 (do not use 3000).
+- Deliverable must be runnable immediately after creation.
+
+UI requirements (MVP):
+- Home page at / with title “Mission Control”
+- 3 cards: Tools, Agents, Jobs
+- Each card links to /tools, /agents, /jobs
+- /tools page: list placeholder “No tools yet”
+- /agents page: list placeholder for Jess/Sarah/Johnny
+- /jobs page: list placeholder “No jobs yet”
+- Simple clean styling (basic CSS or Tailwind if you want, but keep it minimal).
+
+Pipeline requirements:
+1) Sarah: produce a spec + acceptance criteria checklist.
+2) Johnny: implement, install deps, start dev server in background, write server.pid and server.log in the project root.
+   - Must prove it’s up with: curl -s http://127.0.0.1:3010/ | head
+3) Sarah: verify by running commands (ls, cat server.pid, curl) and return PASS/FAIL with evidence.
+4) Jess: send a Telegraph message “✅ Mission Control MVP complete” including PATH and URL.
+5) Jess: final reply to me must be ONLY:
+   PATH=<absolute path>
+   URL=http://127.0.0.1:3010/
+No other text.
+```
