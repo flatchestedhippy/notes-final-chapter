@@ -1,6 +1,8 @@
 
 ## Interests
-
+- Video Games
+- Software Development
+- AI
 
 ## Career
 - I have been a developer & entrepreneur for most of my life.
@@ -63,12 +65,25 @@ Dublin, OH
 
 
 ## My Goals
+- I need to make 1k per day within 12 months.
+- I wrote a book that I would like to finalize and publish.
+- I don't want to work more than 4 hours per day.
 
+### Why (short)
+I want freedom from financial stress so I can be fully present for my son, never needing permission to show up for him.
 
-## My Ambitions
+### Why (long)
+I want to live a life free of the stress of worrying about money so that I can focus on my son and my own well-being.
 
+I want to build a better foundation for my son so that he has a better chance of being successful as he grows up.
+
+I want to be present with him and with everything I do.
+
+I don't want to ask for permission to go see a play at school or anything else that is 'during office hours'
+
+### Purpose
+To build a life of freedom, presence and love so that my son can thrive while I'm here and continue to be supported with security and wisdom long after I'm gone.
 
 ## Personal
 - I am a 52 year old single Father of a 7 year old boy.
 - I quit my job 2/13/2026 as Director of Engineering from Kingsmen Digital Ventures.
-- 

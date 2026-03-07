@@ -57,23 +57,21 @@
             }
           },
           {
-            "id": "110d8d66a84c7760",
+            "id": "78173955274486e8",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Brain Dump.md",
+                "file": "daily-notes/01.23.2026.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Brain Dump"
+              "title": "01.23.2026"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "6af37589e57fc3e6",
@@ -99,15 +97,17 @@
           {
             "id": "44b5c9bf300e0428",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/OpenClaw/Prompts.md",
+                "file": "AI/Brain Dump.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Prompts"
+              "title": "Brain Dump"
             }
           }
         ],
@@ -277,17 +277,19 @@
   },
   "active": "44b5c9bf300e0428",
   "lastOpenFiles": [
+    "daily-notes/01.23.2026.md",
+    "daily-notes/12.11.2025.md",
+    "AI/Brain Dump.md",
+    "daily-notes/03.02.2026.md",
+    "daily-notes/03.04.2026.md",
     "AI/Plan & Notes.md",
+    "TODO - Still.md",
     "AI/OpenClaw/Prompts.md",
     "AI/Runbook.md",
     "AI/Untitled.md",
     "AI/Agents.md",
-    "TODO - Still.md",
-    "AI/Brain Dump.md",
     "AI/OpenClaw",
-    "daily-notes/03.04.2026.md",
     "AI",
-    "daily-notes/03.02.2026.md",
     "daily-notes/02.25.2026.md",
     "daily-notes/02.26.2026.md",
     "Start.md",
@@ -295,7 +297,6 @@
     "daily-notes/01.20.2026.md",
     "daily-notes/01.21.2026.md",
     "daily-notes/01.22.2026.md",
-    "daily-notes/01.23.2026.md",
     "daily-notes/02.04.2026.md",
     "Tiller Interviews/Tiller Synthesis/Tiller Synthesis - Hiring Pain.md",
     "William/1.5.2026 - Letter to my son William.md",
@@ -304,7 +305,6 @@
     "Tiller Interviews/2025-12-25 – Tiller Interview – Hiring Pain – ACME Corp.md",
     "Tiller Interviews/2026-1-19 - Tiller Interview - Hiring Pain -- Michael Littman.md",
     "Other/Kingsmen Resignation Jan 16, 2026.md",
-    "daily-notes/01.19.2026.md",
     "Tiller Interviews/Tiller Synthesis",
     "Tiller Interviews/Tiller Outreach",
     "William",
