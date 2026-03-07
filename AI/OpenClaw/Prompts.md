@@ -1,4 +1,19 @@
+### Simple Test / Validation
+```markdown
+Create a folder called MOMMY_MIA
+In that folder create a readme.txt with the contents:
+Hello, you are reading me.
+Verify the file exists, then report back with the file path.
+```
 
+
+### Coder Agent Setup
+```markdown
+Create a new Agent called coder.  He should be a software developer.  Give him the proper tools and model so that he can write software. Report back when complete including what you set up for him.
+```
+
+
+These were fed into OpenAi Codex
 ### Agent Mail
 https://x.com/_sean_matthew/status/2028902126005653889
 ```markdown
