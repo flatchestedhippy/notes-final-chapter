@@ -1,3 +1,11 @@
+
+
+### Initial Setup
+```markdown
+Implement and verify everything on this page: https://docs.openclaw.ai/gateway/security. One exception, leave allowinsecureauth set to true.
+
+```
+
 ### Simple Test / Validation
 ```markdown
 Create a folder called MOMMY_MIA
