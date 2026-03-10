@@ -46,8 +46,23 @@
               "icon": "lucide-file",
               "title": "All TODO"
             }
+          },
+          {
+            "id": "e0ba73507630070b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extras/sortspec.md.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "sortspec.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,14 +223,16 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "78173955274486e8",
+  "active": "e0ba73507630070b",
   "lastOpenFiles": [
     "daily-notes/03.10.2026.md",
-    "Extras/Templates/Template -- Daily Note.md",
+    "Extras/sortspec.md.md",
     "Other/All TODO.md",
+    "Extras/Templates/Template -- Daily Note.md",
     "daily-notes/03.02.2026.md",
     "daily-notes/03.04.2026.md",
     "AI/OpenClaw/Brain Dump.md",
@@ -240,7 +257,6 @@
     "Tiller Interviews/Tiller Synthesis/Tiller Synthesis - Hiring Pain.md",
     "William/1.5.2026 - Letter to my son William.md",
     "Tiller Interviews/2026-2-04 - Tiller Interview - Hiring Pain -- John Wallace.md",
-    "Tiller Interviews/Tiller Outreach/Outreach Batches - Hiring Pain.md",
     "Tiller Interviews/Tiller Synthesis",
     "Tiller Interviews/Tiller Outreach",
     "William",
