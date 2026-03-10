@@ -57,17 +57,17 @@
             }
           },
           {
-            "id": "78173955274486e8",
+            "id": "1da019d493fd25a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/OpenClaw/Prompts.md",
+                "file": "Extras/Templates/Template -- Daily Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompts"
+              "title": "Template -- Daily Note"
             }
           }
         ],
@@ -79,19 +79,19 @@
         "dimension": 57.29023383768913,
         "children": [
           {
-            "id": "3837a0530c2ed61d",
+            "id": "78173955274486e8",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO - Still.md",
+                "file": "Other/All TODO.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "TODO - Still"
+              "title": "All TODO"
             }
           },
           {
@@ -109,9 +109,36 @@
               "icon": "lucide-file",
               "title": "Brain Dump"
             }
+          },
+          {
+            "id": "31a6fc2224c53242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/02.25.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02.25.2026"
+            }
+          },
+          {
+            "id": "a6de0486c22e96f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/02.25.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02.25.2026"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,10 +302,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "44b5c9bf300e0428",
+  "active": "78173955274486e8",
   "lastOpenFiles": [
-    "AI/OpenClaw/Prompts.md",
+    "Extras/Templates/Template -- Daily Note.md",
+    "AI/Plan & Notes.md",
+    "Other/All TODO.md",
+    "daily-notes/02.25.2026.md",
     "AI/OpenClaw/Brain Dump.md",
+    "TODO - Still.md",
+    "Start.md",
+    "AI/OpenClaw/Prompts.md",
     "AI/OpenClaw/Agents.md",
     "AI/Runbook.md",
     "AI/Untitled.md",
@@ -286,13 +319,9 @@
     "daily-notes/12.11.2025.md",
     "daily-notes/03.02.2026.md",
     "daily-notes/03.04.2026.md",
-    "AI/Plan & Notes.md",
-    "TODO - Still.md",
     "AI/OpenClaw",
     "AI",
-    "daily-notes/02.25.2026.md",
     "daily-notes/02.26.2026.md",
-    "Start.md",
     "daily-notes/01.05.2026.md",
     "daily-notes/01.20.2026.md",
     "daily-notes/01.21.2026.md",
@@ -303,8 +332,6 @@
     "Tiller Interviews/2026-2-04 - Tiller Interview - Hiring Pain -- John Wallace.md",
     "Tiller Interviews/Tiller Outreach/Outreach Batches - Hiring Pain.md",
     "Tiller Interviews/2025-12-25 – Tiller Interview – Hiring Pain – ACME Corp.md",
-    "Tiller Interviews/2026-1-19 - Tiller Interview - Hiring Pain -- Michael Littman.md",
-    "Other/Kingsmen Resignation Jan 16, 2026.md",
     "Tiller Interviews/Tiller Synthesis",
     "Tiller Interviews/Tiller Outreach",
     "William",
