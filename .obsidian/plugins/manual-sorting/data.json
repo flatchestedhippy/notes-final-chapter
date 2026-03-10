@@ -1,0 +1,166 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "Extras",
+        "daily-notes",
+        "Other",
+        "AI",
+        "TODO - Still.md",
+        "Tiller Interviews",
+        "William",
+        "Start.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Extras": {
+      "children": [
+        "Extras/sortspec.md.md",
+        "Extras/Templates",
+        "Extras/Attachments"
+      ],
+      "sortOrder": "custom"
+    },
+    "Extras/Templates": {
+      "children": [
+        "Extras/Templates/Template -- Daily Note.md",
+        "Extras/Templates/tiller"
+      ],
+      "sortOrder": "custom"
+    },
+    "Extras/Templates/tiller": {
+      "children": [
+        "Extras/Templates/tiller/readme - creating new specific tiller templates.md",
+        "Extras/Templates/tiller/Template - Hiring Pain.md",
+        "Extras/Templates/tiller/Template - schedule interview.md",
+        "Extras/Templates/tiller/parts"
+      ],
+      "sortOrder": "custom"
+    },
+    "Extras/Templates/tiller/parts": {
+      "children": [
+        "Extras/Templates/tiller/parts/general",
+        "Extras/Templates/tiller/parts/hiring-pain"
+      ],
+      "sortOrder": "custom"
+    },
+    "Extras/Templates/tiller/parts/general": {
+      "children": [
+        "Extras/Templates/tiller/parts/general/template-part-meta.md",
+        "Extras/Templates/tiller/parts/general/template-part-tiller Interview.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Extras/Templates/tiller/parts/hiring-pain": {
+      "children": [
+        "Extras/Templates/tiller/parts/hiring-pain/template-part-pain-hiring.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Extras/Attachments": {
+      "children": [
+        "Extras/Attachments/Pasted image 20251204061105.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "daily-notes": {
+      "children": [
+        "daily-notes/03.10.2026.md",
+        "daily-notes/03.04.2026.md",
+        "daily-notes/03.02.2026.md",
+        "daily-notes/02.25.2026.md",
+        "daily-notes/02.26.2026.md",
+        "daily-notes/02.04.2026.md",
+        "daily-notes/01.05.2026.md",
+        "daily-notes/01.06.2026.md",
+        "daily-notes/01.07.2026.md",
+        "daily-notes/01.08.2026.md",
+        "daily-notes/01.09.2026.md",
+        "daily-notes/01.12.2026.md",
+        "daily-notes/01.13.2026.md",
+        "daily-notes/01.14.2026.md",
+        "daily-notes/01.15.2026.md",
+        "daily-notes/01.16.2026.md",
+        "daily-notes/01.19.2026.md",
+        "daily-notes/01.20.2026.md",
+        "daily-notes/01.21.2026.md",
+        "daily-notes/01.22.2026.md",
+        "daily-notes/01.23.2026.md",
+        "daily-notes/12.03.2025.md",
+        "daily-notes/12.04.2025.md",
+        "daily-notes/12.05.2025.md",
+        "daily-notes/12.08.2025.md",
+        "daily-notes/12.09.2025.md",
+        "daily-notes/12.10.2025.md",
+        "daily-notes/12.11.2025.md",
+        "daily-notes/12.15.2025.md",
+        "daily-notes/12.16.2025.md",
+        "daily-notes/12.17.2025.md",
+        "daily-notes/12.18.2025.md",
+        "daily-notes/12.19.2025.md",
+        "daily-notes/12.22.2025.md",
+        "daily-notes/12.23.2025.md",
+        "daily-notes/12.12.2025.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Other": {
+      "children": [
+        "Other/All TODO.md",
+        "Other/Hexaco.org - A MEASURE OF THE SIX MAJOR DIMENSIONS OF PERSONALITY.md",
+        "Other/Kingsmen Resignation Jan 16, 2026.md",
+        "Other/Pain Sources.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "AI": {
+      "children": [
+        "AI/OpenClaw",
+        "AI/Plan & Notes.md",
+        "AI/Runbook.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "AI/OpenClaw": {
+      "children": [
+        "AI/OpenClaw/Prompts.md",
+        "AI/OpenClaw/Brain Dump.md",
+        "AI/OpenClaw/Agents.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Tiller Interviews": {
+      "children": [
+        "Tiller Interviews/2026-1-15 - Tiller Interview - Hiring Pain -- Drew Robbins.md",
+        "Tiller Interviews/2026-1-19 - Tiller Interview - Hiring Pain -- Michael Littman.md",
+        "Tiller Interviews/2026-2-04 - Tiller Interview - Hiring Pain -- John Wallace.md",
+        "Tiller Interviews/Tiller Outreach",
+        "Tiller Interviews/TILLER PRE-PREP.md",
+        "Tiller Interviews/Tiller Synthesis",
+        "Tiller Interviews/2026-1-06 - Tiller Interview - Hiring Pain -- Mark Harris.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Tiller Interviews/Tiller Outreach": {
+      "children": [
+        "Tiller Interviews/Tiller Outreach/Outreach Batches - Hiring Pain.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Tiller Interviews/Tiller Synthesis": {
+      "children": [
+        "Tiller Interviews/Tiller Synthesis/Tiller Synthesis - Hiring Pain.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "William": {
+      "children": [
+        "William/1.5.2026 - Letter to my son William.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}
