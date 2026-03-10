@@ -123,6 +123,7 @@
     },
     "AI/OpenClaw": {
       "children": [
+        "AI/OpenClaw/Setup & Confirmation.md",
         "AI/OpenClaw/Prompts.md",
         "AI/OpenClaw/Brain Dump.md",
         "AI/OpenClaw/Agents.md"

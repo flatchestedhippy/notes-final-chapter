@@ -1,0 +1,4 @@
+- [ ] All files created at ~/openclaw-workspace
+- [ ] Can create simple folders / files
+- [ ] Can schedule a task
+- [ ] Can delegate work to other agents

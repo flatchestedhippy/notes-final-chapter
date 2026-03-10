@@ -23,8 +23,25 @@
               "icon": "lucide-file",
               "title": "03.10.2026"
             }
+          },
+          {
+            "id": "d4f36dbf48c4eae2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/OpenClaw/Setup & Confirmation.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Setup & Confirmation"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6af37589e57fc3e6",
@@ -229,10 +246,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "31d0b3fac12d57d6",
+  "active": "d4f36dbf48c4eae2",
   "lastOpenFiles": [
-    "Other/All TODO.md",
     "daily-notes/03.10.2026.md",
+    "AI/OpenClaw/Setup & Confirmation.md",
+    "Other/All TODO.md",
     "Start.md",
     "daily-notes/03.02.2026.md",
     "daily-notes/03.04.2026.md",
@@ -258,7 +276,6 @@
     "daily-notes/01.21.2026.md",
     "daily-notes/01.22.2026.md",
     "daily-notes/02.04.2026.md",
-    "Tiller Interviews/Tiller Synthesis/Tiller Synthesis - Hiring Pain.md",
     "Tiller Interviews/Tiller Synthesis",
     "Tiller Interviews/Tiller Outreach",
     "William",
