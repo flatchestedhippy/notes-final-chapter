@@ -9,19 +9,21 @@ WHERE !completed AND !contains(meta(section).subpath, "Current Routine")
 	- [x] Fidelity ✅ 2026-03-11
 	- [x] Sofi ✅ 2026-03-11
 	- [x] Ally ✅ 2026-03-11
-	- [ ] Prosper
-		- [ ] Crypto
-			- [x] Kraken ✅ 2026-03-11
-			- [ ] Coinbase
-			- [ ] Robinhood
-	- [ ] Capital One
-	- [ ] American Express
+	- [x] Prosper ✅ 2026-03-11
+	- [ ] Crypto
+		- [x] Kraken ✅ 2026-03-11
+		- [x] Coinbase ✅ 2026-03-11
+		- [ ] Robinhood
+	- [x] Capital One ✅ 2026-03-11
+	- [ ] Northwoods Payment
+	- [ ] Review all docs in folder
 	- [ ] Property Tax
 	- [ ] Automobile Registration
 		- check when sold Insight (claim?)
 	- [ ] Business
 		- [ ] Wells Fargo (biz)
 		- [ ] US Bank (biz)
+		- [ ] American Express
 		- [ ] Writeoffs
 			- Internet
 			- Phone
