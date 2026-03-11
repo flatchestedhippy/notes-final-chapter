@@ -22,11 +22,11 @@ WHERE !completed AND !contains(meta(section).subpath, "Current Routine")
 	- [ ] Copy over all docs from tmp downloads
 	- [x] Automobile Registration ✅ 2026-03-11
 		- check when sold Insight (claim?) - confirmed I paid reg. in 2025
-	- [ ] Business
-		- [ ] Wells Fargo (biz)
-		- [ ] US Bank (biz)
-		- [ ] American Express
-		- [ ] Writeoffs
+	- [x] Business ✅ 2026-03-11
+		- [x] Wells Fargo (biz) ✅ 2026-03-11
+		- [x] US Bank (biz) ✅ 2026-03-11
+		- [x] American Express ✅ 2026-03-11
+		- [x] Writeoffs ✅ 2026-03-11
 			- Internet
 			- Phone
 			- Office
