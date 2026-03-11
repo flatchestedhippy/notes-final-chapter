@@ -18,14 +18,18 @@ not done
 ```tasks
 due today
 not done
+show tree
 ```
 ---
 
- ### TOMORROW's TODO
+ ### **TOMORROW's TODO**
 ```tasks
 due tomorrow
 not done
+show tree
 ```
+
+---
 ### Misc
 - Saving documents, etc. in /Dropbox/Personal/Final Chapter
 
