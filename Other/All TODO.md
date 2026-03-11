@@ -15,11 +15,13 @@ WHERE !completed AND !contains(meta(section).subpath, "Current Routine")
 		- [x] Coinbase ✅ 2026-03-11
 		- [x] Robinhood ✅ 2026-03-11
 	- [x] Capital One ✅ 2026-03-11
-	- [ ] Northwoods Payment
+	- [x] Northwoods Payment ✅ 2026-03-11
 	- [ ] Review all docs in folder
-	- [ ] Property Tax
-	- [ ] Automobile Registration
-		- check when sold Insight (claim?)
+	- [ ] Treasury Direct
+	- [x] Property Tax ✅ 2026-03-11
+	- [ ] Copy over all docs from tmp downloads
+	- [x] Automobile Registration ✅ 2026-03-11
+		- check when sold Insight (claim?) - confirmed I paid reg. in 2025
 	- [ ] Business
 		- [ ] Wells Fargo (biz)
 		- [ ] US Bank (biz)
