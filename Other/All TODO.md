@@ -10,10 +10,10 @@ WHERE !completed AND !contains(meta(section).subpath, "Current Routine")
 	- [x] Sofi ✅ 2026-03-11
 	- [x] Ally ✅ 2026-03-11
 	- [x] Prosper ✅ 2026-03-11
-	- [ ] Crypto
+	- [x] Crypto ✅ 2026-03-11
 		- [x] Kraken ✅ 2026-03-11
 		- [x] Coinbase ✅ 2026-03-11
-		- [ ] Robinhood
+		- [x] Robinhood ✅ 2026-03-11
 	- [x] Capital One ✅ 2026-03-11
 	- [ ] Northwoods Payment
 	- [ ] Review all docs in folder
