@@ -6,11 +6,12 @@ WHERE !completed AND !contains(meta(section).subpath, "Current Routine")
 - [ ] Email Williams school (Ms. Shore) for status on how it is going📅 2026-03-12 🔺 
 - [ ] Taxes 🔺 
 	- [ ] Start Taxes 📅 2026-03-11 
-	- [ ] Fidelity
-	- [ ] Sofi
+	- [x] Fidelity ✅ 2026-03-11
+	- [x] Sofi ✅ 2026-03-11
+	- [x] Ally ✅ 2026-03-11
 	- [ ] Prosper
 		- [ ] Crypto
-			- [ ] Kraken
+			- [x] Kraken ✅ 2026-03-11
 			- [ ] Coinbase
 			- [ ] Robinhood
 	- [ ] Capital One
@@ -25,4 +26,5 @@ WHERE !completed AND !contains(meta(section).subpath, "Current Routine")
 			- Internet
 			- Phone
 			- Office
+			- Charity
 ---

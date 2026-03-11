@@ -63,7 +63,8 @@
               "title": "All TODO"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,12 +229,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ac13e6cfcbe313eb",
+  "active": "78173955274486e8",
   "lastOpenFiles": [
+    "daily-notes/03.11.2026.md",
     "Other/All TODO.md",
     "Start.md",
     "AI/OpenClaw/Setup & Confirmation.md",
-    "daily-notes/03.11.2026.md",
     "daily-notes/03.10.2026.md",
     "AI/OpenClaw/Prompts.md",
     "AI/Plan & Notes.md",
