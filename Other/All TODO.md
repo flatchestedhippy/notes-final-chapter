@@ -17,7 +17,7 @@ WHERE !completed AND !contains(meta(section).subpath, "Current Routine")
 	- [x] Capital One ✅ 2026-03-11
 	- [x] Northwoods Payment ✅ 2026-03-11
 	- [ ] Review all docs in folder
-	- [ ] Treasury Direct
+	- [x] Treasury Direct ✅ 2026-03-11
 	- [x] Property Tax ✅ 2026-03-11
 	- [ ] Copy over all docs from tmp downloads
 	- [x] Automobile Registration ✅ 2026-03-11
