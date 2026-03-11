@@ -6,43 +6,12 @@
       {
         "id": "a937ab42125a6058",
         "type": "tabs",
-        "dimension": 42.70976616231087,
+        "dimension": 52.764475402699176,
         "children": [
-          {
-            "id": "31d0b3fac12d57d6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/03.10.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03.10.2026"
-            }
-          },
-          {
-            "id": "d4f36dbf48c4eae2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/OpenClaw/Setup & Confirmation.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Setup & Confirmation"
-            }
-          },
           {
             "id": "3cf7c34624c4a8fa",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -50,17 +19,17 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "03.11.2026"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "6af37589e57fc3e6",
         "type": "tabs",
-        "dimension": 57.29023383768913,
+        "dimension": 47.235524597300824,
         "children": [
           {
             "id": "ac13e6cfcbe313eb",
@@ -260,15 +229,15 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3cf7c34624c4a8fa",
+  "active": "78173955274486e8",
   "lastOpenFiles": [
-    "daily-notes/03.10.2026.md",
-    "daily-notes/03.11.2026.md",
-    "AI/OpenClaw/Prompts.md",
     "AI/OpenClaw/Setup & Confirmation.md",
-    "AI/Plan & Notes.md",
-    "Other/All TODO.md",
     "Start.md",
+    "Other/All TODO.md",
+    "daily-notes/03.11.2026.md",
+    "daily-notes/03.10.2026.md",
+    "AI/OpenClaw/Prompts.md",
+    "AI/Plan & Notes.md",
     "daily-notes/03.02.2026.md",
     "daily-notes/03.04.2026.md",
     "daily-notes/12.15.2025.md",

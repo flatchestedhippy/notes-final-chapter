@@ -5,12 +5,6 @@
 - Become financially independent
 - Leave a legacy for William
 
-
-### Current Status
-[[Outreach Batches - Hiring Pain]]
-![[Outreach Batches - Hiring Pain#Totals]]
-
-
 ---
 **PAST DUE**
 ```tasks
@@ -26,6 +20,12 @@ due today
 not done
 ```
 ---
+
+ ### TOMORROW's TODO
+```tasks
+due tomorrow
+not done
+```
 ### Misc
 - Saving documents, etc. in /Dropbox/Personal/Final Chapter
 
