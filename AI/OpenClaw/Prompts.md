@@ -76,6 +76,12 @@ Make sure to:
    web page, it should use agent-browser
 ```
 
+## Verify 
+```markdown
+Use the agent-browser skill to navigate to Hacker News and find out what is trending today.
+```
+
+
 ## Mission Control
 ```markdown
 Programming task. Follow ROUTER.md exactly (Sarah spec → Johnny implement → Sarah verify → Jess notify → final response).
