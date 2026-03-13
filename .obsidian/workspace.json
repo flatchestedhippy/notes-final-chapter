@@ -82,6 +82,7 @@
           {
             "id": "0f77420398768e87",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -89,12 +90,29 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Notes"
             }
+          },
+          {
+            "id": "1c69ff13ee3ec538",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Rusty/Prompts.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Prompts"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -259,10 +277,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "0f77420398768e87",
+  "active": "1c69ff13ee3ec538",
   "lastOpenFiles": [
-    "daily-notes/03.13.2026.md",
     "AI/Notes.md",
+    "AI/Plan & Notes.md",
+    "daily-notes/03.13.2026.md",
     "AI/Rusty/Prompts.md",
     "AI/Rusty/Rusty TODO.md",
     "Start.md",
@@ -274,7 +293,6 @@
     "AI/OpenClaw/Prompts.md",
     "AI/OpenClaw/Setup & Confirmation.md",
     "daily-notes/03.10.2026.md",
-    "AI/Plan & Notes.md",
     "daily-notes/03.02.2026.md",
     "daily-notes/12.15.2025.md",
     "daily-notes/01.05.2026.md",
