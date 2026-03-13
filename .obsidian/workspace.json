@@ -95,7 +95,8 @@
               "title": "03.12.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "h",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +149,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -262,17 +264,17 @@
   },
   "active": "274a76325dd80f5a",
   "lastOpenFiles": [
-    "Start.md",
-    "daily-notes/03.13.2026.md",
     "daily-notes/03.12.2026.md",
+    "daily-notes/03.04.2026.md",
+    "Other/All TODO.md",
+    "daily-notes/03.13.2026.md",
+    "Start.md",
+    "daily-notes/03.11.2026.md",
     "AI/Rusty/Rusty TODO.md",
     "AI/Rusty",
     "AI/OpenClaw/Prompts.md",
     "AI/OpenClaw/Setup & Confirmation.md",
-    "daily-notes/03.04.2026.md",
     "daily-notes/03.10.2026.md",
-    "daily-notes/03.11.2026.md",
-    "Other/All TODO.md",
     "AI/Plan & Notes.md",
     "daily-notes/03.02.2026.md",
     "daily-notes/12.15.2025.md",

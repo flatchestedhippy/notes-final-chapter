@@ -4,6 +4,9 @@ WHERE !completed AND !contains(meta(section).subpath, "Current Routine")
 ```
 - [ ] Bills Finances ⏫ 🔁 every week on Monday 🛫 2026-03-09
 - [ ] Email Williams school (Ms. Shore) for status on how it is going📅 2026-03-12 🔺 
+- [ ] Book
+	- [ ] Ensure can still access locally 📅 2026-03-17 
+	- [ ] Make plan to actually get published!
 - [x] Taxes 🔺 ✅ 2026-03-11
 	- [x] Start Taxes 📅 2026-03-11 ✅ 2026-03-11
 	- [x] Fidelity ✅ 2026-03-11
