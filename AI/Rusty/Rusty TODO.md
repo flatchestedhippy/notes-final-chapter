@@ -4,7 +4,7 @@ TODO
 	- right now ollama seems to be handling this just fine, demoting to lower priority
 - [ ] add memory per model
 		- md files
-- [ ] mult-agent
+- [x] mult-agent ✅ 2026-03-12
 - [ ] logging
 	- all commands
 	- token usages
