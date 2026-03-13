@@ -1,5 +1,7 @@
 
 TODO 
+- [ ] align model tester with current capabilities
+	- the main.js and model_eval have diverged
 - [ ] allow context length to be specified, default to 32768
 	- right now ollama seems to be handling this just fine, demoting to lower priority
 - [ ] add memory per model
@@ -15,6 +17,11 @@ TODO
 	- token usages
 - [ ] OpenAI / Anthropic integration
 - [ ] File reading
+- [ ] Additional Default Agents
+	- [ ] QA
+- [ ] should continue - if errors, 
+- [ ] Tools
+	- [ ] Agent-Oracle (creates/modifies agents)
 - [ ] Control Center
 	- [ ] 
 - [x] add file sandbox ✅ 2026-03-12
