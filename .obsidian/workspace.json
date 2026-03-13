@@ -85,12 +85,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/OpenClaw/Prompts.md",
+                "file": "AI/Rusty/Rusty TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompts"
+              "title": "Rusty TODO"
             }
           }
         ],
@@ -259,10 +259,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "2f2da97090f740bb",
+  "active": "274a76325dd80f5a",
   "lastOpenFiles": [
-    "AI/OpenClaw/Prompts.md",
     "daily-notes/03.12.2026.md",
+    "AI/Rusty/Rusty TODO.md",
+    "AI/Rusty",
+    "AI/OpenClaw/Prompts.md",
     "AI/OpenClaw/Setup & Confirmation.md",
     "daily-notes/03.04.2026.md",
     "daily-notes/03.10.2026.md",
@@ -288,7 +290,6 @@
     "AI/OpenClaw",
     "AI",
     "daily-notes/01.20.2026.md",
-    "daily-notes/01.21.2026.md",
     "Tiller Interviews/Tiller Synthesis",
     "Tiller Interviews/Tiller Outreach",
     "William",
@@ -296,7 +297,6 @@
     "Extras/Templates/tiller/parts/general",
     "Tiller Interviews",
     "Extras/Templates/tiller/parts",
-    "Extras/Templates/tiller",
     "Extras/Attachments/Pasted image 20251204061105.png"
   ]
 }
