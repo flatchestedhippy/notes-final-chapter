@@ -5,6 +5,11 @@ TODO
 - [ ] add memory per model
 		- md files
 - [x] mult-agent ✅ 2026-03-12
+- [ ] scheduling
+- [ ] runtime service
+	- [ ] heartbeat
+- [ ] cron integration
+- [ ] telegram integration
 - [ ] logging
 	- all commands
 	- token usages
