@@ -8,5 +8,6 @@ TODO
 - [ ] logging
 	- all commands
 	- token usages
+- [ ] OpenAI / Anthropic integration
 - [x] add file sandbox ✅ 2026-03-12
 - [x] agent-browser tool ✅ 2026-03-12
