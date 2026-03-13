@@ -65,6 +65,7 @@
     },
     "daily-notes": {
       "children": [
+        "daily-notes/03.13.2026.md",
         "daily-notes/03.12.2026.md",
         "daily-notes/03.11.2026.md",
         "daily-notes/03.10.2026.md",
@@ -117,6 +118,7 @@
     },
     "AI": {
       "children": [
+        "AI/Notes.md",
         "AI/Rusty",
         "AI/OpenClaw",
         "AI/Plan & Notes.md",
@@ -165,6 +167,7 @@
     },
     "AI/Rusty": {
       "children": [
+        "AI/Rusty/Prompts.md",
         "AI/Rusty/Rusty TODO.md"
       ],
       "sortOrder": "custom"

@@ -48,22 +48,6 @@
             }
           },
           {
-            "id": "78173955274486e8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other/All TODO.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "All TODO"
-            }
-          },
-          {
             "id": "3cf7c34624c4a8fa",
             "type": "leaf",
             "pinned": true,
@@ -94,8 +78,23 @@
               "icon": "lucide-file",
               "title": "03.12.2026"
             }
+          },
+          {
+            "id": "0f77420398768e87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,8 +147,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -261,15 +259,17 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "274a76325dd80f5a",
+  "active": "0f77420398768e87",
   "lastOpenFiles": [
-    "Start.md",
-    "daily-notes/03.12.2026.md",
     "daily-notes/03.13.2026.md",
-    "daily-notes/03.04.2026.md",
-    "Other/All TODO.md",
-    "daily-notes/03.11.2026.md",
+    "AI/Notes.md",
+    "AI/Rusty/Prompts.md",
     "AI/Rusty/Rusty TODO.md",
+    "Start.md",
+    "daily-notes/03.11.2026.md",
+    "daily-notes/03.12.2026.md",
+    "Other/All TODO.md",
+    "daily-notes/03.04.2026.md",
     "AI/Rusty",
     "AI/OpenClaw/Prompts.md",
     "AI/OpenClaw/Setup & Confirmation.md",
@@ -288,8 +288,6 @@
     "TODO - Still.md",
     "AI/OpenClaw/Agents.md",
     "AI/Runbook.md",
-    "AI/Untitled.md",
-    "daily-notes/01.23.2026.md",
     "AI/OpenClaw",
     "AI",
     "Tiller Interviews/Tiller Synthesis",
