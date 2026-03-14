@@ -118,6 +118,22 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "AI/The Father's Blueprint.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "The Father's Blueprint"
+            }
+          },
+          {
+            "id": "71325427feb6ab75",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "AI/Notes.md",
                 "mode": "source",
                 "source": false
@@ -127,7 +143,8 @@
               "title": "Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -292,10 +309,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ac13e6cfcbe313eb",
+  "active": "ea86a97925ef3b21",
   "lastOpenFiles": [
-    "AI/Rusty/Rusty TODO.md",
     "AI/Notes.md",
+    "AI/The Father's Blueprint.md",
+    "AI/Rusty/Rusty TODO.md",
     "Start.md",
     "AI/Untitled.md",
     "AI/Runbook.md",
@@ -320,7 +338,6 @@
     "daily-notes/02.26.2026.md",
     "daily-notes/02.25.2026.md",
     "Extras/Templates/Template -- Daily Note.md",
-    "daily-notes/12.11.2025.md",
     "AI/OpenClaw",
     "AI",
     "Tiller Interviews/Tiller Synthesis",

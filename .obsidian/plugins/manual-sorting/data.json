@@ -119,9 +119,10 @@
     "AI": {
       "children": [
         "AI/Notes.md",
+        "AI/Untitled.md",
+        "AI/The Father's Blueprint.md",
         "AI/Rusty",
         "AI/OpenClaw",
-        "AI/Plan & Notes.md",
         "AI/Runbook.md"
       ],
       "sortOrder": "custom"

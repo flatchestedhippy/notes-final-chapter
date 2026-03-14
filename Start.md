@@ -1,9 +1,7 @@
 
 ## This is my final chapter.
 
-### Goals
-- Become financially independent
-- Leave a legacy for William
+G O A L :: See [[The Father's Blueprint]]
 
 ---
 **PAST DUE**
