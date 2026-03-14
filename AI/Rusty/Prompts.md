@@ -1,4 +1,17 @@
-### Validate Coding
+
+## Validations
+
+## Tools
+
+```markdown
+Give me top 3 trending hacker news articles.
+```
+
+```markdown
+
+```
+
+### Coding
 
 Nextjs
 ```markdown
