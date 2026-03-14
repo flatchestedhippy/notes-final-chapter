@@ -1,7 +1,8 @@
 
 TODO 
-- [ ] align model tester with current capabilities
+- [x] align model tester with current capabilities ✅ 2026-03-13
 	- the main.js and model_eval have diverged
+- [ ] integrate agentmail
 - [ ] allow context length to be specified, default to 32768
 	- right now ollama seems to be handling this just fine, demoting to lower priority
 - [ ] add memory per model
