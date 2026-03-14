@@ -168,6 +168,7 @@
     },
     "AI/Rusty": {
       "children": [
+        "AI/Rusty/scratchpad.md",
         "AI/Rusty/Prompts.md",
         "AI/Rusty/Rusty TODO.md"
       ],
