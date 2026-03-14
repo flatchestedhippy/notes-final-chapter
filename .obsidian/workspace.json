@@ -110,9 +110,24 @@
               "icon": "lucide-file",
               "title": "Rusty TODO"
             }
+          },
+          {
+            "id": "efbd03204567abea",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -277,21 +292,25 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ea86a97925ef3b21",
+  "active": "ac13e6cfcbe313eb",
   "lastOpenFiles": [
-    "AI/Rusty/Prompts.md",
-    "daily-notes/03.13.2026.md",
     "AI/Rusty/Rusty TODO.md",
-    "daily-notes/03.12.2026.md",
     "AI/Notes.md",
     "Start.md",
+    "AI/Untitled.md",
+    "AI/Runbook.md",
+    "AI/OpenClaw/Agents.md",
+    "AI/OpenClaw/Setup & Confirmation.md",
+    "AI/OpenClaw/Brain Dump.md",
+    "daily-notes/03.13.2026.md",
+    "AI/Rusty/Prompts.md",
+    "daily-notes/03.12.2026.md",
     "daily-notes/03.11.2026.md",
     "AI/Plan & Notes.md",
     "Other/All TODO.md",
     "daily-notes/03.04.2026.md",
     "AI/Rusty",
     "AI/OpenClaw/Prompts.md",
-    "AI/OpenClaw/Setup & Confirmation.md",
     "daily-notes/03.10.2026.md",
     "daily-notes/03.02.2026.md",
     "daily-notes/12.15.2025.md",
@@ -301,11 +320,7 @@
     "daily-notes/02.26.2026.md",
     "daily-notes/02.25.2026.md",
     "Extras/Templates/Template -- Daily Note.md",
-    "AI/OpenClaw/Brain Dump.md",
     "daily-notes/12.11.2025.md",
-    "TODO - Still.md",
-    "AI/OpenClaw/Agents.md",
-    "AI/Runbook.md",
     "AI/OpenClaw",
     "AI",
     "Tiller Interviews/Tiller Synthesis",
