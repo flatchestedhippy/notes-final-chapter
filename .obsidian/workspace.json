@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -277,11 +277,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "1e64916fbb9747e8",
+  "active": "ea86a97925ef3b21",
   "lastOpenFiles": [
+    "AI/Rusty/Prompts.md",
     "daily-notes/03.13.2026.md",
     "AI/Rusty/Rusty TODO.md",
-    "AI/Rusty/Prompts.md",
     "daily-notes/03.12.2026.md",
     "AI/Notes.md",
     "Start.md",
