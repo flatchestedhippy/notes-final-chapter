@@ -168,9 +168,10 @@
     },
     "AI/Rusty": {
       "children": [
+        "AI/Rusty/Rusty Current Functionality.md",
         "AI/Rusty/scratchpad.md",
         "AI/Rusty/Prompts.md",
-        "AI/Rusty/Rusty TODO.md"
+        "AI/Rusty/Rusty Priority TODO.md"
       ],
       "sortOrder": "custom"
     }

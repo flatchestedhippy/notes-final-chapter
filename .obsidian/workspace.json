@@ -102,13 +102,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Rusty/Rusty TODO.md",
+                "file": "AI/Rusty/Rusty Priority TODO.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Rusty TODO"
+              "title": "Rusty Priority TODO"
             }
           },
           {
@@ -146,19 +146,37 @@
           {
             "id": "01cef5f9e265cf85",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Rusty/scratchpad.md",
+                "file": "AI/Rusty/Rusty Priority TODO.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "scratchpad"
+              "title": "Rusty Priority TODO"
+            }
+          },
+          {
+            "id": "ff51b9c483285475",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Rusty/Rusty Current Functionality.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Rusty Current Functionality"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -323,9 +341,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "01cef5f9e265cf85",
+  "active": "ff51b9c483285475",
   "lastOpenFiles": [
-    "AI/Rusty/Rusty TODO.md",
+    "AI/Rusty/Rusty Priority TODO.md",
+    "AI/Rusty/Rusty Current Functionality.md",
+    "daily-notes/03.13.2026.md",
     "AI/Rusty/scratchpad.md",
     "AI/Notes.md",
     "AI/The Father's Blueprint.md",
@@ -335,7 +355,6 @@
     "AI/OpenClaw/Agents.md",
     "AI/OpenClaw/Setup & Confirmation.md",
     "AI/OpenClaw/Brain Dump.md",
-    "daily-notes/03.13.2026.md",
     "AI/Rusty/Prompts.md",
     "daily-notes/03.12.2026.md",
     "daily-notes/03.11.2026.md",
@@ -351,7 +370,6 @@
     "daily-notes/12.23.2025.md",
     "Extras/sortspec.md.md",
     "daily-notes/02.26.2026.md",
-    "daily-notes/02.25.2026.md",
     "AI/OpenClaw",
     "AI",
     "Tiller Interviews/Tiller Synthesis",
