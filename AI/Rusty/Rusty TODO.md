@@ -2,6 +2,7 @@
 TODO 
 - [x] align model tester with current capabilities ✅ 2026-03-13
 	- the main.js and model_eval have diverged
+- [ ] telegram integration
 - [ ] test suite
 - [ ] integrate agentmail
 - [ ] allow context length to be specified, default to 32768
@@ -12,14 +13,20 @@ TODO
 - [ ] cron / scheduling
 - [ ] runtime service
 	- [ ] heartbeat
-- [ ] telegram integration
 - [ ] logging
 	- all commands
 	- token usages
 - [ ] OpenAI / Anthropic integration
 - [ ] File reading
-- [ ] Additional Default Agents
-	- [ ] QA
+- [ ] Agents
+	- [ ] Split Default / Custom
+	- [ ] Additional Default Agents
+		- [ ] QA
+	- [ ] Custom Agents
+		- [ ] Author
+		- [ ] Critic
+		- [ ] 
+- [ ] Additional Agents
 - [ ] should continue - if errors, 
 - [ ] Tools
 	- [ ] Agent-Oracle (creates/modifies agents)
