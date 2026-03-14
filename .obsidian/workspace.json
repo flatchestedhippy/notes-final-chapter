@@ -80,40 +80,9 @@
             }
           },
           {
-            "id": "0f77420398768e87",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Notes"
-            }
-          },
-          {
-            "id": "1c69ff13ee3ec538",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Rusty/Prompts.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Prompts"
-            }
-          },
-          {
             "id": "1e64916fbb9747e8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -121,12 +90,29 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Prompts"
+            }
+          },
+          {
+            "id": "ea86a97925ef3b21",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Rusty/Rusty TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Rusty TODO"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -291,16 +277,16 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "1e64916fbb9747e8",
+  "active": "ea86a97925ef3b21",
   "lastOpenFiles": [
-    "AI/Rusty/Rusty TODO.md",
-    "daily-notes/03.13.2026.md",
     "AI/Rusty/Prompts.md",
+    "AI/Rusty/Rusty TODO.md",
+    "daily-notes/03.12.2026.md",
     "AI/Notes.md",
-    "AI/Plan & Notes.md",
     "Start.md",
     "daily-notes/03.11.2026.md",
-    "daily-notes/03.12.2026.md",
+    "daily-notes/03.13.2026.md",
+    "AI/Plan & Notes.md",
     "Other/All TODO.md",
     "daily-notes/03.04.2026.md",
     "AI/Rusty",

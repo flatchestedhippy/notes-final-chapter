@@ -2,7 +2,15 @@
 TODO 
 - [x] align model tester with current capabilities ✅ 2026-03-13
 	- the main.js and model_eval have diverged
+- [ ] task board | kanban
+	- [ ] project view
+	- [ ] live activity feed (Rusty/Keith?)
+- [ ] cron list
+	- job | description | schedule (every Tuesday at 4pm)
 - [ ] telegram integration
+- [ ] Mission/Vision
+- [ ] Agent flow tweak
+	- [ ] dev make changes to existing project 
 - [ ] test suite
 - [ ] integrate agentmail
 - [ ] allow context length to be specified, default to 32768
