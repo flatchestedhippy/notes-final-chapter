@@ -5,6 +5,7 @@ Notes
 - perhaps include supervised learning per agent
 	- too many 'bads' could result in being fired
 	- both good/bad goes to agents memory
+- integrate google calendar to show my today/tomorrow upcoming
 
 ## Later
 
