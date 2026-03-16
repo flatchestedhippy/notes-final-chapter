@@ -2,7 +2,7 @@
 TASK 
 WHERE !completed AND !contains(meta(section).subpath, "Current Routine")
 ```
-- [ ] Bills Finances ⏫ 🔁 every week on Monday 🛫 2026-03-09
+- [ ] Bills Finances ⏫ 🔁 every week on Monday 🛫 2026-03-09 📅 2026-03-16
 - [x] Email Williams school (Ms. Shore) for status on how it is going 🔺 📅 2026-03-12 ✅ 2026-03-13
 	- timing : got letter / email today - school wants to meet Tuesday
 - [ ] Book
