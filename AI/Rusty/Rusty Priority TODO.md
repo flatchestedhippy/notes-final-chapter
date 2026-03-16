@@ -9,7 +9,13 @@ Notes
 - model evaluations
 	- https://www.canirun.ai/
 	- check that against avail gpu
-- model 
+- agent memory
+- agent memory vs. global?
+	- ie: Keith hates the color red
+	- Keith was born on xx/xx/xxx
+	- etc.
+- model GA
+	- combo of memory & model
 
 ## Later
 
