@@ -16,6 +16,7 @@ Notes
 	- etc.
 - model GA
 	- combo of memory & model
+- google auth integration for f/e
 
 ## Later
 
