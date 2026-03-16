@@ -23,8 +23,25 @@
               "icon": "lucide-file",
               "title": "03.13.2026"
             }
+          },
+          {
+            "id": "8af91fb3ebfab90c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Rusty/scratchpad.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "scratchpad"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6af37589e57fc3e6",
@@ -275,15 +292,15 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ac8f72d30115c089",
+  "active": "8af91fb3ebfab90c",
   "lastOpenFiles": [
-    "Start.md",
     "daily-notes/03.13.2026.md",
+    "AI/Rusty/Rusty Priority TODO.md",
+    "Start.md",
     "daily-notes/03.11.2026.md",
     "daily-notes/03.12.2026.md",
     "AI/The Father's Blueprint.md",
     "AI/Rusty/Prompts.md",
-    "AI/Rusty/Rusty Priority TODO.md",
     "AI/Notes.md",
     "AI/Rusty/Rusty Current Functionality.md",
     "AI/Rusty/scratchpad.md",

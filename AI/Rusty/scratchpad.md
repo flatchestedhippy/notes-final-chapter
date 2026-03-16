@@ -1,3 +1,12 @@
+ 
+
+  - Workflow entry point: I don’t see a top-level Create task / Create mission / Delegate action. For a command center, that is usually essential.
+  - Drill-down path: stats like 1 Blocked, 2 Decisions, 35 Tasks should feel clickable and lead somewhere obvious. Otherwise they’re just counters.
+  - System health / agent health: if this is a multi-agent platform, a tiny status indicator for queue health, failed runs, paused automations, or offline agents is probably more critical than calendar long term.
+  - Notifications/history control: Recent Activity is useful, but I’d want a way to filter to Errors, Completed, My approvals, or Agent messages.
+
+ 
+ 
  Your instinct is right: you need a control loop, not a giant platform.
 
   After reading your blueprint and TODO, the highest-value move is to stop thinking in terms of “features Rusty could have” and start thinking in terms of “what lets Rusty reduce my daily cognitive load this week.” That changes the priorities a
