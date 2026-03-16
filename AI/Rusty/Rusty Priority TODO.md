@@ -26,6 +26,9 @@ Notes
 - update to use more jira style:  depends on (agents follow this already), links to, relates to, etc..
 - scheduled main nav
 	- show all scheduled jobs with next run time and human readable cron schedule
+- agent 1:1's
+	- agent asks what its done well, where it could use improvement
+	- agent updates its LTM
 
 ## Later
 
