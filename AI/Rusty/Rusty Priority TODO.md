@@ -16,7 +16,14 @@ Notes
 	- etc.
 - model GA
 	- combo of memory & model
+- specialized agent for updating Rusty
+	- uses design system
+	- uses architecture
+	- can sandbox and validate changes
+	- can put up PR with proofs
 - google auth integration for f/e
+	- link to domain / ssl .. depends on ^^
+- update to use more jira style:  depends on (agents follow this already), links to, relates to, etc..
 
 ## Later
 
