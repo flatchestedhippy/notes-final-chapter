@@ -5,6 +5,8 @@
 - I need better project/task, a bit closer to Jira
 	- I thought I needed Epic but I DO NOT
 		- Project -> task (epic) -> subtasks (already on Task as deliverables)
+- I asked Rusty 'what was that bread recipe' thinking it would have no idea...
+	- it returned: "Here’s the full “Five Dutch‑oven sandwich‑bread family recipes” that were saved in the task “task‑1773678821817”:" -- with the actual results!!! that was surprising.
 
 
 ---
