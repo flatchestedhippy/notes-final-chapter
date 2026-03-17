@@ -9,54 +9,6 @@
         "dimension": 52.764475402699176,
         "children": [
           {
-            "id": "274a76325dd80f5a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/03.13.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03.13.2026"
-            }
-          },
-          {
-            "id": "8af91fb3ebfab90c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Rusty/scratchpad.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "scratchpad"
-            }
-          },
-          {
-            "id": "fd112f746eede804",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/03.16.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03.16.2026"
-            }
-          },
-          {
             "id": "2cd5957fc2f80152",
             "type": "leaf",
             "state": {
@@ -70,8 +22,7 @@
               "title": "03.17.2026"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "6af37589e57fc3e6",
@@ -141,22 +92,6 @@
             }
           },
           {
-            "id": "ac8f72d30115c089",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Rusty/Rusty Priority TODO.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Rusty Priority TODO"
-            }
-          },
-          {
             "id": "4d08c4ecc98689f9",
             "type": "leaf",
             "state": {
@@ -183,8 +118,41 @@
               "icon": "lucide-file",
               "title": "02.25.2026"
             }
+          },
+          {
+            "id": "274a76325dd80f5a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/03.13.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "03.13.2026"
+            }
+          },
+          {
+            "id": "fd112f746eede804",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/03.16.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "03.16.2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -351,19 +319,19 @@
   },
   "active": "2cd5957fc2f80152",
   "lastOpenFiles": [
-    "Start.md",
-    "daily-notes/03.17.2026.md",
-    "daily-notes/03.16.2026.md",
+    "AI/The Father's Blueprint.md",
     "Other/All TODO.md",
+    "AI/Rusty/Rusty Priority TODO.md",
     "daily-notes/02.25.2026.md",
+    "daily-notes/03.13.2026.md",
+    "daily-notes/03.16.2026.md",
+    "daily-notes/03.17.2026.md",
+    "Start.md",
     "Extras/Templates/Template -- Daily Note.md",
     "AI/Rusty/scratchpad.md",
-    "AI/Rusty/Rusty Priority TODO.md",
     "AI/Rusty/Rusty Current Functionality.md",
-    "daily-notes/03.13.2026.md",
     "daily-notes/03.11.2026.md",
     "daily-notes/03.12.2026.md",
-    "AI/The Father's Blueprint.md",
     "AI/Rusty/Prompts.md",
     "AI/Notes.md",
     "AI/Untitled.md",
