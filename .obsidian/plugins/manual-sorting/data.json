@@ -65,6 +65,8 @@
     },
     "daily-notes": {
       "children": [
+        "daily-notes/03.17.2026.md",
+        "daily-notes/03.16.2026.md",
         "daily-notes/03.13.2026.md",
         "daily-notes/03.12.2026.md",
         "daily-notes/03.11.2026.md",
@@ -168,10 +170,11 @@
     },
     "AI/Rusty": {
       "children": [
+        "AI/Rusty/Untitled.md",
         "AI/Rusty/Rusty Current Functionality.md",
         "AI/Rusty/scratchpad.md",
         "AI/Rusty/Prompts.md",
-        "AI/Rusty/Rusty Priority TODO.md"
+        "AI/Rusty/Rusty NOTES & Priority TODO.md"
       ],
       "sortOrder": "custom"
     }

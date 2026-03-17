@@ -1,6 +1,21 @@
 
 
 
+3/17/2026
+- I need better project/task, a bit closer to Jira
+	- I thought I needed Epic but I DO NOT
+		- Project -> task (epic) -> subtasks (already on Task as deliverables)
+
+
+---
+TODO
+- [ ] Compare Rusty NOTES & Priority TODO vs. whats currently tasked and see if anything from here is missing. 📅 📅 2026-03-19
+
+
+Most of the below items are now tasks in Rusty, but lets review and cleanup.
+
+---
+
 Notes
 - perhaps include supervised learning per agent
 	- too many 'bads' could result in being fired

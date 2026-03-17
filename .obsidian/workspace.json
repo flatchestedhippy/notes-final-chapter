@@ -11,15 +11,17 @@
           {
             "id": "2cd5957fc2f80152",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/03.17.2026.md",
+                "file": "AI/Rusty/Rusty NOTES & Priority TODO.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "03.17.2026"
+              "title": "Rusty NOTES & Priority TODO"
             }
           }
         ]
@@ -319,20 +321,21 @@
   },
   "active": "2cd5957fc2f80152",
   "lastOpenFiles": [
+    "AI/Rusty/Untitled.md",
+    "AI/Rusty/Rusty NOTES & Priority TODO.md",
+    "AI/Rusty/Prompts.md",
+    "AI/Rusty/scratchpad.md",
+    "AI/Rusty/Rusty Current Functionality.md",
+    "daily-notes/03.17.2026.md",
     "AI/The Father's Blueprint.md",
     "Other/All TODO.md",
-    "AI/Rusty/Rusty Priority TODO.md",
     "daily-notes/02.25.2026.md",
     "daily-notes/03.13.2026.md",
     "daily-notes/03.16.2026.md",
-    "daily-notes/03.17.2026.md",
     "Start.md",
     "Extras/Templates/Template -- Daily Note.md",
-    "AI/Rusty/scratchpad.md",
-    "AI/Rusty/Rusty Current Functionality.md",
     "daily-notes/03.11.2026.md",
     "daily-notes/03.12.2026.md",
-    "AI/Rusty/Prompts.md",
     "AI/Notes.md",
     "AI/Untitled.md",
     "AI/Runbook.md",
@@ -345,7 +348,6 @@
     "AI/OpenClaw/Prompts.md",
     "daily-notes/03.10.2026.md",
     "daily-notes/03.02.2026.md",
-    "daily-notes/12.15.2025.md",
     "AI/OpenClaw",
     "AI",
     "Tiller Interviews/Tiller Synthesis",
