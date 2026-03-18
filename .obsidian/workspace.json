@@ -9,6 +9,22 @@
         "dimension": 52.764475402699176,
         "children": [
           {
+            "id": "2cd5957fc2f80152",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Rusty/Rusty NOTES & Priority TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Rusty NOTES & Priority TODO"
+            }
+          },
+          {
             "id": "4cdac8f5edb62de8",
             "type": "leaf",
             "pinned": true,
@@ -24,7 +40,8 @@
               "title": "03.18.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6af37589e57fc3e6",
@@ -126,25 +143,8 @@
               "icon": "lucide-file",
               "title": "03.17.2026"
             }
-          },
-          {
-            "id": "2cd5957fc2f80152",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Rusty/Rusty NOTES & Priority TODO.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Rusty NOTES & Priority TODO"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -311,6 +311,9 @@
   },
   "active": "4cdac8f5edb62de8",
   "lastOpenFiles": [
+    "Start.md",
+    "daily-notes/03.18.2026.md",
+    "AI/Rusty/Rusty NOTES & Priority TODO.md",
     "AI/The Father's Blueprint.md",
     "daily-notes/03.12.2026.md",
     "daily-notes/03.13.2026.md",
@@ -318,13 +321,10 @@
     "daily-notes/02.25.2026.md",
     "daily-notes/03.16.2026.md",
     "daily-notes/03.17.2026.md",
-    "AI/Rusty/Rusty NOTES & Priority TODO.md",
-    "daily-notes/03.18.2026.md",
     "AI/Rusty/Untitled.md",
     "AI/Rusty/Prompts.md",
     "AI/Rusty/scratchpad.md",
     "AI/Rusty/Rusty Current Functionality.md",
-    "Start.md",
     "Extras/Templates/Template -- Daily Note.md",
     "daily-notes/03.11.2026.md",
     "AI/Notes.md",
