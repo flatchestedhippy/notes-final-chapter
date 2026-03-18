@@ -17,6 +17,7 @@ What did I move forward today?
 ---
 ### Current Routine
 - [ ] Review TODO list for important / planning ⏫ 
+- [ ] Go over speech with William, especially TH ⏫ 
 - [ ] Stretch
 - [ ] Meditate
 - [ ] Review last few of days of notes
