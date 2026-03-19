@@ -40,8 +40,7 @@
               "title": "03.19.2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6af37589e57fc3e6",
@@ -294,10 +293,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "9dfaf4a998468f51",
+  "active": "2cd5957fc2f80152",
   "lastOpenFiles": [
-    "daily-notes/03.18.2026.md",
     "daily-notes/03.19.2026.md",
+    "daily-notes/03.18.2026.md",
     "Start.md",
     "daily-notes/03.16.2026.md",
     "daily-notes/03.17.2026.md",
