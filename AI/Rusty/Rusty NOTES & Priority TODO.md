@@ -1,6 +1,16 @@
 
 
 
+
+3/19/2026
+Current Issues that need resolved
+- Project/Task workflow & UI need reworked
+- Its tedious to create tasks for a project, have to create project then go create tasks and select that project. Ability to add n number of tasks easily for a given project.
+- Fix non-alignment for Project / Task -> Project can have a team but we select Assignee for a Task (since project is not required)
+	- Don't show completed projects in task assignment dropdown or this will get unwieldy quick. Maybe this is for easy quick assign but hidden by default? That makes sense if no project and/or we drive it by project - so that could work as a assign/re-assign project
+- 
+
+---
 3/17/2026
 - I need better project/task, a bit closer to Jira
 	- I thought I needed Epic but I DO NOT
