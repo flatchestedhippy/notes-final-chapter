@@ -13,58 +13,39 @@
       ],
       "sortOrder": "custom"
     },
-    "Extras": {
+    "AI": {
       "children": [
-        "Extras/sortspec.md.md",
-        "Extras/Templates",
-        "Extras/Attachments"
+        "AI/Notes.md",
+        "AI/Untitled.md",
+        "AI/The Father's Blueprint.md",
+        "AI/Rusty",
+        "AI/OpenClaw",
+        "AI/Runbook.md"
       ],
       "sortOrder": "custom"
     },
-    "Extras/Templates": {
+    "AI/OpenClaw": {
       "children": [
-        "Extras/Templates/Template -- Daily Note.md",
-        "Extras/Templates/tiller"
+        "AI/OpenClaw/Setup & Confirmation.md",
+        "AI/OpenClaw/Prompts.md",
+        "AI/OpenClaw/Brain Dump.md",
+        "AI/OpenClaw/Agents.md"
       ],
       "sortOrder": "custom"
     },
-    "Extras/Templates/tiller": {
+    "AI/Rusty": {
       "children": [
-        "Extras/Templates/tiller/readme - creating new specific tiller templates.md",
-        "Extras/Templates/tiller/Template - Hiring Pain.md",
-        "Extras/Templates/tiller/Template - schedule interview.md",
-        "Extras/Templates/tiller/parts"
-      ],
-      "sortOrder": "custom"
-    },
-    "Extras/Templates/tiller/parts": {
-      "children": [
-        "Extras/Templates/tiller/parts/general",
-        "Extras/Templates/tiller/parts/hiring-pain"
-      ],
-      "sortOrder": "custom"
-    },
-    "Extras/Templates/tiller/parts/general": {
-      "children": [
-        "Extras/Templates/tiller/parts/general/template-part-meta.md",
-        "Extras/Templates/tiller/parts/general/template-part-tiller Interview.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Extras/Templates/tiller/parts/hiring-pain": {
-      "children": [
-        "Extras/Templates/tiller/parts/hiring-pain/template-part-pain-hiring.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Extras/Attachments": {
-      "children": [
-        "Extras/Attachments/Pasted image 20251204061105.png"
+        "AI/Rusty/Rusty Current Functionality.md",
+        "AI/Rusty/scratchpad.md",
+        "AI/Rusty/Prompts.md",
+        "AI/Rusty/Rusty NOTES & Priority TODO.md"
       ],
       "sortOrder": "custom"
     },
     "daily-notes": {
       "children": [
+        "daily-notes/03.18.2026.md",
+        "daily-notes/03.19.2026.md",
         "daily-notes/03.17.2026.md",
         "daily-notes/03.16.2026.md",
         "daily-notes/03.13.2026.md",
@@ -109,32 +90,62 @@
       ],
       "sortOrder": "custom"
     },
+    "Extras": {
+      "children": [
+        "Extras/sortspec.md.md",
+        "Extras/Templates",
+        "Extras/Attachments"
+      ],
+      "sortOrder": "custom"
+    },
+    "Extras/Attachments": {
+      "children": [
+        "Extras/Attachments/Pasted image 20251204061105.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Extras/Templates": {
+      "children": [
+        "Extras/Templates/Template -- Daily Note.md",
+        "Extras/Templates/tiller"
+      ],
+      "sortOrder": "custom"
+    },
+    "Extras/Templates/tiller": {
+      "children": [
+        "Extras/Templates/tiller/readme - creating new specific tiller templates.md",
+        "Extras/Templates/tiller/Template - Hiring Pain.md",
+        "Extras/Templates/tiller/Template - schedule interview.md",
+        "Extras/Templates/tiller/parts"
+      ],
+      "sortOrder": "custom"
+    },
+    "Extras/Templates/tiller/parts": {
+      "children": [
+        "Extras/Templates/tiller/parts/general",
+        "Extras/Templates/tiller/parts/hiring-pain"
+      ],
+      "sortOrder": "custom"
+    },
+    "Extras/Templates/tiller/parts/general": {
+      "children": [
+        "Extras/Templates/tiller/parts/general/template-part-meta.md",
+        "Extras/Templates/tiller/parts/general/template-part-tiller Interview.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Extras/Templates/tiller/parts/hiring-pain": {
+      "children": [
+        "Extras/Templates/tiller/parts/hiring-pain/template-part-pain-hiring.md"
+      ],
+      "sortOrder": "custom"
+    },
     "Other": {
       "children": [
         "Other/All TODO.md",
         "Other/Hexaco.org - A MEASURE OF THE SIX MAJOR DIMENSIONS OF PERSONALITY.md",
         "Other/Kingsmen Resignation Jan 16, 2026.md",
         "Other/Pain Sources.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "AI": {
-      "children": [
-        "AI/Notes.md",
-        "AI/Untitled.md",
-        "AI/The Father's Blueprint.md",
-        "AI/Rusty",
-        "AI/OpenClaw",
-        "AI/Runbook.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "AI/OpenClaw": {
-      "children": [
-        "AI/OpenClaw/Setup & Confirmation.md",
-        "AI/OpenClaw/Prompts.md",
-        "AI/OpenClaw/Brain Dump.md",
-        "AI/OpenClaw/Agents.md"
       ],
       "sortOrder": "custom"
     },
@@ -165,16 +176,6 @@
     "William": {
       "children": [
         "William/1.5.2026 - Letter to my son William.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "AI/Rusty": {
-      "children": [
-        "AI/Rusty/Untitled.md",
-        "AI/Rusty/Rusty Current Functionality.md",
-        "AI/Rusty/scratchpad.md",
-        "AI/Rusty/Prompts.md",
-        "AI/Rusty/Rusty NOTES & Priority TODO.md"
       ],
       "sortOrder": "custom"
     }
