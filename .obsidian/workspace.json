@@ -39,8 +39,25 @@
               "icon": "lucide-file",
               "title": "03.19.2026"
             }
+          },
+          {
+            "id": "9412b8752659be24",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/03.20.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "03.20.2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "6af37589e57fc3e6",
@@ -127,8 +144,7 @@
               "title": "03.18.2026"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -293,14 +309,15 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "2cd5957fc2f80152",
+  "active": "9412b8752659be24",
   "lastOpenFiles": [
-    "daily-notes/03.19.2026.md",
-    "daily-notes/03.18.2026.md",
     "Start.md",
+    "daily-notes/03.20.2026.md",
+    "daily-notes/03.19.2026.md",
+    "AI/Rusty/Rusty NOTES & Priority TODO.md",
+    "daily-notes/03.18.2026.md",
     "daily-notes/03.16.2026.md",
     "daily-notes/03.17.2026.md",
-    "AI/Rusty/Rusty NOTES & Priority TODO.md",
     "daily-notes/03.13.2026.md",
     "Extras/Templates/Template -- Daily Note.md",
     "AI/The Father's Blueprint.md",
@@ -321,7 +338,6 @@
     "AI/Plan & Notes.md",
     "daily-notes/03.04.2026.md",
     "AI/Rusty",
-    "AI/OpenClaw/Prompts.md",
     "AI/OpenClaw",
     "AI",
     "Tiller Interviews/Tiller Synthesis",
