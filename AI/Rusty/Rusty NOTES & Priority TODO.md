@@ -1,6 +1,9 @@
 
 
-
+3/20/2026
+- ugh it got all fucked up trying to change workflow
+- next tickets
+	- remove mission/success from Teams
 
 3/19/2026
 Current Issues that need resolved
