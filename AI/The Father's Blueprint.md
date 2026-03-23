@@ -3,7 +3,7 @@
 To build a life of freedom, presence and love so that my son can thrive while I'm here and continue to be supported with security and wisdom long after I'm gone.
 
 ### Vision
-In 5–10 years, I am financially free — traveling, present, and deeply engaged in my son's life. I run a business that operates without me, generating wealth while I focus on what matters most: legacy, relationships, and peace of mind.
+In 5–10 years, I am financially free - traveling, present, and deeply engaged in my son's life. I run a business that operates without me, generating wealth while I focus on what matters most: legacy, relationships, and peace of mind.
 
 ### Goals
 - **Financial freedom through leverage** — Generate $50K+/month without trading time for money. Build systems, assets, and automated income streams that work while I rest.
