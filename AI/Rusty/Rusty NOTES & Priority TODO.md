@@ -25,7 +25,7 @@ Current Issues that need resolved
 
 ---
 TODO
-- [ ] Compare Rusty NOTES & Priority TODO vs. whats currently tasked and see if anything from here is missing. 📅 📅 2026-03-19
+- [x] Compare Rusty NOTES & Priority TODO vs. whats currently tasked and see if anything from here is missing. 📅 📅 2026-03-19 ✅ 2026-03-23
 
 
 Most of the below items are now tasks in Rusty, but lets review and cleanup.
@@ -40,11 +40,6 @@ Notes
 - model evaluations
 	- https://www.canirun.ai/
 	- check that against avail gpu
-- agent memory
-- agent memory vs. global?
-	- ie: Keith hates the color red
-	- Keith was born on xx/xx/xxx
-	- etc.
 - model GA
 	- combo of memory & model
 - specialized agent for updating Rusty
@@ -52,6 +47,7 @@ Notes
 	- uses architecture
 	- can sandbox and validate changes
 	- can put up PR with proofs
+	- noticed Codex is open source -- see about using this
 - google auth integration for f/e
 	- link to domain / ssl .. depends on ^^
 - update to use more jira style:  depends on (agents follow this already), links to, relates to, etc..
