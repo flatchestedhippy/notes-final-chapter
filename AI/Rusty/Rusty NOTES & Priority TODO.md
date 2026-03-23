@@ -50,9 +50,6 @@ Notes
 	- noticed Codex is open source -- see about using this
 - google auth integration for f/e
 	- link to domain / ssl .. depends on ^^
-- update to use more jira style:  depends on (agents follow this already), links to, relates to, etc..
-- scheduled main nav
-	- show all scheduled jobs with next run time and human readable cron schedule
 - agent 1:1's
 	- agent asks what its done well, where it could use improvement
 	- agent updates its LTM
