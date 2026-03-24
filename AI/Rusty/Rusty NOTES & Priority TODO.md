@@ -33,15 +33,9 @@ Most of the below items are now tasks in Rusty, but lets review and cleanup.
 ---
 
 Notes
-- perhaps include supervised learning per agent
-	- too many 'bads' could result in being fired
-	- both good/bad goes to agents memory
-
 - model evaluations
 	- https://www.canirun.ai/
 	- check that against avail gpu
-- model GA
-	- combo of memory & model
 - specialized agent for updating Rusty
 	- uses design system
 	- uses architecture
