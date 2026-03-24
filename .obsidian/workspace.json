@@ -25,19 +25,19 @@
             }
           },
           {
-            "id": "2b81410301f0d0db",
+            "id": "b11996a93b93e302",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/03.23.2026.md",
+                "file": "daily-notes/03.24.2026.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "03.23.2026"
+              "title": "03.24.2026"
             }
           }
         ],
@@ -94,6 +94,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "03.20.2026"
+            }
+          },
+          {
+            "id": "2b81410301f0d0db",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/03.23.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "03.23.2026"
             }
           }
         ]
@@ -261,10 +277,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "2b81410301f0d0db",
+  "active": "ac13e6cfcbe313eb",
   "lastOpenFiles": [
-    "Start.md",
+    "daily-notes/03.24.2026.md",
     "daily-notes/03.23.2026.md",
+    "Start.md",
     "daily-notes/03.19.2026.md",
     "AI/The Father's Blueprint.md",
     "daily-notes/03.16.2026.md",
