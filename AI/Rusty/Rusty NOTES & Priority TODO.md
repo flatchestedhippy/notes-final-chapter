@@ -42,8 +42,6 @@ Notes
 	- can sandbox and validate changes
 	- can put up PR with proofs
 	- noticed Codex is open source -- see about using this
-- google auth integration for f/e
-	- link to domain / ssl .. depends on ^^
 - agent 1:1's
 	- agent asks what its done well, where it could use improvement
 	- agent updates its LTM
