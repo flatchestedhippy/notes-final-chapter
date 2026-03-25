@@ -25,19 +25,19 @@
             }
           },
           {
-            "id": "b11996a93b93e302",
+            "id": "963f25f658b134ab",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/03.24.2026.md",
+                "file": "daily-notes/03.25.2026.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "03.24.2026"
+              "title": "03.25.2026"
             }
           }
         ],
@@ -111,9 +111,24 @@
               "icon": "lucide-file",
               "title": "03.23.2026"
             }
+          },
+          {
+            "id": "b11996a93b93e302",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/03.24.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "03.24.2026"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,10 +293,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "b11996a93b93e302",
+  "active": "ac13e6cfcbe313eb",
   "lastOpenFiles": [
-    "daily-notes/03.23.2026.md",
+    "daily-notes/03.25.2026.md",
     "daily-notes/03.24.2026.md",
+    "daily-notes/03.23.2026.md",
     "AI/Rusty/Rusty NOTES & Priority TODO.md",
     "Start.md",
     "TODO - Still.md",
@@ -306,7 +322,6 @@
     "AI/Untitled.md",
     "AI/Runbook.md",
     "AI/OpenClaw/Agents.md",
-    "AI/OpenClaw/Setup & Confirmation.md",
     "AI/Rusty",
     "AI/OpenClaw",
     "AI",
