@@ -44,6 +44,10 @@
     },
     "daily-notes": {
       "children": [
+        "daily-notes/03.20.2026.md",
+        "daily-notes/03.23.2026.md",
+        "daily-notes/03.24.2026.md",
+        "daily-notes/03.25.2026.md",
         "daily-notes/03.18.2026.md",
         "daily-notes/03.19.2026.md",
         "daily-notes/03.17.2026.md",
@@ -100,6 +104,7 @@
     },
     "Extras/Attachments": {
       "children": [
+        "Extras/Attachments/Pasted image 20260323112038.png",
         "Extras/Attachments/Pasted image 20251204061105.png"
       ],
       "sortOrder": "custom"

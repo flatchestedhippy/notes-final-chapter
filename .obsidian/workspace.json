@@ -127,6 +127,20 @@
               "icon": "lucide-file",
               "title": "03.24.2026"
             }
+          },
+          {
+            "id": "decc9ad34d9c321e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/02.25.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02.25.2026"
+            }
           }
         ]
       }
@@ -293,11 +307,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "963f25f658b134ab",
+  "active": "ac13e6cfcbe313eb",
   "lastOpenFiles": [
+    "daily-notes/02.25.2026.md",
     "Start.md",
-    "daily-notes/03.25.2026.md",
     "daily-notes/03.24.2026.md",
+    "daily-notes/03.25.2026.md",
     "daily-notes/03.23.2026.md",
     "AI/Rusty/Rusty NOTES & Priority TODO.md",
     "TODO - Still.md",
@@ -313,7 +328,6 @@
     "daily-notes/03.11.2026.md",
     "daily-notes/03.12.2026.md",
     "Other/All TODO.md",
-    "daily-notes/02.25.2026.md",
     "AI/Rusty/Untitled.md",
     "AI/Rusty/Prompts.md",
     "AI/Rusty/scratchpad.md",
