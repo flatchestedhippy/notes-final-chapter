@@ -1,0 +1,117 @@
+## Epic: Project UX overhaul
+
+### Project List view
+
+**Ticket**: Refactor Layout & Listing P10
+- We are no longer using cards.
+- Instead, clicking on a project for example shows the details (implemented later) on its own, no other listed projects.
+- Update the layout to match the new design. Note that we will be using the same type of layout for all sections now (a table like listing & a new details view)
+	- this includes for: projects, tasks, agents, scheduled, teams, etc. -> do not change any of that yet, this is just for reference.
+- Many sections will now have paging. Be sure to utilize the same core code as we'll later add sorting, etc. -> the paging/sorting should be data agnostic. Set default to show 10 items max per page.
+	- For reference, here are some things that will have paging (implemented later in other tickets).
+		- projects,  projects -> tasks, key findings, epics, activity.
+	- Sorting is to be moved to the column header per the designs, the designs show the UPDATED column being sorted.
+	- There is no longer the idea of collapsed/expanded for listings like projects/tasks.
+	- By default, filter the projects to active sorted by date descending. 
+- The state column represents Project state unless status is completed or archived, see other sample image for that
+- Projects have status and states
+	- statuses: active, completed, archived
+	- states: blocked, decision needed, paused
+- The color bar on the left represents state. State is computed based on the tasks assigned to the project. 
+	- blocked
+	- needs decision
+	- paused
+- For reference, here are the status and states for tasks (do not update this yet)
+	- Status: backlog, queued, in progress, ready for review, done, archived
+	- States: blocked, decision needed, paused, cancelled
+
+- Projects list, Includes active projects in various states 
+![[Pasted image 20260325204606.png]]
+
+- Projects list, includes completed & archived states
+![[Pasted image 20260325204813.png]]
+
+---
+
+### Project Details
+
+Ticket: Refactor Layout  P9
+- We are no longer using cards.
+- Update the layout to match the new design. Do no populate Tasks, Key findings, Epics or Activity yet, those are done in a later ticket.
+- Actions such as edit, delete, etc. should be provided in a dropdown under the ... that is to the right of the Add task button
+- Add Task should take you to the task screen and prepopulate the project in the dropdown
+
+
+**Ticket: Tasks tab** P8
+- Viewing a project should take you to the detail view (later ticket). The detail should be its own view (no other projects show).
+- Edit a project should be its own view, (no other projects show). Use the existing form.
+- Ensure Tasks are page-able.  Sorted by state descending.
+	- Here is the descending order:
+		- Blocked
+		- Decision Needed 
+		- Ready for Review
+  
+![[Pasted image 20260325204847.png]]
+
+**Ticket : Key findings** P7
+- use the format below, should be page-able 
+![[Pasted image 20260325204914.png]]
+
+**Ticket Epics** P6
+![[Pasted image 20260325205044.png]]
+
+**Ticket Activities** P5
+![[Pasted image 20260325205102.png]]
+---
+
+## Epic: Task UX overhaul
+
+### Collapsed/List view
+
+**Ticket**: Refactor Layout & Listing P10
+- We are no longer using cards.
+- Instead, clicking on a task for example shows the details (implemented later) on its own, no other listed tasks.
+- Update the layout to match the new design. 
+- Tasks have status and states
+	- Statuses: backlog, queued, in progress, ready for review, done, archived
+	- States: blocked, decision needed, paused, cancelled
+- The color bar on the left represents state. State is computed based on the status unless status is done or archived.
+	- If state exists → bar color = state
+	- If no state → bar color = status
+	- If done → bar = green
+	- If archived → bar = light gray
+- For reference, here are the status and states for tasks (do not update this yet)
+	- Status: backlog, queued, in progress, ready for review, done, archived
+	- States: blocked, decision needed, paused, cancelled
+- Actions go under the ...
+	- Edit, Retry, Archive, Delete, Run Now, Cancel, Resend Results, Update Delivery, etc.
+
+Tasks list, shows various active tasks
+![[Pasted image 20260325205145.png]]
+
+Tasks list, shows completed, etc.
+![[Pasted image 20260325205202.png]]
+
+### Task Details
+
+New Task Detail Layout P9
+![[Pasted image 20260325205821.png]]
+
+Summary Tab P8
+![[Pasted image 20260325210018.png]]
+
+Deliverables Tab P7
+![[Pasted image 20260325210036.png]]
+
+
+Delivery Tab P6
+![[Pasted image 20260325210054.png]]
+
+History Tab P5
+![[Pasted image 20260325210105.png]]
+
+Attachments Tab P4
+![[Pasted image 20260325210121.png]]
+
+---
+

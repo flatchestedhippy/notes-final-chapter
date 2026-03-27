@@ -35,6 +35,7 @@
     },
     "AI/Rusty": {
       "children": [
+        "AI/Rusty/UX Overhaul.md",
         "AI/Rusty/Rusty Current Functionality.md",
         "AI/Rusty/scratchpad.md",
         "AI/Rusty/Prompts.md",
@@ -44,6 +45,8 @@
     },
     "daily-notes": {
       "children": [
+        "daily-notes/03.27.2026.md",
+        "daily-notes/03.26.2026.md",
         "daily-notes/03.20.2026.md",
         "daily-notes/03.23.2026.md",
         "daily-notes/03.24.2026.md",
@@ -104,6 +107,31 @@
     },
     "Extras/Attachments": {
       "children": [
+        "Extras/Attachments/Pasted image 20260325210121.png",
+        "Extras/Attachments/Pasted image 20260325210105.png",
+        "Extras/Attachments/Pasted image 20260325210054.png",
+        "Extras/Attachments/Pasted image 20260325210036.png",
+        "Extras/Attachments/Pasted image 20260325210018.png",
+        "Extras/Attachments/Pasted image 20260325205821.png",
+        "Extras/Attachments/Pasted image 20260325205202.png",
+        "Extras/Attachments/Pasted image 20260325205145.png",
+        "Extras/Attachments/Pasted image 20260325205102.png",
+        "Extras/Attachments/Pasted image 20260325205044.png",
+        "Extras/Attachments/Pasted image 20260325204914.png",
+        "Extras/Attachments/Pasted image 20260325204847.png",
+        "Extras/Attachments/Pasted image 20260325204813.png",
+        "Extras/Attachments/Pasted image 20260325204606.png",
+        "Extras/Attachments/Pasted image 20260325194819.png",
+        "Extras/Attachments/Pasted image 20260325194806.png",
+        "Extras/Attachments/Pasted image 20260325194350.png",
+        "Extras/Attachments/Pasted image 20260325190216.png",
+        "Extras/Attachments/Pasted image 20260325185942.png",
+        "Extras/Attachments/Pasted image 20260325171314.png",
+        "Extras/Attachments/Pasted image 20260325161805.png",
+        "Extras/Attachments/Pasted image 20260325161212.png",
+        "Extras/Attachments/Pasted image 20260325160323.png",
+        "Extras/Attachments/Pasted image 20260325160212.png",
+        "Extras/Attachments/Pasted image 20260325144119.png",
         "Extras/Attachments/Pasted image 20260323112038.png",
         "Extras/Attachments/Pasted image 20251204061105.png"
       ],

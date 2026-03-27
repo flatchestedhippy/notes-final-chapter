@@ -25,19 +25,19 @@
             }
           },
           {
-            "id": "22370690c34e1b17",
+            "id": "97615b8fde5e2c8e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/03.26.2026.md",
+                "file": "daily-notes/03.27.2026.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "03.26.2026"
+              "title": "03.27.2026"
             }
           }
         ],
@@ -49,7 +49,7 @@
         "dimension": 46.46263910969793,
         "children": [
           {
-            "id": "ac13e6cfcbe313eb",
+            "id": "ec6cf7477e95729a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -62,54 +62,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Start"
-            }
-          },
-          {
-            "id": "9dfaf4a998468f51",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/03.19.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03.19.2026"
-            }
-          },
-          {
-            "id": "9412b8752659be24",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/03.20.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03.20.2026"
-            }
-          },
-          {
-            "id": "2b81410301f0d0db",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/03.23.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03.23.2026"
             }
           },
           {
@@ -129,20 +81,6 @@
             }
           },
           {
-            "id": "decc9ad34d9c321e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/02.25.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02.25.2026"
-            }
-          },
-          {
             "id": "963f25f658b134ab",
             "type": "leaf",
             "pinned": true,
@@ -157,9 +95,25 @@
               "icon": "lucide-file",
               "title": "03.25.2026"
             }
+          },
+          {
+            "id": "22370690c34e1b17",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/03.26.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "03.26.2026"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -325,11 +279,20 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "22370690c34e1b17",
+  "active": "97615b8fde5e2c8e",
   "lastOpenFiles": [
+    "daily-notes/03.24.2026.md",
+    "daily-notes/03.19.2026.md",
+    "daily-notes/03.20.2026.md",
+    "daily-notes/03.23.2026.md",
     "daily-notes/03.25.2026.md",
+    "daily-notes/02.25.2026.md",
     "daily-notes/03.26.2026.md",
+    "AI/Rusty/UX Overhaul.md",
+    "daily-notes/12.11.2025.md",
+    "daily-notes/03.27.2026.md",
     "Start.md",
+    "AI/Rusty/Rusty NOTES & Priority TODO.md",
     "Extras/Attachments/Pasted image 20260325210121.png",
     "Extras/Attachments/Pasted image 20260325210105.png",
     "Extras/Attachments/Pasted image 20260325210054.png",
@@ -340,29 +303,20 @@
     "Extras/Attachments/Pasted image 20260325205145.png",
     "Extras/Attachments/Pasted image 20260325205102.png",
     "Extras/Attachments/Pasted image 20260325205044.png",
-    "daily-notes/02.25.2026.md",
-    "daily-notes/03.24.2026.md",
-    "daily-notes/03.23.2026.md",
-    "AI/Rusty/Rusty NOTES & Priority TODO.md",
     "TODO - Still.md",
-    "daily-notes/03.19.2026.md",
     "AI/The Father's Blueprint.md",
     "daily-notes/03.16.2026.md",
     "daily-notes/03.17.2026.md",
     "daily-notes/03.18.2026.md",
-    "daily-notes/03.20.2026.md",
     "daily-notes/03.13.2026.md",
     "Extras/Templates/Template -- Daily Note.md",
     "daily-notes/03.11.2026.md",
     "daily-notes/03.12.2026.md",
     "Other/All TODO.md",
-    "AI/Rusty/Untitled.md",
     "AI/Rusty/Prompts.md",
     "AI/Rusty/scratchpad.md",
     "AI/Rusty/Rusty Current Functionality.md",
     "AI/Notes.md",
-    "AI/Untitled.md",
-    "AI/Runbook.md",
     "AI/Rusty",
     "AI/OpenClaw",
     "AI",
