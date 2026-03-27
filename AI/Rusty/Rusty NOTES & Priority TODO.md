@@ -25,7 +25,7 @@
 		- [ ]  require pin when access memory tab
 - Re-UX
 	- [x] Dashboard ✅ 2026-03-27
-	- [ ] Board
+	- [x] Board ✅ 2026-03-27
 	- [ ] Main Mission
 	- [ ] Scheduled..
 	- [ ] Memory
