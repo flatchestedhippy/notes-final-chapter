@@ -158,7 +158,8 @@
               "title": "03.25.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -215,8 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "47c923d3d726f0e9",
@@ -325,10 +325,11 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "ac13e6cfcbe313eb",
+  "active": "22370690c34e1b17",
   "lastOpenFiles": [
-    "daily-notes/03.26.2026.md",
     "daily-notes/03.25.2026.md",
+    "daily-notes/03.26.2026.md",
+    "Start.md",
     "Extras/Attachments/Pasted image 20260325210121.png",
     "Extras/Attachments/Pasted image 20260325210105.png",
     "Extras/Attachments/Pasted image 20260325210054.png",
@@ -339,7 +340,6 @@
     "Extras/Attachments/Pasted image 20260325205145.png",
     "Extras/Attachments/Pasted image 20260325205102.png",
     "Extras/Attachments/Pasted image 20260325205044.png",
-    "Start.md",
     "daily-notes/02.25.2026.md",
     "daily-notes/03.24.2026.md",
     "daily-notes/03.23.2026.md",
