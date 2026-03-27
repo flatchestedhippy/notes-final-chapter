@@ -9,6 +9,22 @@
         "dimension": 53.53736089030207,
         "children": [
           {
+            "id": "2cd5957fc2f80152",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Rusty/Rusty NOTES & Priority TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Rusty NOTES & Priority TODO"
+            }
+          },
+          {
             "id": "97615b8fde5e2c8e",
             "type": "leaf",
             "pinned": true,
@@ -45,22 +61,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Start"
-            }
-          },
-          {
-            "id": "2cd5957fc2f80152",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Rusty/Rusty NOTES & Priority TODO.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Rusty NOTES & Priority TODO"
             }
           },
           {
@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,13 +292,13 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "b11996a93b93e302",
+  "active": "2cd5957fc2f80152",
   "lastOpenFiles": [
+    "daily-notes/03.24.2026.md",
     "daily-notes/03.27.2026.md",
     "TODO - Still.md",
     "Start.md",
     "AI/Rusty/Rusty NOTES & Priority TODO.md",
-    "daily-notes/03.24.2026.md",
     "daily-notes/03.19.2026.md",
     "daily-notes/03.20.2026.md",
     "daily-notes/03.23.2026.md",

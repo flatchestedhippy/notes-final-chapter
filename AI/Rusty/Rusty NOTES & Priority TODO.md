@@ -25,14 +25,18 @@
 	- start lockdown
 		- [ ]  set a pin, encrypt local
 		- [ ]  require pin when access memory tab
+- Chat
+	- [ ] make my text in gray bkgagent response text no bkg
 - Re-UX
 	- [x] Dashboard ✅ 2026-03-27
 	- [x] Board ✅ 2026-03-27
 	- [x] Main Mission ✅ 2026-03-27
-	- [ ] Scheduled..
+	- [x] Scheduled.. ✅ 2026-03-27
 	- [ ] Memory
 	- [ ] Activity
 	- [ ] Logs
+	- [ ] Forms
+		- ensure memory changes to form, currently is a window prompt (gross)
 - Need way to 'wake' up pc with 3090 to process scheduled tasks
 
 ---
