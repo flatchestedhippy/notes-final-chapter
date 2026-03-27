@@ -24,7 +24,8 @@
 		- [ ]  set a pin, encrypt local
 		- [ ]  require pin when access memory tab
 - Re-UX
-	- [ ] Dashboard
+	- [x] Dashboard ✅ 2026-03-27
+	- [ ] Board
 	- [ ] Main Mission
 	- [ ] Scheduled..
 	- [ ] Memory
