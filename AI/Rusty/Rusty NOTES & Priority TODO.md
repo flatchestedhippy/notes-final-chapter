@@ -28,7 +28,7 @@
 - Re-UX
 	- [x] Dashboard ✅ 2026-03-27
 	- [x] Board ✅ 2026-03-27
-	- [ ] Main Mission
+	- [x] Main Mission ✅ 2026-03-27
 	- [ ] Scheduled..
 	- [ ] Memory
 	- [ ] Activity
