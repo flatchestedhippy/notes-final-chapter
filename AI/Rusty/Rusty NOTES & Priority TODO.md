@@ -31,6 +31,7 @@
 	- [ ] Memory
 	- [ ] Activity
 	- [ ] Logs
+- Need way to 'wake' up pc with 3090 to process scheduled tasks
 
 ---
 
