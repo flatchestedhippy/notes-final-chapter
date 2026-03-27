@@ -26,13 +26,15 @@
 		- [ ]  set a pin, encrypt local
 		- [ ]  require pin when access memory tab
 - Chat
-	- [ ] make my text in gray bkgagent response text no bkg
+	- [ ] make my text in gray bkg / agent response text no bkg
+- Functionality
+	- [ ] memory, see Remember Details ***
 - Re-UX
 	- [x] Dashboard ✅ 2026-03-27
 	- [x] Board ✅ 2026-03-27
 	- [x] Main Mission ✅ 2026-03-27
 	- [x] Scheduled.. ✅ 2026-03-27
-	- [ ] Memory
+	- [x] Memory ✅ 2026-03-27
 	- [ ] Activity
 	- [ ] Logs
 	- [ ] Forms
