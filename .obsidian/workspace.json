@@ -6,7 +6,7 @@
       {
         "id": "a937ab42125a6058",
         "type": "tabs",
-        "dimension": 83.81877022653723,
+        "dimension": 53.53736089030207,
         "children": [
           {
             "id": "2cd5957fc2f80152",
@@ -22,22 +22,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Rusty NOTES & Priority TODO"
-            }
-          },
-          {
-            "id": "963f25f658b134ab",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/03.25.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03.25.2026"
             }
           },
           {
@@ -57,12 +41,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "6af37589e57fc3e6",
         "type": "tabs",
-        "dimension": 16.181229773462782,
+        "dimension": 46.46263910969793,
         "children": [
           {
             "id": "ac13e6cfcbe313eb",
@@ -157,8 +141,25 @@
               "icon": "lucide-file",
               "title": "02.25.2026"
             }
+          },
+          {
+            "id": "963f25f658b134ab",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/03.25.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "03.25.2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
