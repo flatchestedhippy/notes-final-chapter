@@ -35,7 +35,7 @@
 	- [x] Main Mission ✅ 2026-03-27
 	- [x] Scheduled.. ✅ 2026-03-27
 	- [x] Memory ✅ 2026-03-27
-	- [ ] Activity
+	- [x] Activity ✅ 2026-03-27
 	- [ ] Logs
 	- [ ] Forms
 		- ensure memory changes to form, currently is a window prompt (gross)
