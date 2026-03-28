@@ -15,8 +15,8 @@
 		- should go full width, no rounding
 		- no padding top/bottom - bar should sit flush with above/below bar
 - Tasks
-	- [ ] date/time attachment added, sort desc
-	- [ ] go back to task detail ux mockup, overview looks lit, update to match
+	- [x] date/time attachment added, sort desc ✅ 2026-03-28
+	- [x] go back to task detail ux mockup, overview looks lit, update to match ✅ 2026-03-28
 - QOL
 	- [x] make it so the project-id, task-id, any-id gets copied to clipboard when you click on it in the breadcrumb ✅ 2026-03-26
 	- [ ] put 'refresh' button with project/epic so lists update 
