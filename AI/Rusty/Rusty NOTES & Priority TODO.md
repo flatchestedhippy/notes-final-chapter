@@ -36,7 +36,7 @@
 	- [x] Scheduled.. ✅ 2026-03-27
 	- [x] Memory ✅ 2026-03-27
 	- [x] Activity ✅ 2026-03-27
-	- [ ] Logs
+	- [x] Logs ✅ 2026-03-27
 	- [ ] Forms
 		- ensure memory changes to form, currently is a window prompt (gross)
 - Need way to 'wake' up pc with 3090 to process scheduled tasks
