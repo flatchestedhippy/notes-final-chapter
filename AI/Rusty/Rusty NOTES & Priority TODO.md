@@ -7,7 +7,7 @@
 - Tweaks
 	- [x] header on list view still not right color ✅ 2026-03-26
 	- [ ] limit next step to single line with... when more text, hover should tooltip the value (desktop only)
-	- [ ] collapse queued in board by default to allow other lane cards to be larger
+	- [x] collapse queued in board by default to allow other lane cards to be larger ✅ 2026-03-28
 		- should show QUEUED vertically with a count
 - Mobile
 	- [x] have menu collapse to hamburger ✅ 2026-03-26
