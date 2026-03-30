@@ -1,10 +1,31 @@
 ![[12.11.2025#Why (short)]]
 
+```dataviewjs
+const start = dv.date("2026-02-13");
+const days = dv.date("today").diff(start, "days").days;
 
-
-
-
-
+dv.el("div",
+  `<div style="
+    display:flex;
+    justify-content:center;
+    margin-top:10px;
+  ">
+    <div style="
+      text-align:center;
+      padding:10px 18px;
+      border-radius:12px;
+      background: var(--background-secondary);
+    ">
+      <div style="font-size:0.8em; opacity:0.8;">
+        ⏱️ KDV
+      </div>
+      <div style="font-size:1.6em; font-weight:bold;">
+        ${days}
+      </div>
+    </div>
+  </div>`
+);
+```
 - I'm grateful for: 
 	- 
 - One thing I did well yesterday:
@@ -13,7 +34,6 @@
 	- 
 - What small act of service did you do yesterday?
 	- 
-
 
 ### Final
 What did I move forward today?
