@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "545c805b53b3c6a5",
+            "id": "c13405ad8cf751ad",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -39,23 +39,9 @@
               "icon": "lucide-file",
               "title": "03.30.2026"
             }
-          },
-          {
-            "id": "c13405ad8cf751ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/03.30.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03.30.2026"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "6af37589e57fc3e6",
@@ -76,22 +62,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Start"
-            }
-          },
-          {
-            "id": "b11996a93b93e302",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/03.24.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03.24.2026"
             }
           },
           {
@@ -142,8 +112,7 @@
               "title": "03.27.2026"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -311,19 +280,19 @@
   },
   "active": "c13405ad8cf751ad",
   "lastOpenFiles": [
-    "Extras/Templates/Template -- Daily Note.md",
+    "Start.md",
     "daily-notes/03.30.2026.md",
+    "daily-notes/03.27.2026.md",
+    "daily-notes/03.25.2026.md",
+    "daily-notes/03.24.2026.md",
+    "Extras/Templates/Template -- Daily Note.md",
     "Extras/sortspec.md.md",
     "AI/Rusty/Rusty NOTES & Priority TODO.md",
     "Other/Kingsmen Resignation Jan 16, 2026.md",
-    "daily-notes/03.27.2026.md",
     "TODO - Still.md",
-    "daily-notes/03.24.2026.md",
-    "Start.md",
     "daily-notes/03.19.2026.md",
     "daily-notes/03.20.2026.md",
     "daily-notes/03.23.2026.md",
-    "daily-notes/03.25.2026.md",
     "daily-notes/02.25.2026.md",
     "daily-notes/03.26.2026.md",
     "AI/Rusty/UX Overhaul.md",

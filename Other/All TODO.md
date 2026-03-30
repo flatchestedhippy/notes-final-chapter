@@ -8,7 +8,7 @@ WHERE !completed AND !contains(meta(section).subpath, "Current Routine")
 - [x] Email Williams school (Ms. Shore) for status on how it is going 🔺 📅 2026-03-12 ✅ 2026-03-13
 	- timing : got letter / email today - school wants to meet Tuesday
 - [ ] Book
-	- [ ] Ensure can still access locally 📅 2026-03-30
+	- [ ] Ensure can still access locally 📅 2026-04-02
 	- [ ] Make plan to actually get published!
 - [x] Taxes 🔺 ✅ 2026-03-11
 	- [x] Start Taxes 📅 2026-03-11 ✅ 2026-03-11
