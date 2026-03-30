@@ -25,22 +25,37 @@
             }
           },
           {
-            "id": "97615b8fde5e2c8e",
+            "id": "545c805b53b3c6a5",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/03.27.2026.md",
+                "file": "daily-notes/03.30.2026.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "03.27.2026"
+              "title": "03.30.2026"
+            }
+          },
+          {
+            "id": "3c9eb92941380b15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extras/Templates/Template -- Daily Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Template -- Daily Note"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "6af37589e57fc3e6",
@@ -112,21 +127,23 @@
             }
           },
           {
-            "id": "c760569f004d07fe",
+            "id": "97615b8fde5e2c8e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO - Still.md",
+                "file": "daily-notes/03.27.2026.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "TODO - Still"
+              "title": "03.27.2026"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -292,12 +309,13 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "b11996a93b93e302",
+  "active": "3c9eb92941380b15",
   "lastOpenFiles": [
-    "AI/Rusty/Rusty NOTES & Priority TODO.md",
-    "daily-notes/03.24.2026.md",
+    "daily-notes/03.30.2026.md",
     "daily-notes/03.27.2026.md",
     "TODO - Still.md",
+    "AI/Rusty/Rusty NOTES & Priority TODO.md",
+    "daily-notes/03.24.2026.md",
     "Start.md",
     "daily-notes/03.19.2026.md",
     "daily-notes/03.20.2026.md",
@@ -329,7 +347,6 @@
     "AI/Rusty/Prompts.md",
     "AI/Rusty/scratchpad.md",
     "AI/Rusty/Rusty Current Functionality.md",
-    "AI/Notes.md",
     "AI/Rusty",
     "AI/OpenClaw",
     "AI",
