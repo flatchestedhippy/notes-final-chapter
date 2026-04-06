@@ -39,9 +39,23 @@
               "icon": "lucide-file",
               "title": "04.06.2026"
             }
+          },
+          {
+            "id": "4561e8bbd1595f18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/03.13.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03.13.2026"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "6af37589e57fc3e6",
@@ -278,28 +292,34 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "ec6cf7477e95729a",
+  "active": "4561e8bbd1595f18",
   "lastOpenFiles": [
+    "daily-notes/03.20.2026.md",
+    "daily-notes/03.19.2026.md",
+    "daily-notes/03.18.2026.md",
+    "daily-notes/03.12.2026.md",
+    "daily-notes/03.17.2026.md",
+    "daily-notes/03.16.2026.md",
+    "daily-notes/03.04.2026.md",
+    "daily-notes/03.11.2026.md",
+    "daily-notes/03.10.2026.md",
+    "daily-notes/03.02.2026.md",
+    "daily-notes/02.25.2026.md",
+    "daily-notes/02.26.2026.md",
+    "daily-notes/03.25.2026.md",
+    "daily-notes/03.27.2026.md",
+    "daily-notes/03.24.2026.md",
+    "daily-notes/03.30.2026.md",
+    "daily-notes/03.31.2026.md",
     "daily-notes/04.06.2026.md",
     "Start.md",
-    "daily-notes/03.30.2026.md",
     "daily-notes/03.23.2026.md",
-    "daily-notes/02.25.2026.md",
     "AI/Rusty/Rusty NOTES & Priority TODO.md",
     "daily-notes/03.26.2026.md",
-    "daily-notes/03.31.2026.md",
-    "daily-notes/03.27.2026.md",
     "AI/The Father's Blueprint.md",
-    "daily-notes/03.25.2026.md",
-    "daily-notes/03.24.2026.md",
     "Extras/Templates/Template -- Daily Note.md",
     "Extras/sortspec.md.md",
     "Other/Kingsmen Resignation Jan 16, 2026.md",
-    "TODO - Still.md",
-    "daily-notes/03.19.2026.md",
-    "daily-notes/03.20.2026.md",
-    "AI/Rusty/UX Overhaul.md",
-    "daily-notes/12.11.2025.md",
     "Extras/Attachments/Pasted image 20260325210121.png",
     "Extras/Attachments/Pasted image 20260325210105.png",
     "Extras/Attachments/Pasted image 20260325210054.png",
@@ -310,12 +330,6 @@
     "Extras/Attachments/Pasted image 20260325205145.png",
     "Extras/Attachments/Pasted image 20260325205102.png",
     "Extras/Attachments/Pasted image 20260325205044.png",
-    "daily-notes/03.16.2026.md",
-    "daily-notes/03.17.2026.md",
-    "daily-notes/03.18.2026.md",
-    "daily-notes/03.13.2026.md",
-    "daily-notes/03.11.2026.md",
-    "daily-notes/03.12.2026.md",
     "AI/Rusty",
     "AI/OpenClaw",
     "AI",
