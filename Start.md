@@ -9,12 +9,13 @@ G O A L :: See [[The Father's Blueprint]]
 
 **House Sprint Cleaning**
 - [ ] Finish bathroom work
-- [ ] Clean office 
-- [ ] Clean master
-- [ ] Clean Williams room
-- [ ] Clean Living Room
-- [ ] Clean Play Room
-- [ ] Clean Kitchen
+- [ ] General Cleaning
+	- [ ] Clean office 
+	- [ ] Clean master
+	- [ ] Clean Williams room
+	- [ ] Clean Living Room
+	- [ ] Clean Play Room
+	- [ ] Clean Kitchen
 
 
 ---
