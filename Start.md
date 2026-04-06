@@ -4,6 +4,20 @@
 G O A L :: See [[The Father's Blueprint]]
 
 ---
+## Current
+
+
+**House Sprint Cleaning**
+- [ ] Finish bathroom work
+- [ ] Clean office 
+- [ ] Clean master
+- [ ] Clean Williams room
+- [ ] Clean Living Room
+- [ ] Clean Play Room
+- [ ] Clean Kitchen
+
+
+---
 **PAST DUE**
 ```tasks
 due before today
