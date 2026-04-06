@@ -1,5 +1,11 @@
 
 
+4/6/2026
+- Need to get the weekly / daily updates running
+	- When i delete current 'lead' weekly review, it creates a new task automatically - maybe thats good?
+		- but what about the 'brad' weekly review, not sure I want that? or not sure I want it to be brad. I thought i was doing a Rusty weekly review?
+---
+
 3/26/2026 & 3/27/2026
 
 - Workflow improvements
