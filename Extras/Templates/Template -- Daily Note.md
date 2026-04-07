@@ -46,4 +46,7 @@ What did I move forward today?
 - [ ] Meditate
 - [ ] Review last few of days of notes
 - [ ] Review why/purpose
+- [ ] Atomic Habits (during working hours)
+	- exercise (pushups, curls, etc.)
+	- stretch
 
