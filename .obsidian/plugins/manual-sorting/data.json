@@ -45,6 +45,9 @@
     },
     "daily-notes": {
       "children": [
+        "daily-notes/03.30.2026.md",
+        "daily-notes/03.31.2026.md",
+        "daily-notes/04.06.2026.md",
         "daily-notes/03.27.2026.md",
         "daily-notes/03.26.2026.md",
         "daily-notes/03.20.2026.md",
