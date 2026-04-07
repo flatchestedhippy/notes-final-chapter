@@ -7,7 +7,7 @@ G O A L :: See [[The Father's Blueprint]]
 ## Current
 
 
-**House Sprint Cleaning**
+**House Spring Cleaning**
 - [ ] Finish bathroom work
 - [ ] General Cleaning
 	- [ ] Clean office 
