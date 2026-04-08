@@ -25,19 +25,19 @@
             }
           },
           {
-            "id": "e13b4886e6570656",
+            "id": "3785167d28f82f70",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/04.07.2026.md",
+                "file": "daily-notes/04.08.2026.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "04.07.2026"
+              "title": "04.08.2026"
             }
           }
         ],
@@ -62,38 +62,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Start"
-            }
-          },
-          {
-            "id": "22370690c34e1b17",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/03.26.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03.26.2026"
-            }
-          },
-          {
-            "id": "97615b8fde5e2c8e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/03.27.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03.27.2026"
             }
           },
           {
@@ -127,8 +95,25 @@
               "icon": "lucide-file",
               "title": "04.06.2026"
             }
+          },
+          {
+            "id": "e13b4886e6570656",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/04.07.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "04.07.2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -294,18 +279,20 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "e13b4886e6570656",
+  "active": "c13405ad8cf751ad",
   "lastOpenFiles": [
-    "Extras/Templates/Template -- Daily Note.md",
+    "daily-notes/03.26.2026.md",
+    "daily-notes/03.30.2026.md",
+    "daily-notes/03.27.2026.md",
+    "daily-notes/04.06.2026.md",
+    "daily-notes/04.08.2026.md",
     "daily-notes/04.07.2026.md",
+    "Extras/Templates/Template -- Daily Note.md",
     "Start.md",
     "AI/Rusty/Rusty NOTES & Priority TODO.md",
-    "daily-notes/04.06.2026.md",
     "daily-notes/03.23.2026.md",
     "daily-notes/03.31.2026.md",
-    "daily-notes/03.30.2026.md",
     "daily-notes/03.24.2026.md",
-    "daily-notes/03.27.2026.md",
     "daily-notes/03.25.2026.md",
     "daily-notes/02.26.2026.md",
     "daily-notes/02.25.2026.md",
@@ -320,8 +307,6 @@
     "daily-notes/03.11.2026.md",
     "daily-notes/03.10.2026.md",
     "daily-notes/03.02.2026.md",
-    "daily-notes/03.26.2026.md",
-    "AI/The Father's Blueprint.md",
     "Extras/Attachments/Pasted image 20260325210121.png",
     "Extras/Attachments/Pasted image 20260325210105.png",
     "Extras/Attachments/Pasted image 20260325210054.png",
