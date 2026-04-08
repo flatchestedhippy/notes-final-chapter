@@ -9,6 +9,8 @@ G O A L :: See [[The Father's Blueprint]]
 
 **House Spring Cleaning**
 - [ ] Finish bathroom work
+- [ ] Details
+	- [ ] Clean window sills (including sliding glass)
 - [ ] General Cleaning
 	- [ ] Clean office 
 	- [ ] Clean master
