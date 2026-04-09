@@ -65,22 +65,6 @@
             }
           },
           {
-            "id": "c13405ad8cf751ad",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/03.30.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03.30.2026"
-            }
-          },
-          {
             "id": "2f9bc9d53db1f3ab",
             "type": "leaf",
             "pinned": true,
@@ -128,7 +112,8 @@
               "title": "04.08.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,16 +281,18 @@
   },
   "active": "bf29285bb639143f",
   "lastOpenFiles": [
-    "Extras/Templates/Template -- Daily Note.md",
+    "daily-notes/04.06.2026.md",
+    "daily-notes/03.30.2026.md",
+    "daily-notes/04.07.2026.md",
+    "daily-notes/04.08.2026.md",
     "daily-notes/04.09.2026.md",
     "Start.md",
-    "daily-notes/04.08.2026.md",
+    "daily-notes/01.07.2026.md",
+    "daily-notes/01.06.2026.md",
+    "Extras/Templates/Template -- Daily Note.md",
     "AI/The Father's Blueprint.md",
-    "daily-notes/04.07.2026.md",
     "daily-notes/03.26.2026.md",
-    "daily-notes/03.30.2026.md",
     "daily-notes/03.27.2026.md",
-    "daily-notes/04.06.2026.md",
     "AI/Rusty/Rusty NOTES & Priority TODO.md",
     "daily-notes/03.23.2026.md",
     "daily-notes/03.31.2026.md",
@@ -320,8 +307,6 @@
     "daily-notes/03.12.2026.md",
     "daily-notes/03.17.2026.md",
     "daily-notes/03.16.2026.md",
-    "daily-notes/03.04.2026.md",
-    "daily-notes/03.11.2026.md",
     "Extras/Attachments/Pasted image 20260325210121.png",
     "Extras/Attachments/Pasted image 20260325210105.png",
     "Extras/Attachments/Pasted image 20260325210054.png",
