@@ -6,7 +6,7 @@
       {
         "id": "a937ab42125a6058",
         "type": "tabs",
-        "dimension": 80.31496062992126,
+        "dimension": 50.834658187599366,
         "children": [
           {
             "id": "2cd5957fc2f80152",
@@ -25,19 +25,19 @@
             }
           },
           {
-            "id": "3785167d28f82f70",
+            "id": "bf29285bb639143f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/04.08.2026.md",
+                "file": "daily-notes/04.09.2026.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "04.08.2026"
+              "title": "04.09.2026"
             }
           }
         ],
@@ -46,7 +46,7 @@
       {
         "id": "6af37589e57fc3e6",
         "type": "tabs",
-        "dimension": 19.68503937007874,
+        "dimension": 49.165341812400634,
         "children": [
           {
             "id": "ec6cf7477e95729a",
@@ -113,21 +113,22 @@
             }
           },
           {
-            "id": "bf29285bb639143f",
+            "id": "3785167d28f82f70",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/The Father's Blueprint.md",
+                "file": "daily-notes/04.08.2026.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "The Father's Blueprint"
+              "title": "04.08.2026"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "47c923d3d726f0e9",
@@ -294,17 +294,18 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "3785167d28f82f70",
+  "active": "bf29285bb639143f",
   "lastOpenFiles": [
-    "AI/The Father's Blueprint.md",
-    "daily-notes/04.08.2026.md",
-    "daily-notes/04.07.2026.md",
+    "Extras/Templates/Template -- Daily Note.md",
+    "daily-notes/04.09.2026.md",
     "Start.md",
+    "daily-notes/04.08.2026.md",
+    "AI/The Father's Blueprint.md",
+    "daily-notes/04.07.2026.md",
     "daily-notes/03.26.2026.md",
     "daily-notes/03.30.2026.md",
     "daily-notes/03.27.2026.md",
     "daily-notes/04.06.2026.md",
-    "Extras/Templates/Template -- Daily Note.md",
     "AI/Rusty/Rusty NOTES & Priority TODO.md",
     "daily-notes/03.23.2026.md",
     "daily-notes/03.31.2026.md",
@@ -321,7 +322,6 @@
     "daily-notes/03.16.2026.md",
     "daily-notes/03.04.2026.md",
     "daily-notes/03.11.2026.md",
-    "daily-notes/03.10.2026.md",
     "Extras/Attachments/Pasted image 20260325210121.png",
     "Extras/Attachments/Pasted image 20260325210105.png",
     "Extras/Attachments/Pasted image 20260325210054.png",
