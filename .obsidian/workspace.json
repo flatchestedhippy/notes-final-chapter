@@ -25,19 +25,19 @@
             }
           },
           {
-            "id": "bf29285bb639143f",
+            "id": "eb67b2290fbb86b8",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/04.09.2026.md",
+                "file": "daily-notes/04.10.2026.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "04.09.2026"
+              "title": "04.10.2026"
             }
           }
         ],
@@ -111,9 +111,25 @@
               "icon": "lucide-file",
               "title": "04.08.2026"
             }
+          },
+          {
+            "id": "bf29285bb639143f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/04.09.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "04.09.2026"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -279,9 +295,10 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "2f9bc9d53db1f3ab",
+  "active": "eb67b2290fbb86b8",
   "lastOpenFiles": [
     "daily-notes/04.09.2026.md",
+    "daily-notes/04.10.2026.md",
     "daily-notes/04.06.2026.md",
     "daily-notes/03.30.2026.md",
     "daily-notes/04.07.2026.md",
@@ -306,7 +323,6 @@
     "daily-notes/03.18.2026.md",
     "daily-notes/03.12.2026.md",
     "daily-notes/03.17.2026.md",
-    "daily-notes/03.16.2026.md",
     "Extras/Attachments/Pasted image 20260325210121.png",
     "Extras/Attachments/Pasted image 20260325210105.png",
     "Extras/Attachments/Pasted image 20260325210054.png",
