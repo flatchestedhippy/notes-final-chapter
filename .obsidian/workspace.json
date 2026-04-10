@@ -39,9 +39,23 @@
               "icon": "lucide-file",
               "title": "04.10.2026"
             }
+          },
+          {
+            "id": "3c32c671d412074f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/03.24.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03.24.2026"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "6af37589e57fc3e6",
@@ -278,10 +292,10 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "eb67b2290fbb86b8",
+  "active": "3c32c671d412074f",
   "lastOpenFiles": [
-    "Start.md",
     "daily-notes/04.10.2026.md",
+    "Start.md",
     "daily-notes/04.07.2026.md",
     "daily-notes/04.06.2026.md",
     "daily-notes/04.08.2026.md",
