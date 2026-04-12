@@ -118,12 +118,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/The Father's Blueprint.md",
+                "file": "daily-notes/03.24.2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Father's Blueprint"
+              "title": "03.24.2026"
             }
           }
         ],
@@ -295,6 +295,7 @@
   },
   "active": "3b6fd9a50834ad3f",
   "lastOpenFiles": [
+    "AI/The Father's Blueprint.md",
     "Start.md",
     "daily-notes/04.10.2026.md",
     "daily-notes/03.24.2026.md",
@@ -306,7 +307,6 @@
     "daily-notes/01.07.2026.md",
     "daily-notes/01.06.2026.md",
     "Extras/Templates/Template -- Daily Note.md",
-    "AI/The Father's Blueprint.md",
     "daily-notes/03.26.2026.md",
     "daily-notes/03.27.2026.md",
     "AI/Rusty/Rusty NOTES & Priority TODO.md",
