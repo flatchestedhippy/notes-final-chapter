@@ -128,7 +128,8 @@
               "title": "04.10.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -294,7 +295,7 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "ec6cf7477e95729a",
+  "active": "eb67b2290fbb86b8",
   "lastOpenFiles": [
     "daily-notes/04.13.2026.md",
     "Start.md",
