@@ -11,6 +11,9 @@ G O A L :: See [[The Father's Blueprint]]
 - [ ] Finish bathroom work
 - [ ] Details
 	- [ ] Clean window sills (including sliding glass)
+- [ ] Repairs
+	- [ ] Roof / Leak + now broken tiles
+	- [ ] Seal around garage door that Zelda ruined
 - [ ] General Cleaning
 	- [ ] Clean office 
 	- [ ] Clean master
