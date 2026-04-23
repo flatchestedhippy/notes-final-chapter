@@ -4,6 +4,9 @@
 	- plan for seating / arrangement
 	- decorations
 	- foods / drinks
+	- house arrangement
+		- living room - set for party
+		- play room - set for play
 
 ---
 
