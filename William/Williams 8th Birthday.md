@@ -7,6 +7,8 @@
 	- house arrangement
 		- living room - set for party
 		- play room - set for play
+	- activities
+		- Pinata (where to hang)
 
 ---
 
@@ -24,8 +26,6 @@
  10. Ian
  11. Ziloh
 
-
-
 ---
 
 ## Seating
@@ -34,3 +34,7 @@
 
 ---
 
+## Food / Drink
+- [ ] Pretzels
+- [ ] General Chips
+- [ ] Juice Boxes
