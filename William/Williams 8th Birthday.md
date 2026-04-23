@@ -7,8 +7,9 @@
 	- house arrangement
 		- living room - set for party
 		- play room - set for play
+	- outside arrangement (? starts at 7 so may be too dark)
 	- activities
-		- Pinata (where to hang)
+		- Pinata (where to hang?)
 
 ---
 
