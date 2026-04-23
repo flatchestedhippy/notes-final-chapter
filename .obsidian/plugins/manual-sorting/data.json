@@ -2,6 +2,7 @@
   "customOrder": {
     "/": {
       "children": [
+        "Personal",
         "Untitled.md",
         "Extras",
         "daily-notes",
@@ -222,6 +223,12 @@
       "children": [
         "William/Williams 8th Birthday.md",
         "William/1.5.2026 - Letter to my son William.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal": {
+      "children": [
+        "Personal/House Prep.md"
       ],
       "sortOrder": "custom"
     }

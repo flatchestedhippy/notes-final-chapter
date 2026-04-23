@@ -6,8 +6,8 @@
 	- foods / drinks
 
 ---
- 
- ## Attendees
+
+## Attendees
  
  1. William
  2. Mom
@@ -24,3 +24,10 @@
 
 
 ---
+
+## Seating
+- Adults: ~10
+- Children: ~10
+
+---
+
