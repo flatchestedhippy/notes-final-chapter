@@ -16,6 +16,10 @@
 		- stickers or toy
 
 
+xtras
+- Williams bday printed hung
+- Williams bday background for TV (playroom) 4k
+
 Shopping List
 - large boards / signs to post outside
 - small bags of chips 8+
@@ -23,7 +27,8 @@ Shopping List
 - chips, pretzels, snacks
 - juice boxes, lemonade, etc.
 - more balloons, helium 
-- 
+- cookies
+- ping pong balls
 
 
 - [ ] outside signs, balloons so people can find it! 📅 2026-04-28 
