@@ -25,19 +25,19 @@
             }
           },
           {
-            "id": "a7813772484534d5",
+            "id": "367d708844a0afaa",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/04.17.2026.md",
+                "file": "daily-notes/04.23.2026.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "04.17.2026"
+              "title": "04.23.2026"
             }
           }
         ],
@@ -65,35 +65,19 @@
             }
           },
           {
-            "id": "bf29285bb639143f",
+            "id": "00d46360c87d2c7c",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/04.09.2026.md",
+                "file": "William/Williams 8th Birthday.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "04.09.2026"
-            }
-          },
-          {
-            "id": "eb67b2290fbb86b8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/04.10.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "04.10.2026"
+              "title": "Williams 8th Birthday"
             }
           },
           {
@@ -127,8 +111,25 @@
               "icon": "lucide-file",
               "title": "04.14.2026"
             }
+          },
+          {
+            "id": "a7813772484534d5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/04.17.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "04.17.2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -294,16 +295,19 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "a7813772484534d5",
+  "active": "00d46360c87d2c7c",
   "lastOpenFiles": [
+    "daily-notes/04.23.2026.md",
     "Start.md",
-    "daily-notes/04.17.2026.md",
-    "daily-notes/04.14.2026.md",
+    "William/Williams 8th Birthday.md",
+    "daily-notes/04.13.2026.md",
     "daily-notes/04.09.2026.md",
+    "daily-notes/04.10.2026.md",
+    "daily-notes/04.14.2026.md",
+    "daily-notes/04.17.2026.md",
+    "Untitled.md",
     "daily-notes/04.07.2026.md",
     "daily-notes/04.08.2026.md",
-    "daily-notes/04.10.2026.md",
-    "daily-notes/04.13.2026.md",
     "daily-notes/03.24.2026.md",
     "AI/The Father's Blueprint.md",
     "daily-notes/04.06.2026.md",
@@ -319,9 +323,6 @@
     "daily-notes/03.25.2026.md",
     "daily-notes/02.26.2026.md",
     "daily-notes/02.25.2026.md",
-    "daily-notes/03.13.2026.md",
-    "daily-notes/03.20.2026.md",
-    "daily-notes/03.19.2026.md",
     "Extras/Attachments/Pasted image 20260325210121.png",
     "Extras/Attachments/Pasted image 20260325210105.png",
     "Extras/Attachments/Pasted image 20260325210054.png",

@@ -2,6 +2,7 @@
   "customOrder": {
     "/": {
       "children": [
+        "Untitled.md",
         "Extras",
         "daily-notes",
         "Other",
@@ -45,6 +46,7 @@
     },
     "daily-notes": {
       "children": [
+        "daily-notes/04.23.2026.md",
         "daily-notes/04.07.2026.md",
         "daily-notes/04.08.2026.md",
         "daily-notes/04.09.2026.md",
@@ -218,6 +220,7 @@
     },
     "William": {
       "children": [
+        "William/Williams 8th Birthday.md",
         "William/1.5.2026 - Letter to my son William.md"
       ],
       "sortOrder": "custom"
