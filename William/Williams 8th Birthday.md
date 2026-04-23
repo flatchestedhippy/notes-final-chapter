@@ -1,15 +1,33 @@
 
 - [ ] Williams Birthday prep 📅 2026-04-23 🔺 
-	- attendee list
-	- plan for seating / arrangement
-	- decorations
-	- foods / drinks
-	- house arrangement
+	- [x] attendee list ✅ 2026-04-23
+	- [ ] plan for seating / arrangement
+	- [ ] decorations
+		- [ ] balloons, signs
+	- [ ] foods / drinks
+	- [ ] house arrangement
 		- living room - set for party
 		- play room - set for play
-	- outside arrangement (? starts at 7 so may be too dark)
-	- activities
+	- [ ] outside arrangement (? starts at 7 so may be too dark)
+	- [ ] activities
 		- Pinata (where to hang?)
+	- [ ] parting bags (8)
+		- small chip
+		- stickers or toy
+
+
+Shopping List
+- large boards / signs to post outside
+- small bags of chips 8+
+- stickers or toys
+- chips, pretzels, snacks
+- juice boxes, lemonade, etc.
+- more balloons, helium 
+- 
+
+
+- [ ] outside signs, balloons so people can find it! 📅 2026-04-28 
+	- moving date since this will be done day of party!!!
 
 ---
 
