@@ -48,6 +48,7 @@ Other
 - Cup Knockdown Challenge (knock over cups)
 - Balloon Keepy Uppy LARGE BALLOON
 - Paper Airplane Competition (fly furthest wins)
+- Musical Chairs
 
 ---
 
