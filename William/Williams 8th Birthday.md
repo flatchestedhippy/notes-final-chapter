@@ -26,20 +26,20 @@ xtras
 
 Food/Drink
 - [ ] Pretzels
-- [ ] General Chips
-- [ ] Juice Boxes
-- [ ] Cookies
-- [ ] Small bags of chips 8+
-- [ ] Juice boxes, lemonade, etc.
+- [x] General Chips ✅ 2026-04-27
+- [x] Juice Boxes ✅ 2026-04-27
+- [x] Cookies ✅ 2026-04-27
+- [x] Small bags of chips 8+ ✅ 2026-04-27
+- [x] Juice boxes, lemonade, etc. ✅ 2026-04-27
 
 Other
-- [ ] large boards / signs to post outside
-- [ ] stickers or toys
-- [ ] more balloons, helium, 1-2 xtra large balloon for keepy uppy
-- [ ] ping pong balls
-- [ ] outside signs, balloons so people can find it! 📅 2026-04-28 
+- [x] large boards / signs to post outside ✅ 2026-04-27
+- [x] stickers or toys ✅ 2026-04-27
+- [x] more balloons, helium, 1-2 xtra large balloon for keepy uppy ✅ 2026-04-27
+- [x] ping pong balls ✅ 2026-04-27
+- [x] outside signs, balloons so people can find it! 📅 2026-04-28 ✅ 2026-04-27
 	- moving date since this will be done day of party!!!
-- [ ] Paper (printer)
+- [x] Paper (printer) ✅ 2026-04-27
 - [ ] Game Prizes
 
 ---
