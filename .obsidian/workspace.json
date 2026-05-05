@@ -39,9 +39,25 @@
               "icon": "lucide-file",
               "title": "04.24.2026"
             }
+          },
+          {
+            "id": "6ddbf58a6202c317",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/05.05.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "05.05.2026"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "6af37589e57fc3e6",
@@ -369,10 +385,12 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "00762259bec1fa54",
+  "active": "6ddbf58a6202c317",
   "lastOpenFiles": [
-    "William/Williams 8th Birthday.md",
     "daily-notes/04.24.2026.md",
+    "daily-notes/05.05.2026.md",
+    "Untitled 1.md",
+    "William/Williams 8th Birthday.md",
     "daily-notes/03.24.2026.md",
     "Start.md",
     "daily-notes/04.23.2026.md",
@@ -396,8 +414,6 @@
     "Extras/Templates/Template -- Daily Note.md",
     "daily-notes/03.27.2026.md",
     "AI/Rusty/Rusty NOTES & Priority TODO.md",
-    "daily-notes/03.23.2026.md",
-    "daily-notes/03.31.2026.md",
     "Extras/Attachments/Pasted image 20260325210121.png",
     "Extras/Attachments/Pasted image 20260325210105.png",
     "Extras/Attachments/Pasted image 20260325210054.png",
