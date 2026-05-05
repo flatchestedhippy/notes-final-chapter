@@ -1,8 +1,8 @@
 
 **House Spring Cleaning**
-- [ ] Finish Bathroom
-	- [ ] Paint
-	- [ ] Install new transition strip
+- [x] Finish Bathroom ✅ 2026-05-05
+	- [x] Paint ✅ 2026-05-05
+	- [x] Install new transition strip ✅ 2026-05-05
 - [ ] Paint top of garage where door damaged
 - [ ] Details
 	- [ ] Clean window sills (including sliding glass)
@@ -16,3 +16,4 @@
 	- [ ] Clean Living Room
 	- [ ] Clean Play Room
 	- [ ] Clean Kitchen
+	- [ ] 
