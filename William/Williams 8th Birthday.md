@@ -1,5 +1,5 @@
 
-- [ ] Williams Birthday prep 📅 2026-04-23 🔺 
+- [x] Williams Birthday prep 🔺 📅 2026-04-23 ✅ 2026-05-05
 	- [x] attendee list ✅ 2026-04-23
 	- [x] plan for seating / arrangement ✅ 2026-04-27
 	- [x] decorations ✅ 2026-04-27

@@ -218,8 +218,7 @@
               "title": "03.24.2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -385,10 +384,10 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "6ddbf58a6202c317",
+  "active": "ec6cf7477e95729a",
   "lastOpenFiles": [
-    "daily-notes/04.24.2026.md",
     "daily-notes/05.05.2026.md",
+    "daily-notes/04.24.2026.md",
     "Untitled 1.md",
     "William/Williams 8th Birthday.md",
     "daily-notes/03.24.2026.md",
