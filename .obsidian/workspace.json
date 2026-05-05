@@ -113,38 +113,6 @@
             }
           },
           {
-            "id": "3b6fd9a50834ad3f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/04.13.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "04.13.2026"
-            }
-          },
-          {
-            "id": "2e9b9d100dfc040f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/04.14.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "04.14.2026"
-            }
-          },
-          {
             "id": "a7813772484534d5",
             "type": "leaf",
             "pinned": true,
@@ -176,8 +144,7 @@
               "title": "04.23.2026"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -343,24 +310,24 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "3ba95e21015131f2",
+  "active": "6ddbf58a6202c317",
   "lastOpenFiles": [
-    "daily-notes/04.23.2026.md",
-    "daily-notes/03.24.2026.md",
-    "daily-notes/05.05.2026.md",
     "Start.md",
+    "Personal/House Prep.md",
+    "daily-notes/05.05.2026.md",
+    "William/Williams 8th Birthday.md",
+    "daily-notes/04.23.2026.md",
+    "daily-notes/04.17.2026.md",
+    "daily-notes/04.14.2026.md",
+    "daily-notes/04.13.2026.md",
+    "daily-notes/03.24.2026.md",
     "daily-notes/04.24.2026.md",
     "Untitled 1.md",
-    "William/Williams 8th Birthday.md",
-    "Personal/House Prep.md",
-    "daily-notes/04.17.2026.md",
     "TODO - Still.md",
     "Personal",
     "daily-notes/03.26.2026.md",
-    "daily-notes/04.13.2026.md",
     "daily-notes/04.09.2026.md",
     "daily-notes/04.10.2026.md",
-    "daily-notes/04.14.2026.md",
     "Untitled.md",
     "daily-notes/04.07.2026.md",
     "daily-notes/04.08.2026.md",

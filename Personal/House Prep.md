@@ -6,6 +6,7 @@
 - [ ] Paint top of garage where door damaged
 - [ ] Details
 	- [ ] Clean window sills (including sliding glass)
+	- [ ] clean and/or paint around door frames
 - [ ] Repairs
 	- [ ] Roof / Leak + now broken tiles
 	- [ ] Fix weather strip on garage
@@ -16,4 +17,3 @@
 	- [ ] Clean Living Room
 	- [ ] Clean Play Room
 	- [ ] Clean Kitchen
-	- [ ] 

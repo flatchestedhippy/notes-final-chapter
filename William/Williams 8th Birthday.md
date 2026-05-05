@@ -1,4 +1,9 @@
 
+5/5/2026
+- It was a big hit, everyone showed and it was a great time.
+
+
+
 - [x] Williams Birthday prep 🔺 📅 2026-04-23 ✅ 2026-05-05
 	- [x] attendee list ✅ 2026-04-23
 	- [x] plan for seating / arrangement ✅ 2026-04-27
