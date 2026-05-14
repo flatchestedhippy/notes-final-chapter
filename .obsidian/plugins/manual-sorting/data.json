@@ -2,6 +2,7 @@
   "customOrder": {
     "/": {
       "children": [
+        "Untitled 1.md",
         "Personal",
         "Untitled.md",
         "Extras",
@@ -47,6 +48,7 @@
     },
     "daily-notes": {
       "children": [
+        "daily-notes/05.05.2026.md",
         "daily-notes/04.24.2026.md",
         "daily-notes/04.23.2026.md",
         "daily-notes/04.07.2026.md",

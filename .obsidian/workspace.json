@@ -25,39 +25,23 @@
             }
           },
           {
-            "id": "00762259bec1fa54",
+            "id": "4204488a6715d575",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/04.24.2026.md",
+                "file": "daily-notes/05.13.2026.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "04.24.2026"
-            }
-          },
-          {
-            "id": "6ddbf58a6202c317",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/05.05.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "05.05.2026"
+              "title": "05.13.2026"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "6af37589e57fc3e6",
@@ -143,8 +127,25 @@
               "icon": "lucide-file",
               "title": "04.23.2026"
             }
+          },
+          {
+            "id": "6ddbf58a6202c317",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/05.05.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "05.05.2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -310,18 +311,20 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "6ddbf58a6202c317",
+  "active": "4204488a6715d575",
   "lastOpenFiles": [
+    "daily-notes/05.05.2026.md",
+    "daily-notes/05.13.2026.md",
+    "AI/Rusty/Rusty NOTES & Priority TODO.md",
+    "daily-notes/04.24.2026.md",
     "Start.md",
     "Personal/House Prep.md",
-    "daily-notes/05.05.2026.md",
     "William/Williams 8th Birthday.md",
     "daily-notes/04.23.2026.md",
     "daily-notes/04.17.2026.md",
     "daily-notes/04.14.2026.md",
     "daily-notes/04.13.2026.md",
     "daily-notes/03.24.2026.md",
-    "daily-notes/04.24.2026.md",
     "Untitled 1.md",
     "TODO - Still.md",
     "Personal",
@@ -337,8 +340,6 @@
     "daily-notes/01.07.2026.md",
     "daily-notes/01.06.2026.md",
     "Extras/Templates/Template -- Daily Note.md",
-    "daily-notes/03.27.2026.md",
-    "AI/Rusty/Rusty NOTES & Priority TODO.md",
     "Extras/Attachments/Pasted image 20260325210121.png",
     "Extras/Attachments/Pasted image 20260325210105.png",
     "Extras/Attachments/Pasted image 20260325210054.png",
