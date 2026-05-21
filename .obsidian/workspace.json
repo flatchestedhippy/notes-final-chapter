@@ -176,8 +176,7 @@
               "title": "05.19.2026"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -343,10 +342,10 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "dc6c4f27c6d17384",
+  "active": "ec6cf7477e95729a",
   "lastOpenFiles": [
-    "daily-notes/05.19.2026.md",
     "daily-notes/05.20.2026.md",
+    "daily-notes/05.19.2026.md",
     "Start.md",
     "daily-notes/05.13.2026.md",
     "daily-notes/05.05.2026.md",
