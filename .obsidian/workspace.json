@@ -9,39 +9,22 @@
         "dimension": 50.83465818759937,
         "children": [
           {
-            "id": "2cd5957fc2f80152",
+            "id": "604ccbdbe3038be7",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Rusty/Rusty NOTES & Priority TODO.md",
+                "file": "daily-notes/05.21.2026.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Rusty NOTES & Priority TODO"
-            }
-          },
-          {
-            "id": "dc6c4f27c6d17384",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/05.20.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "05.20.2026"
+              "title": "05.21.2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6af37589e57fc3e6",
@@ -175,8 +158,25 @@
               "icon": "lucide-file",
               "title": "05.19.2026"
             }
+          },
+          {
+            "id": "dc6c4f27c6d17384",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/05.20.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "05.20.2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -342,14 +342,15 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "dc6c4f27c6d17384",
+  "active": "604ccbdbe3038be7",
   "lastOpenFiles": [
-    "Start.md",
     "daily-notes/05.20.2026.md",
     "daily-notes/05.19.2026.md",
+    "AI/Rusty/Rusty NOTES & Priority TODO.md",
+    "daily-notes/05.21.2026.md",
+    "Start.md",
     "daily-notes/05.13.2026.md",
     "daily-notes/05.05.2026.md",
-    "AI/Rusty/Rusty NOTES & Priority TODO.md",
     "daily-notes/04.24.2026.md",
     "Personal/House Prep.md",
     "William/Williams 8th Birthday.md",
@@ -370,7 +371,6 @@
     "AI/The Father's Blueprint.md",
     "daily-notes/04.06.2026.md",
     "daily-notes/03.30.2026.md",
-    "daily-notes/01.07.2026.md",
     "Extras/Attachments/Pasted image 20260325210121.png",
     "Extras/Attachments/Pasted image 20260325210105.png",
     "Extras/Attachments/Pasted image 20260325210054.png",
