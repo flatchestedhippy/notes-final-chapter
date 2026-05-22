@@ -15,6 +15,7 @@ Liked:
 	- 2652 Presidio Cir, Corona, CA 92879
 	- 13365 March Way, Corona, CA 92879
 	- 2630 Galisteo St, Corona, CA 92882
+	- 696 Avondale Dr, Corona, CA 92879 (2nd visit to house just to validate)
 	  
 
 *** TODO
@@ -30,11 +31,11 @@ Houses/Areas that would live
 
 Zones (based on my visit)
 
-| Address                                  | Sale Price | Purchase Price | Date Listed  | Zone | Notes                                            | Updated   |
-| ---------------------------------------- | ---------- | -------------- | ------------ | ---- | ------------------------------------------------ | --------- |
-| 1856 Georgetown Cir <br>Corona, CA 92881 | n/a        | n/a            | n/a          |      | sold 2023, not sure why on list, maybe just area | 5/22/2026 |
-| 696 Avondale Dr<br>Corona, CA 92879      | $719,000   |                |              |      |                                                  | 5/22/2026 |
-| 2251 Prescott Cir, Corona, CA 92881      |            |                |              |      |                                                  | 5/22/2026 |
-| 2652 Presidio Cir <br>Corona, CA 92879   | $775,000   |                | Apr 21, 2026 |      | dropped 15k from orig listing                    | 5/22/2026 |
-| 13365 March Way<br>Corona, CA 92879      |            |                |              |      |                                                  | 5/22/2026 |
-| 2630 Galisteo St<br>Corona, CA 92882     |            |                |              |      |                                                  | 5/22/2026 |
+| Address                                  | Sale Price | Purchase Price | Date Listed  | Zone | Notes                                           | Updated   | Score |
+| ---------------------------------------- | ---------- | -------------- | ------------ | ---- | ----------------------------------------------- | --------- | ----- |
+| 1856 Georgetown Cir <br>Corona, CA 92881 | n/a        | n/a            | n/a          |      | just noted cause like area                      | 5/22/2026 |       |
+| 696 Avondale Dr<br>Corona, CA 92879      | $719,000   |                |              |      |                                                 | 5/22/2026 |       |
+| 2251 Prescott Cir, Corona, CA 92881      |            |                |              |      |                                                 | 5/22/2026 |       |
+| 2652 Presidio Cir <br>Corona, CA 92879   | $775,000   |                | Apr 21, 2026 |      |                                                 | 5/22/2026 | 9     |
+| 13365 March Way<br>Corona, CA 92879      | $625,000   |                |              |      |                                                 | 5/22/2026 | 8     |
+| 2630 Galisteo St<br>Corona, CA 92882     | $734,900   |                |              | A    | Rated so high just because best area and school | 5/22/2026 | 10    |
