@@ -35,9 +35,14 @@ Zones (based on my visit)
 | ---------------------------------------- | ---------- | -------------- | ------------ | ---- | ----------------------------------------------- | --------- | ----- |
 | 1856 Georgetown Cir <br>Corona, CA 92881 | n/a        | n/a            | n/a          | B    | just noted cause like area                      | 5/22/2026 | 10    |
 | 696 Avondale Dr<br>Corona, CA 92879      | $719,000   |                |              | C    |                                                 | 5/22/2026 |       |
-| 2251 Prescott Cir, Corona, CA 92881      |            |                |              | E    |                                                 | 5/22/2026 |       |
+| 2251 Prescott Cir, Corona, CA 92881      | $774,000   |                |              | E    |                                                 | 5/22/2026 |       |
 | 2652 Presidio Cir <br>Corona, CA 92879   | $775,000   |                | Apr 21, 2026 | C    |                                                 | 5/22/2026 | 9     |
 | 13365 March Way<br>Corona, CA 92879      | $625,000   |                |              | D    |                                                 | 5/22/2026 | 8     |
 | 2630 Galisteo St<br>Corona, CA 92882     | $734,900   |                |              | A    | Rated so high just because best area and school | 5/22/2026 | 10    |
 
 Map showing places I like so far
+
+![[Pasted image 20260522145107.png]]
+
+Map areas to avoid
+![[Pasted image 20260522145229.png]]

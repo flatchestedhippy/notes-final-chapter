@@ -308,14 +308,53 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "4c6435b8fd8eb63c",
+  "floating": {
+    "id": "ab166beae8f68f41",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e3dc9ccd44aae951",
+        "type": "window",
+        "children": [
+          {
+            "id": "478fe8e6edc13dd3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "91e32a3bf9d79e93",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Extras/Attachments/Pasted image 20260522145107.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Pasted image 20260522145107"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3008,
+        "y": 505,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "91e32a3bf9d79e93",
   "lastOpenFiles": [
+    "Personal/Houses.md",
+    "daily-notes/05.22.2026.md",
+    "Extras/Attachments/Pasted image 20260522145229.png",
+    "Extras/Attachments/Pasted image 20260522145107.png",
     "daily-notes/05.20.2026.md",
     "daily-notes/02.25.2026.md",
-    "daily-notes/05.22.2026.md",
     "daily-notes/05.19.2026.md",
     "daily-notes/05.21.2026.md",
-    "Personal/Houses.md",
     "Start.md",
     "Personal/House Prep.md",
     "William/Williams 8th Birthday.md",
@@ -336,7 +375,6 @@
     "daily-notes/04.10.2026.md",
     "Untitled.md",
     "daily-notes/04.07.2026.md",
-    "daily-notes/04.08.2026.md",
     "Extras/Attachments/Pasted image 20260325210121.png",
     "Extras/Attachments/Pasted image 20260325210105.png",
     "Extras/Attachments/Pasted image 20260325210054.png",
@@ -345,8 +383,6 @@
     "Extras/Attachments/Pasted image 20260325205821.png",
     "Extras/Attachments/Pasted image 20260325205202.png",
     "Extras/Attachments/Pasted image 20260325205145.png",
-    "Extras/Attachments/Pasted image 20260325205102.png",
-    "Extras/Attachments/Pasted image 20260325205044.png",
     "AI/Rusty",
     "AI/OpenClaw",
     "AI",
