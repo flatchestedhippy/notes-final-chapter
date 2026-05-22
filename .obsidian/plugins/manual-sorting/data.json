@@ -2,7 +2,6 @@
   "customOrder": {
     "/": {
       "children": [
-        "Untitled 1.md",
         "Personal",
         "Untitled.md",
         "Extras",
@@ -48,6 +47,10 @@
     },
     "daily-notes": {
       "children": [
+        "daily-notes/05.13.2026.md",
+        "daily-notes/05.19.2026.md",
+        "daily-notes/05.20.2026.md",
+        "daily-notes/05.21.2026.md",
         "daily-notes/05.05.2026.md",
         "daily-notes/04.24.2026.md",
         "daily-notes/04.23.2026.md",
@@ -200,6 +203,7 @@
     },
     "Personal": {
       "children": [
+        "Personal/Houses.md",
         "Personal/House Prep.md"
       ],
       "sortOrder": "custom"

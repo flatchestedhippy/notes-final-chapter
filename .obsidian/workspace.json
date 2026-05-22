@@ -9,19 +9,19 @@
         "dimension": 50.83465818759937,
         "children": [
           {
-            "id": "604ccbdbe3038be7",
+            "id": "2919deeca191614a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/05.21.2026.md",
+                "file": "daily-notes/05.22.2026.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "05.21.2026"
+              "title": "05.22.2026"
             }
           }
         ]
@@ -48,19 +48,19 @@
             }
           },
           {
-            "id": "00d46360c87d2c7c",
+            "id": "4c6435b8fd8eb63c",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "William/Williams 8th Birthday.md",
+                "file": "Personal/Houses.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Williams 8th Birthday"
+              "title": "Houses"
             }
           },
           {
@@ -77,70 +77,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "House Prep"
-            }
-          },
-          {
-            "id": "a7813772484534d5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/04.17.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "04.17.2026"
-            }
-          },
-          {
-            "id": "367d708844a0afaa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/04.23.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "04.23.2026"
-            }
-          },
-          {
-            "id": "6ddbf58a6202c317",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/05.05.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "05.05.2026"
-            }
-          },
-          {
-            "id": "4204488a6715d575",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/05.13.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "05.13.2026"
             }
           },
           {
@@ -174,8 +110,25 @@
               "icon": "lucide-file",
               "title": "05.20.2026"
             }
+          },
+          {
+            "id": "604ccbdbe3038be7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/05.21.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "05.21.2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -341,24 +294,26 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "604ccbdbe3038be7",
+  "active": "4c6435b8fd8eb63c",
   "lastOpenFiles": [
+    "daily-notes/05.22.2026.md",
     "Start.md",
-    "daily-notes/05.19.2026.md",
+    "Personal/Houses.md",
+    "Personal/House Prep.md",
     "daily-notes/05.20.2026.md",
     "daily-notes/05.21.2026.md",
+    "William/Williams 8th Birthday.md",
+    "Untitled 1.md",
+    "daily-notes/05.19.2026.md",
     "AI/Rusty/Rusty NOTES & Priority TODO.md",
     "daily-notes/05.13.2026.md",
     "daily-notes/05.05.2026.md",
     "daily-notes/04.24.2026.md",
-    "Personal/House Prep.md",
-    "William/Williams 8th Birthday.md",
     "daily-notes/04.23.2026.md",
     "daily-notes/04.17.2026.md",
     "daily-notes/04.14.2026.md",
     "daily-notes/04.13.2026.md",
     "daily-notes/03.24.2026.md",
-    "Untitled 1.md",
     "TODO - Still.md",
     "Personal",
     "daily-notes/03.26.2026.md",
@@ -368,8 +323,6 @@
     "daily-notes/04.07.2026.md",
     "daily-notes/04.08.2026.md",
     "AI/The Father's Blueprint.md",
-    "daily-notes/04.06.2026.md",
-    "daily-notes/03.30.2026.md",
     "Extras/Attachments/Pasted image 20260325210121.png",
     "Extras/Attachments/Pasted image 20260325210105.png",
     "Extras/Attachments/Pasted image 20260325210054.png",
