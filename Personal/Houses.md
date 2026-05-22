@@ -13,7 +13,10 @@ Liked:
 
 
 
+Houses/Areas that would live
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
+Zones (based on my visit)
+
+| Address                                | Sale Price | Purchase Price | Date Listed  | Zone | Notes                         | Updated   |
+| -------------------------------------- | ---------- | -------------- | ------------ | ---- | ----------------------------- | --------- |
+| 2652 Presidio Cir <br>Corona, CA 92879 | $775,000   |                | Apr 21, 2026 |      | dropped 15k from orig listing | 5/22/2026 |
