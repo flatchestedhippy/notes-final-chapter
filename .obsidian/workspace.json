@@ -141,7 +141,8 @@
               "title": "05.20.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -307,8 +308,9 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "ec6cf7477e95729a",
+  "active": "4c6435b8fd8eb63c",
   "lastOpenFiles": [
+    "Start.md",
     "Personal/Houses.md",
     "Extras/Attachments/Pasted image 20260522145107.png",
     "daily-notes/05.22.2026.md",
@@ -317,7 +319,6 @@
     "daily-notes/02.25.2026.md",
     "daily-notes/05.19.2026.md",
     "daily-notes/05.21.2026.md",
-    "Start.md",
     "Personal/House Prep.md",
     "William/Williams 8th Birthday.md",
     "Untitled 1.md",
