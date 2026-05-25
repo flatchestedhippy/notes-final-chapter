@@ -6,7 +6,7 @@
       {
         "id": "a937ab42125a6058",
         "type": "tabs",
-        "dimension": 76.06177606177607,
+        "dimension": 25.64102564102564,
         "children": [
           {
             "id": "2919deeca191614a",
@@ -44,7 +44,7 @@
       {
         "id": "6af37589e57fc3e6",
         "type": "tabs",
-        "dimension": 23.93822393822394,
+        "dimension": 74.35897435897436,
         "children": [
           {
             "id": "ec6cf7477e95729a",
@@ -140,8 +140,7 @@
               "title": "05.20.2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -307,10 +306,10 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "5124e707206ce463",
+  "active": "ec6cf7477e95729a",
   "lastOpenFiles": [
-    "Personal/House Prep.md",
     "Personal/Houses.md",
+    "Personal/House Prep.md",
     "daily-notes/05.22.2026.md",
     "Start.md",
     "Extras/Attachments/Pasted image 20260522145107.png",
