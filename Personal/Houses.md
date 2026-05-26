@@ -48,11 +48,11 @@ E = South Corona Hills
 
 Places I like but have not seen verified house/area
 
-| Address                            | Sale Price | Updated   | Notes                                                                                                       |
-| ---------------------------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------------------- |
-| 723 Pointe Vis, Corona, CA 92881   | $675000    | 5/26/2026 | Looks like its RIGHT NEXT to a code place (crapy houses with shared mailboxes)                              |
-| # 2879 Lancaster, Corona, CA 92882 | $760,000   | 5/26/2026 | Area looks really nice (based on maps) - might be a bit further isolated but love the view of the mountains |
-|                                    |            |           |                                                                                                             |
+| Address                              | Sale Price | Updated   | Notes                                                                                                       |
+| ------------------------------------ | ---------- | --------- | ----------------------------------------------------------------------------------------------------------- |
+| 723 Pointe Vis, Corona, CA 92881     | $675000    | 5/26/2026 | Looks like its RIGHT NEXT to a code place (crapy houses with shared mailboxes)                              |
+| # 2879 Lancaster, Corona, CA 92882   | $760,000   | 5/26/2026 | Area looks really nice (based on maps) - might be a bit further isolated but love the view of the mountains |
+| # 2007 Aberdeen Dr, Corona, CA 92881 | $750,000   | 5/26/2026 | May already be sold but looks nice                                                                          |
 
 
 
