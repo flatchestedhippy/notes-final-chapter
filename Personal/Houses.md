@@ -46,6 +46,16 @@ E = South Corona Hills
 | 13365 March Way<br>Corona, CA 92879                      | $625,000   |                |              | D    |                            | 5/22/2026 | 7     |
 | 2630 Galisteo St<br>Corona, CA 92882                     | $734,900   |                |              | A    |                            | 5/22/2026 | 8     |
 
+Places I like but have not seen verified house/area
+
+| Address                          | Sale Price | Updated   | Notes                                                                          |
+| -------------------------------- | ---------- | --------- | ------------------------------------------------------------------------------ |
+| 723 Pointe Vis, Corona, CA 92881 | $675000    | 5/26/2026 | Looks like its RIGHT NEXT to a code place (crapy houses with shared mailboxes) |
+|                                  |            |           |                                                                                |
+
+
+
+
 Map showing places I like so far
 
 ![[Pasted image 20260522145107.png]]
