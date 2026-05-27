@@ -1,5 +1,12 @@
 
 
+Next Trip:
+- 3470 Birchleaf Dr, Corona, CA 92881
+	- this sold $723,000 want to check out this area, closer to Irvine
+	- house looks beautiful, need to validate area
+	- NEVER MIND - its listed as a condo (odd, it has 5227 lot size)
+
+
 
 Avoid:
 - 161 Breezewood, Corona, CA 92879
