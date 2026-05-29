@@ -6,7 +6,7 @@ Next Trip (area check):
 	- house looks beautiful, need to validate area
 	- NEVER MIND - its listed as a condo (odd, it has 5227 lot size)
 - 27483 Bunkerhill Dr, Corona, CA 92883
-	- 
+	- verify schools in all zones
 
 
 
@@ -39,6 +39,7 @@ Liked:
 Houses/Areas that would live
 
 Zones (based on my visit)
+** verify schools in all zones
 https://claude.ai/chat/75cabfdc-ba5b-45ad-837c-582fc215de4a
 Preferences: (so far just based on claude link above, but may be inlline with what i saw, will update on next visit!)
 B, E,  A, C, D
