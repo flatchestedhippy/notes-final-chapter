@@ -9,7 +9,12 @@ Next Trip (area check):
 	- verify schools in all zones
 	- monster big home, amazing
 	- https://www.redfin.com/CA/Corona/27483-Bunkerhill-Dr-92883/home/5421868
-	- 
+- 11268 Pinecone, Corona, CA 92883 | 735k
+	- verify area but LOVE the house online
+	- https://www.redfin.com/CA/Corona/11268-Pinecone-St-92883/home/6540726
+	- GREAT school ratings
+	- Sycamore Creek is a seller's market  
+		- Inventory is low and competition is high. Sellers have more negotiating power.
 
 
 
@@ -69,7 +74,7 @@ Places I like but have not seen verified house/area
 | # 2007 Aberdeen Dr, Corona, CA 92881    | $750,000   | 5/26/2026 | May already be sold but looks nice                                                                          |
 | # 27483 Bunkerhill Dr, Corona, CA 92883 | $730,000   | 5/29/2026 | Large VERY VERY nice home                                                                                   |
 | # 922 Naples, Corona, CA 92882          | $725,000   | 5/29/2026 | GREAT SCHOOLS                                                                                               |
-| # 11268 Pinecone, Corona, CA 92883      |            |           | LOVE THIS HOME                                                                                              |
+| # 11268 Pinecone, Corona, CA 92883      | $735000    | 5/29/2026 | LOVE THIS HOME<br>could take 1.5 hour drive in traffic! Otherwise ~40m                                      |
 
 
 
