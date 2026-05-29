@@ -3,13 +3,13 @@
 - [x] Finish Bathroom ✅ 2026-05-05
 	- [x] Paint ✅ 2026-05-05
 	- [x] Install new transition strip ✅ 2026-05-05
-- [ ] Paint top of garage where door damaged
+- [x] Paint top of garage where door damaged ✅ 2026-05-29
 - [ ] Details
 	- [ ] Clean window sills (including sliding glass)
 	- [ ] clean and/or paint around door frames
-- [ ] Repairs
-	- [ ] Roof / Leak + now broken tiles
-	- [ ] Fix weather strip on garage
+- [x] Repairs ✅ 2026-05-29
+	- [x] Roof / Leak + now broken tiles ✅ 2026-05-29
+	- [x] Fix weather strip on garage ✅ 2026-05-29
 - [ ] General Cleaning
 	- [ ] Clean office 
 	- [ ] Clean master
@@ -17,3 +17,5 @@
 	- [ ] Clean Living Room
 	- [ ] Clean Play Room
 	- [ ] Clean Kitchen
+- [ ] Patch behind Williams door
+- [ ] 
