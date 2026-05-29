@@ -1,10 +1,12 @@
 
 
-Next Trip:
+Next Trip (area check):
 - 3470 Birchleaf Dr, Corona, CA 92881
 	- this sold $723,000 want to check out this area, closer to Irvine
 	- house looks beautiful, need to validate area
 	- NEVER MIND - its listed as a condo (odd, it has 5227 lot size)
+- 27483 Bunkerhill Dr, Corona, CA 92883
+	- 
 
 
 
@@ -52,14 +54,16 @@ E = South Corona Hills
 | 2652 Presidio Cir <br>Corona, CA 92879                   | $775,000   |                | Apr 21, 2026 | C    |                            | 5/22/2026 | 9     |
 | 13365 March Way<br>Corona, CA 92879                      | $625,000   |                |              | D    |                            | 5/22/2026 | 7     |
 | 2630 Galisteo St<br>Corona, CA 92882                     | $734,900   |                |              | A    |                            | 5/22/2026 | 8     |
+|                                                          |            |                |              |      |                            |           |       |
 
 Places I like but have not seen verified house/area
 
-| Address                              | Sale Price | Updated   | Notes                                                                                                       |
-| ------------------------------------ | ---------- | --------- | ----------------------------------------------------------------------------------------------------------- |
-| 723 Pointe Vis, Corona, CA 92881     | $675000    | 5/26/2026 | Looks like its RIGHT NEXT to a code place (crapy houses with shared mailboxes)                              |
-| # 2879 Lancaster, Corona, CA 92882   | $760,000   | 5/26/2026 | Area looks really nice (based on maps) - might be a bit further isolated but love the view of the mountains |
-| # 2007 Aberdeen Dr, Corona, CA 92881 | $750,000   | 5/26/2026 | May already be sold but looks nice                                                                          |
+| Address                                 | Sale Price | Updated   | Notes                                                                                                       |
+| --------------------------------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------------------- |
+| 723 Pointe Vis, Corona, CA 92881        | $675000    | 5/26/2026 | Looks like its RIGHT NEXT to a code place (crapy houses with shared mailboxes)                              |
+| # 2879 Lancaster, Corona, CA 92882      | $760,000   | 5/26/2026 | Area looks really nice (based on maps) - might be a bit further isolated but love the view of the mountains |
+| # 2007 Aberdeen Dr, Corona, CA 92881    | $750,000   | 5/26/2026 | May already be sold but looks nice                                                                          |
+| # 27483 Bunkerhill Dr, Corona, CA 92883 | $730,000   | 5/29/2026 | Large VERY VERY nice home                                                                                   |
 
 
 
