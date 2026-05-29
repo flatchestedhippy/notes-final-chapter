@@ -65,6 +65,7 @@ Places I like but have not seen verified house/area
 | # 2879 Lancaster, Corona, CA 92882      | $760,000   | 5/26/2026 | Area looks really nice (based on maps) - might be a bit further isolated but love the view of the mountains |
 | # 2007 Aberdeen Dr, Corona, CA 92881    | $750,000   | 5/26/2026 | May already be sold but looks nice                                                                          |
 | # 27483 Bunkerhill Dr, Corona, CA 92883 | $730,000   | 5/29/2026 | Large VERY VERY nice home                                                                                   |
+| # 922 Naples, Corona, CA 92882          | $725,000   | 5/29/2026 | GREAT SCHOOLS                                                                                               |
 
 
 
