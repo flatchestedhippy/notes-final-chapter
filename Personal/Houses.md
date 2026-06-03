@@ -74,7 +74,7 @@ Liked:
 
 Houses/Areas that would live
 
-Zones (based on my visit)
+Zones (based on my visit) (NEED TO REDO ZONES, CHANGED TO 4 QUAD BELOW)
 ** verify schools in all zones
 https://claude.ai/chat/75cabfdc-ba5b-45ad-837c-582fc215de4a
 Preferences: (so far just based on claude link above, but may be inlline with what i saw, will update on next visit!)
@@ -114,4 +114,4 @@ Map showing places I like so far
 Map areas to avoid
 ![[Pasted image 20260522145229.png]]
 
-![[Pasted image 20260603164134.png]]
+![[Pasted image 20260603164701.png]]
