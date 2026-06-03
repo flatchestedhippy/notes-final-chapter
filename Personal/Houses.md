@@ -1,5 +1,11 @@
 
 
+Plan
+- split area into quadrants
+- take good notes on each area
+- include the 'rating' that ai gave on 'best' areas
+
+
 Next Trip (area check):
 - 3470 Birchleaf Dr, Corona, CA 92881
 	- this sold $723,000 want to check out this area, closer to Irvine
