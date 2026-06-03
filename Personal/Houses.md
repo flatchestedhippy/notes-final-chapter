@@ -14,6 +14,7 @@ Next Trip visit
 - 23187 Coffee Berry, Corona, CA 92883
 - 11137 Briar Rose Ct, Corona, CA 92883
 - 13250 Mountain View Ct, Corona, CA 92883
+- 1949 Lockwood, Corona, CA 92881
 
 
 What to capture overall, take good notes initially!!!
