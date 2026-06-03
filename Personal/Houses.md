@@ -1,5 +1,20 @@
 
 
+
+Visit in this order
+- 
+
+
+What to capture
+- school rating (1-10)
+- house rating  (1-10)
+- neighborhood rating  (1-10)
+- area rating  (1-10)
+- solar (+5)
+- distance to Irvine  (1-5)
+
+
+
 Plan
 - split area into quadrants
 - take good notes on each area
