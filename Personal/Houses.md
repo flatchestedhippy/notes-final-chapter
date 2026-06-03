@@ -7,10 +7,8 @@ Next Trip visit - 3rd (in order)
 - 3470 Birchleaf Dr, Corona, CA 92881 (sold)
 - 3355 Shining Star, Corona, CA 92881
 - 1949 Lockwood, Corona, CA 92881
-- 23187 Coffee Berry, Corona, CA 92883
 - 11268 Pinecone, Corona, CA 92883 
-- 13250 Mountain View Ct, Corona, CA 92883
-- 27483 Bunkerhill Dr, Corona, CA 92883
+
 
 
 What to capture overall, take good notes initially!!!
@@ -116,5 +114,4 @@ Map showing places I like so far
 Map areas to avoid
 ![[Pasted image 20260522145229.png]]
 
-
-![[Pasted image 20260603094750.png]]
+![[Pasted image 20260603164134.png]]
