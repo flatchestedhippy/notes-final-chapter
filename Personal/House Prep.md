@@ -1,4 +1,19 @@
 
+Upgrade / Fix costs
+- Gardening $450
+- Tile/Roof leak $300
+- Fix ceiling $520
+- Paint ceiling $650
+- Paint door $350
+- Kitchen cabinets $3200
+- Bathroom cabinets $600
+- Mantle painting $180
+
+$6,250 so far
+
+
+
+
 **House Spring Cleaning**
 - [x] Finish Bathroom ✅ 2026-05-05
 	- [x] Paint ✅ 2026-05-05

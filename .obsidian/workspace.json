@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -323,10 +323,10 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "e28e3c9292b193fa",
+  "active": "f31dc07d66febf9a",
   "lastOpenFiles": [
-    "Personal/Houses.md",
     "daily-notes/05.27.2026.md",
+    "Personal/Houses.md",
     "Personal/House Prep.md",
     "daily-notes/05.22.2026.md",
     "Start.md",
