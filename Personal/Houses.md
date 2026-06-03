@@ -11,6 +11,9 @@ Next Trip visit
 - 11268 Pinecone, Corona, CA 92883 
 - 723 Pointe Vis, Corona, CA 92881
 - 922 Naples, Corona, CA 92882
+- 23187 Coffee Berry, Corona, CA 92883
+- 11137 Briar Rose Ct, Corona, CA 92883
+- 13250 Mountain View Ct, Corona, CA 92883
 
 
 What to capture overall, take good notes initially!!!
