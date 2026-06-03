@@ -118,3 +118,6 @@ Map showing places I like so far
 
 Map areas to avoid
 ![[Pasted image 20260522145229.png]]
+
+
+![[Pasted image 20260603094750.png]]
