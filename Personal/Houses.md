@@ -1,18 +1,14 @@
 
 
 
-Visit in this order
-- 
 
-
-Next Trip visit
+Next Trip visit - 3rd (in order)
 - 3470 Birchleaf Dr, Corona, CA 92881
 - 27483 Bunkerhill Dr, Corona, CA 92883
 - 11268 Pinecone, Corona, CA 92883 
 - 723 Pointe Vis, Corona, CA 92881
 - 922 Naples, Corona, CA 92882
 - 23187 Coffee Berry, Corona, CA 92883
-- 11137 Briar Rose Ct, Corona, CA 92883
 - 13250 Mountain View Ct, Corona, CA 92883
 - 1949 Lockwood, Corona, CA 92881
 
