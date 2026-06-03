@@ -5,7 +5,6 @@
 Next Trip visit - 3rd (in order)
 - 922 Naples, Corona, CA 92882
 - 3470 Birchleaf Dr, Corona, CA 92881 (sold)
-- 723 Pointe Vis, Corona, CA 92881
 - 3355 Shining Star, Corona, CA 92881
 - 1949 Lockwood, Corona, CA 92881
 - 23187 Coffee Berry, Corona, CA 92883
