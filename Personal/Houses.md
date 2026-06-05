@@ -1,5 +1,9 @@
 
 
+Pinned / Zones
+https://www.google.com/maps/d/edit?mid=1hPMi5I16ZsjX-l0MmR84O6CfPa5g52w&ll=33.88490134167454%2C-117.55619909058758&z=13
+
+
 
 
 Next Trip visit - 3rd (in order) 6/4/2026
