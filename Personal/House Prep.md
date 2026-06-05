@@ -10,10 +10,9 @@ Upgrade / Fix costs
 - Mantle painting $180
 - Mailbox $250
 - Bedroom closet flooring $250
+- Staging $1,200
 
-$6,750 so far
-
-
+$7,950 so far
 
 
 **House Spring Cleaning**
