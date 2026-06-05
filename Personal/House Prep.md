@@ -8,8 +8,10 @@ Upgrade / Fix costs
 - Kitchen cabinets $3200
 - Bathroom cabinets $600
 - Mantle painting $180
+- Mailbox $250
+- Bedroom closet flooring $250
 
-$6,250 so far
+$6,750 so far
 
 
 
