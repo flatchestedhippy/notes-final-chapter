@@ -22,7 +22,7 @@ $7,950 so far
 - [x] Paint top of garage where door damaged ✅ 2026-05-29
 - [ ] Details
 	- [ ] Clean window sills (including sliding glass)
-	- [ ] clean and/or paint around door frames
+	- [x] clean and/or paint around door frames ✅ 2026-06-08
 - [x] Repairs ✅ 2026-05-29
 	- [x] Roof / Leak + now broken tiles ✅ 2026-05-29
 	- [x] Fix weather strip on garage ✅ 2026-05-29
@@ -33,5 +33,5 @@ $7,950 so far
 	- [ ] Clean Living Room
 	- [ ] Clean Play Room
 	- [ ] Clean Kitchen
-- [ ] Patch behind Williams door
+- [x] Patch behind Williams door ✅ 2026-06-08
 - [ ] 

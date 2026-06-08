@@ -47,6 +47,8 @@
     },
     "daily-notes": {
       "children": [
+        "daily-notes/05.27.2026.md",
+        "daily-notes/05.22.2026.md",
         "daily-notes/05.13.2026.md",
         "daily-notes/05.19.2026.md",
         "daily-notes/05.20.2026.md",
@@ -126,6 +128,14 @@
     },
     "Extras/Attachments": {
       "children": [
+        "Extras/Attachments/Pasted image 20260603164701.png",
+        "Extras/Attachments/Pasted image 20260603164516.png",
+        "Extras/Attachments/Pasted image 20260603164221.png",
+        "Extras/Attachments/Pasted image 20260603164134.png",
+        "Extras/Attachments/Pasted image 20260603164029.png",
+        "Extras/Attachments/Pasted image 20260603094750.png",
+        "Extras/Attachments/Pasted image 20260522145229.png",
+        "Extras/Attachments/Pasted image 20260522145107.png",
         "Extras/Attachments/Pasted image 20260325210121.png",
         "Extras/Attachments/Pasted image 20260325210105.png",
         "Extras/Attachments/Pasted image 20260325210054.png",
@@ -204,7 +214,7 @@
     "Personal": {
       "children": [
         "Personal/Houses.md",
-        "Personal/House Prep.md"
+        "Personal/House Updates.md"
       ],
       "sortOrder": "custom"
     },
