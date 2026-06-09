@@ -9,8 +9,20 @@ current lot size: 5,663 sq ft
 
 Trip 4
 - 2630 Galisteo St, Corona, CA 92882
-	- Border Park
+- 3047 Mira Vis, Corona, CA 92881
+	- limited pics, just listed, big lot
 - 2007 Aberdeen Dr, Corona, CA 92881
+	- limited pics, just listed, huge lot
+- All Above
+	- Border Park
+	- Close to 5 brdm that I liked 2251 Prescott Cir, Corona, CA 92881
+	- Good Schools
+- 9161 Sydney Blue Cir, Corona, CA 92883
+	- further out 92883
+	- validate DONT want this neighborhood
+	- amazing looking house/yard
+	- 10/10 school!!!
+	- 9/10 flood factor ???
 
 Next Trip visit - 3rd (in order) 6/4/2026
 - 922 Naples, Corona, CA 92882
