@@ -29,8 +29,11 @@ What to capture overall, take good notes initially!!!
 
 Avoid:
 - 161 Breezewood, Corona, CA 92879
+	- gross neighborhood would not live!
 - 865 Honey Grove Way, Corona, CA 92878
+	- gross
 - 2157 Cedar Glen Cir Corona, CA 92879
+	- Gross looking house out front the houses are arranged really odd with a shared mailbox very ugly would not live in this house. definitely do not like this neighborhood
 - Temescal Valley
 
 Liked:
@@ -91,8 +94,7 @@ Map areas to avoid
 
 
 
-**5/21/2026**
-- 2nd visit
+**5/21/2026 2nd visit**
 
 Houses
 - 2652 Presidio Cir, Corona, CA 92879
@@ -102,7 +104,7 @@ Houses
 
 ---
 
-2630 Galisteo St Corona, CA 92882
+### Notes for 2630 Galisteo St Corona, CA 92882
 
 Very, very nice neighborhood lovely houses love it
 
