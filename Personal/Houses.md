@@ -91,8 +91,34 @@ Map areas to avoid
 
 
 
-6/4/2026
-- 3rd visit, looked at 7 houses/neighborhoods (2 were 2nd visit)
+**5/21/2026**
+- 2nd visit
+
+Houses
+- 2652 Presidio Cir, Corona, CA 92879
+- 13365 March Way, Corona, CA 92879
+- 2630 Galisteo St, Corona, CA 92882
+- 696 Avondale Dr, Corona, CA 92879 (2nd visit to house just to validate)
+
+---
+
+2630 Galisteo St Corona, CA 92882
+
+Very, very nice neighborhood lovely houses love it
+
+
+................................................................
+
+
+**6/4/2026 3rd visit**
+looked at 7 houses/neighborhoods (2 were 2nd visit)
+
+Houses
+- 922 Naples, Corona, CA 92882
+- 3470 Birchleaf Dr, Corona, CA 92881 (sold)
+- 3355 Shining Star, Corona, CA 92881
+- 1949 Lockwood, Corona, CA 92881
+- 11268 Pinecone, Corona, CA 92883 
 
 ---
 ### Notes for 922 Naples, Corona, CA 92882 

@@ -106,8 +106,8 @@
               "type": "markdown",
               "state": {
                 "file": "Personal/Houses.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Houses"
