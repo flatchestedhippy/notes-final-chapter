@@ -113,8 +113,7 @@
               "title": "Houses"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,10 +280,10 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "8b1818bd4ba61552",
+  "active": "ec6cf7477e95729a",
   "lastOpenFiles": [
-    "Start.md",
     "Personal/Houses.md",
+    "Start.md",
     "daily-notes/05.19.2026.md",
     "daily-notes/05.27.2026.md",
     "daily-notes/05.22.2026.md",
