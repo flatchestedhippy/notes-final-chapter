@@ -7,6 +7,11 @@ https://www.google.com/maps/d/edit?mid=1hPMi5I16ZsjX-l0MmR84O6CfPa5g52w&ll=33.88
 current lot size: 5,663 sq ft
 
 
+Trip 4
+- 2630 Galisteo St, Corona, CA 92882
+	- Border Park
+- 2007 Aberdeen Dr, Corona, CA 92881
+
 Next Trip visit - 3rd (in order) 6/4/2026
 - 922 Naples, Corona, CA 92882
 - 3470 Birchleaf Dr, Corona, CA 92881 (sold)
