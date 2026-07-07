@@ -32,18 +32,37 @@
           {
             "id": "c5b30f6a74799751",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Govt Contracting.md",
+                "file": "Business Ventures/Govt Contracting.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Govt Contracting"
             }
+          },
+          {
+            "id": "3a191a8748cda9e4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business Ventures/Vending Machines.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Vending Machines"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,10 +228,12 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "c5b30f6a74799751",
+  "active": "3a191a8748cda9e4",
   "lastOpenFiles": [
+    "Business Ventures/Govt Contracting.md",
+    "Business Ventures/Vending Machines.md",
+    "Business Ventures",
     "Start.md",
-    "Govt Contracting.md",
     "daily-notes/05.19.2026.md",
     "daily-notes/05.20.2026.md",
     "daily-notes/05.21.2026.md",
@@ -244,7 +265,6 @@
     "daily-notes/03.26.2026.md",
     "daily-notes/04.09.2026.md",
     "daily-notes/04.10.2026.md",
-    "Untitled.md",
     "Extras/Attachments/Pasted image 20260325210121.png",
     "Extras/Attachments/Pasted image 20260325210105.png",
     "AI/Rusty",
@@ -254,7 +274,6 @@
     "Tiller Interviews/Tiller Outreach",
     "William",
     "Extras/Templates/tiller/parts/hiring-pain",
-    "Extras/Templates/tiller/parts/general",
-    "Tiller Interviews"
+    "Extras/Templates/tiller/parts/general"
   ]
 }
