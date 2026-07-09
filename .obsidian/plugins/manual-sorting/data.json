@@ -16,17 +16,40 @@
       ],
       "sortOrder": "custom"
     },
+    "AI": {
+      "children": [
+        "AI/Notes.md",
+        "AI/Untitled.md",
+        "AI/The Father's Blueprint.md",
+        "AI/Rusty",
+        "AI/OpenClaw",
+        "AI/Runbook.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "AI/OpenClaw": {
+      "children": [
+        "AI/OpenClaw/Setup & Confirmation.md",
+        "AI/OpenClaw/Prompts.md",
+        "AI/OpenClaw/Brain Dump.md",
+        "AI/OpenClaw/Agents.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "AI/Rusty": {
+      "children": [
+        "AI/Rusty/UX Overhaul.md",
+        "AI/Rusty/Rusty Current Functionality.md",
+        "AI/Rusty/scratchpad.md",
+        "AI/Rusty/Prompts.md",
+        "AI/Rusty/Rusty NOTES & Priority TODO.md"
+      ],
+      "sortOrder": "custom"
+    },
     "Business Ventures": {
       "children": [
         "Business Ventures/Govt Contracting.md",
         "Business Ventures/Vending Machines.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Personal": {
-      "children": [
-        "Personal/Houses.md",
-        "Personal/House Updates.md"
       ],
       "sortOrder": "custom"
     },
@@ -100,52 +123,6 @@
         "daily-notes/12.22.2025.md",
         "daily-notes/12.23.2025.md",
         "daily-notes/12.12.2025.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Other": {
-      "children": [
-        "Other/All TODO.md",
-        "Other/Hexaco.org - A MEASURE OF THE SIX MAJOR DIMENSIONS OF PERSONALITY.md",
-        "Other/Kingsmen Resignation Jan 16, 2026.md",
-        "Other/Pain Sources.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "William": {
-      "children": [
-        "William/Williams 8th Birthday.md",
-        "William/1.5.2026 - Letter to my son William.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "AI": {
-      "children": [
-        "AI/Notes.md",
-        "AI/Untitled.md",
-        "AI/The Father's Blueprint.md",
-        "AI/Rusty",
-        "AI/OpenClaw",
-        "AI/Runbook.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "AI/Rusty": {
-      "children": [
-        "AI/Rusty/UX Overhaul.md",
-        "AI/Rusty/Rusty Current Functionality.md",
-        "AI/Rusty/scratchpad.md",
-        "AI/Rusty/Prompts.md",
-        "AI/Rusty/Rusty NOTES & Priority TODO.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "AI/OpenClaw": {
-      "children": [
-        "AI/OpenClaw/Setup & Confirmation.md",
-        "AI/OpenClaw/Prompts.md",
-        "AI/OpenClaw/Brain Dump.md",
-        "AI/OpenClaw/Agents.md"
       ],
       "sortOrder": "custom"
     },
@@ -233,6 +210,22 @@
       ],
       "sortOrder": "custom"
     },
+    "Other": {
+      "children": [
+        "Other/All TODO.md",
+        "Other/Hexaco.org - A MEASURE OF THE SIX MAJOR DIMENSIONS OF PERSONALITY.md",
+        "Other/Kingsmen Resignation Jan 16, 2026.md",
+        "Other/Pain Sources.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal": {
+      "children": [
+        "Personal/Houses.md",
+        "Personal/House Updates.md"
+      ],
+      "sortOrder": "custom"
+    },
     "Tiller Interviews": {
       "children": [
         "Tiller Interviews/2026-1-15 - Tiller Interview - Hiring Pain -- Drew Robbins.md",
@@ -254,6 +247,13 @@
     "Tiller Interviews/Tiller Synthesis": {
       "children": [
         "Tiller Interviews/Tiller Synthesis/Tiller Synthesis - Hiring Pain.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "William": {
+      "children": [
+        "William/Williams 8th Birthday.md",
+        "William/1.5.2026 - Letter to my son William.md"
       ],
       "sortOrder": "custom"
     }
