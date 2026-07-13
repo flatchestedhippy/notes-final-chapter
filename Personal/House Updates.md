@@ -1,4 +1,8 @@
 
+7/13/2026
+- Got first 
+
+
 Upgrade / Fix costs
 - Gardening $450
 - Tile/Roof leak $300
