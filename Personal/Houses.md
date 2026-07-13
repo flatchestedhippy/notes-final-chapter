@@ -86,19 +86,19 @@ B = Eagle Glen neighborhood
 E = South Corona Hills
 
 
-| Address                                                  | Sale Price | Purchase Price | Date Listed  | Zone | Notes                                                                              | Updated   | Score |
-| -------------------------------------------------------- | ---------- | -------------- | ------------ | ---- | ---------------------------------------------------------------------------------- | --------- | ----- |
-| 1856 Georgetown Cir <br>Corona, CA 92881 (ref only!!!!!) | n/a        | n/a            | n/a          | B    | just noted cause like area                                                         | 5/22/2026 | 10    |
-| 696 Avondale Dr<br>Corona, CA 92879                      | $719,000   |                |              | C    | sounds like i didnt like the sorrounding area that much (gmail)                    | 5/22/2026 | 7     |
-| 2251 Prescott Cir, Corona, CA 92881                      | $774,000   | pending        |              | E    | 5 bdrm, nice house<br><br>[[#Notes for 2251 Prescott Cir, Corona, CA 92881]]       | 5/29/2026 | 9     |
-| 2652 Presidio Cir <br>Corona, CA 92879                   | $775,000   |                | Apr 21, 2026 | C    |                                                                                    | 5/22/2026 | 9     |
-| 13365 March Way<br>Corona, CA 92879                      | $625,000   |                |              | D    |                                                                                    | 5/22/2026 | 7     |
-| 2630 Galisteo St<br>Corona, CA 92882                     | $734,900   |                |              | A    |                                                                                    | 5/22/2026 | 8     |
-| 922 Naples, Corona, CA 92882                             | $725,000   |                |              |      | GREAT SCHOOLS<br>PASS CONDOLIKE<br>[[#Notes for 922 Naples, Corona, CA 92882]]<br> | 6/4/2026  | 0     |
-| 3470 Birchleaf Dr, Corona, CA 92881                      | $719,000   | $723,000       |              |      | [[#Notes for 3470 Birchleaf Dr, Corona, CA 92881]]                                 | 6/4/2026  | 0     |
-| 3355 Shining Star, Corona, CA 92881                      | $769,999   |                |              |      | [[#Notes for 3355 shinning star]]                                                  |           | 0     |
-| 1949 Lockwood, Corona, CA 92881                          |            |                |              |      | [[#Notes for 1949 Lockwood, Corona, CA 92881]]                                     |           | 0     |
-| 11268 Pinecone, Corona, CA 92883                         | $735000    |                |              |      | [[#Notes for 11268 Pinecone, Corona, CA 92883]]                                    |           | 0     |
+| Address                                                                                                         | Sale Price | Purchase Price | Date Listed  | Zone | Notes                                                                              | Updated   | Score |
+| --------------------------------------------------------------------------------------------------------------- | ---------- | -------------- | ------------ | ---- | ---------------------------------------------------------------------------------- | --------- | ----- |
+| 1856 Georgetown Cir <br>Corona, CA 92881 (ref only!!!!!)                                                        | n/a        | n/a            | n/a          | B    | just noted cause like area                                                         | 5/22/2026 | 10    |
+| 696 Avondale Dr<br>Corona, CA 92879                                                                             | $719,000   |                |              | C    | sounds like i didnt like the sorrounding area that much (gmail)                    | 5/22/2026 | 7     |
+| [2251 Prescott Cir, Corona, CA 92881](https://www.redfin.com/CA/Corona/2251-Prescott-Cir-92881/home/4286208)    | $774,000   | $785,000       |              | E    | 5 bdrm, nice house<br><br>[[#Notes for 2251 Prescott Cir, Corona, CA 92881]]       | 5/29/2026 | 10    |
+| [2652 Presidio Cir <br>Corona, CA 92879](https://www.redfin.com/CA/Corona/2652-Presidio-Cir-92879/home/4770703) | $775,000   | $765,000       | Apr 21, 2026 | C    |                                                                                    | 7/13/2026 | 9     |
+| 13365 March Way<br>Corona, CA 92879                                                                             | $625,000   |                |              | D    |                                                                                    | 5/22/2026 | 7     |
+| 2630 Galisteo St<br>Corona, CA 92882                                                                            | $734,900   | $735,000       |              | A    |                                                                                    | 5/22/2026 | 8     |
+| 922 Naples, Corona, CA 92882                                                                                    | $725,000   |                |              |      | GREAT SCHOOLS<br>PASS CONDOLIKE<br>[[#Notes for 922 Naples, Corona, CA 92882]]<br> | 6/4/2026  | 0     |
+| 3470 Birchleaf Dr, Corona, CA 92881                                                                             | $719,000   | $723,000       |              |      | [[#Notes for 3470 Birchleaf Dr, Corona, CA 92881]]                                 | 6/4/2026  | 0     |
+| 3355 Shining Star, Corona, CA 92881                                                                             | $769,999   |                |              |      | [[#Notes for 3355 shinning star]]                                                  |           | 0     |
+| 1949 Lockwood, Corona, CA 92881                                                                                 |            |                |              |      | [[#Notes for 1949 Lockwood, Corona, CA 92881]]                                     |           | 0     |
+| 11268 Pinecone, Corona, CA 92883                                                                                | $735000    |                |              |      | [[#Notes for 11268 Pinecone, Corona, CA 92883]]                                    |           | 0     |
 
 
 Map showing places I like so far

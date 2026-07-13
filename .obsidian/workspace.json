@@ -89,7 +89,8 @@
               "title": "Houses"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "47c923d3d726f0e9",
@@ -255,13 +257,13 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "ec6cf7477e95729a",
+  "active": "c70e7f54170cc957",
   "lastOpenFiles": [
+    "Start.md",
+    "Personal/House Updates.md",
     "Business Ventures/Govt Contracting.md",
     "Personal/Houses.md",
-    "Personal/House Updates.md",
     "Business Ventures/Vending Machines.md",
-    "Start.md",
     "Business Ventures",
     "daily-notes/05.19.2026.md",
     "daily-notes/05.20.2026.md",
