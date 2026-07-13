@@ -1,7 +1,8 @@
 
 7/13/2026
-- Got first 
+- Got first offer of 1.35M
 
+~$55,600 total realtor fees
 
 Upgrade / Fix costs
 - Gardening $450
