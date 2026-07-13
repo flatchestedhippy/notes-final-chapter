@@ -74,9 +74,23 @@
               "icon": "lucide-file",
               "title": "Vending Machines"
             }
+          },
+          {
+            "id": "c70e7f54170cc957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Houses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Houses"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,12 +256,12 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "ec6cf7477e95729a",
+  "active": "c70e7f54170cc957",
   "lastOpenFiles": [
     "Personal/House Updates.md",
     "Business Ventures/Vending Machines.md",
-    "Personal/Houses.md",
     "Start.md",
+    "Personal/Houses.md",
     "Business Ventures/Govt Contracting.md",
     "Business Ventures",
     "daily-notes/05.19.2026.md",
