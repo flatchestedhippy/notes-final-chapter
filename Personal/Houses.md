@@ -19,6 +19,12 @@ Trip 5
 - 3370 Freeport, Corona, CA 92881
 	- 820k solar
 	- 4b, 2k sq
+- 145 Buckthorn, Corona, CA 92881
+	- think this is the area i hate
+- 142 Tamarack Dr, Corona, CA 92881
+	- I dont see a fucking mailbox?!!!
+- 3630 Vanderbilt Dr, Corona, CA 92881
+	- 838k, orig listed 920k
 Trip 4
 - 2630 Galisteo St, Corona, CA 92882
 - 3047 Mira Vis, Corona, CA 92881
