@@ -4,9 +4,21 @@ Pinned / Zones
 https://www.google.com/maps/d/edit?mid=1hPMi5I16ZsjX-l0MmR84O6CfPa5g52w&ll=33.88490134167454%2C-117.55619909058758&z=13
 
 
+WITH TRIP 5
+https://www.google.com/maps/d/edit?mid=1hPMi5I16ZsjX-l0MmR84O6CfPa5g52w&ll=33.837453506475185%2C-117.58363883566707&z=14
+
 current lot size: 5,663 sq ft
 
 
+Trip 5
+- 3047 Mira Vis, Corona, CA 92881
+	- It has more pics now, large yard no HOA
+	- I think I looked before but took zero notes about it (wtf?)
+	- has listed since 2022 so could likely negotiate to 790k
+	- no hoa, 1800 sf
+- 3370 Freeport, Corona, CA 92881
+	- 820k solar
+	- 4b, 2k sq
 Trip 4
 - 2630 Galisteo St, Corona, CA 92882
 - 3047 Mira Vis, Corona, CA 92881
