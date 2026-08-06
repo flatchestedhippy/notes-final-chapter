@@ -2,7 +2,10 @@
 TASK 
 WHERE !completed AND !contains(meta(section).subpath, "Current Routine")
 ```
-- [ ] Bills Finances ⏫ 🔁 every week on Monday 🛫 2026-07-06 📅 2026-07-13
+- [ ] Bills Finances ⏫ 🔁 every week on Monday 🛫 2026-07-27 📅 2026-08-03
+- [x] Bills Finances ⏫ 🔁 every week on Monday 🛫 2026-07-20 📅 2026-07-27 ✅ 2026-08-05
+- [x] Bills Finances ⏫ 🔁 every week on Monday 🛫 2026-07-13 📅 2026-07-20 ✅ 2026-08-05
+- [x] Bills Finances ⏫ 🔁 every week on Monday 🛫 2026-07-06 📅 2026-07-13 ✅ 2026-08-05
 - [x] Bills Finances ⏫ 🔁 every week on Monday 🛫 2026-06-29 📅 2026-07-06 ✅ 2026-07-07
 - [x] Bills Finances ⏫ 🔁 every week on Monday 🛫 2026-06-22 📅 2026-06-29 ✅ 2026-07-07
 - [x] Bills Finances ⏫ 🔁 every week on Monday 🛫 2026-06-15 📅 2026-06-22 ✅ 2026-07-07

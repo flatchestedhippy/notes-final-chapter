@@ -6,6 +6,7 @@
       {
         "id": "6af37589e57fc3e6",
         "type": "tabs",
+        "dimension": 59.22330097087378,
         "children": [
           {
             "id": "ec6cf7477e95729a",
@@ -42,6 +43,7 @@
       {
         "id": "eaf18c739fdaf9ac",
         "type": "tabs",
+        "dimension": 40.77669902912621,
         "children": [
           {
             "id": "c5b30f6a74799751",
@@ -90,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -257,13 +259,13 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "3a191a8748cda9e4",
+  "active": "c70e7f54170cc957",
   "lastOpenFiles": [
-    "Personal/Houses.md",
-    "Start.md",
     "Business Ventures/Govt Contracting.md",
-    "Personal/House Updates.md",
+    "Start.md",
     "Business Ventures/Vending Machines.md",
+    "Personal/Houses.md",
+    "Personal/House Updates.md",
     "Business Ventures",
     "daily-notes/05.19.2026.md",
     "daily-notes/05.20.2026.md",

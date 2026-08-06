@@ -10,7 +10,15 @@ https://www.google.com/maps/d/edit?mid=1hPMi5I16ZsjX-l0MmR84O6CfPa5g52w&ll=33.83
 current lot size: 5,663 sq ft
 
 
-Trip 5
+Trip 5 (do in this order!) 8/6/26
+- 142 Tamarack Dr, Corona, CA 92881
+	- I dont see a fucking mailbox?!!! (PROB DEAL BREAKER)
+	- 4298 lot
+	- price change MANY times - mamy times for sale
+	- pool + hot tub (guessing $500 elec bill)
+	- crappy floor like current
+- 687 Pointe Vis, Corona, CA 92881
+	- nice house, not sure about lot
 - 3047 Mira Vis, Corona, CA 92881
 	- It has more pics now, large yard no HOA
 	- I think I looked before but took zero notes about it (wtf?)
@@ -21,12 +29,6 @@ Trip 5
 	- 820k solar
 	- 4b, 2k sq
 	- only 3,900 lot
-- 142 Tamarack Dr, Corona, CA 92881
-	- I dont see a fucking mailbox?!!! (PROB DEAL BREAKER)
-	- 4298 lot
-	- price change MANY times - mamy times for sale
-	- pool + hot tub (guessing $500 elec bill)
-	- crappy floor like current
 - 3630 Vanderbilt Dr, Corona, CA 92881
 	- 838k, orig listed 920k
 - 1912 Silverwood Cir, Corona, CA 92881
@@ -38,8 +40,7 @@ Trip 5
 - 812 Poppyseed, Corona, CA 92881
 	- listed recent 790k
 	- 3bd 1500, 6k lot
-- 687 Pointe Vis, Corona, CA 92881
-	- nice house, not sure about lot
+
 Trip 4
 - 2630 Galisteo St, Corona, CA 92882
 - 3047 Mira Vis, Corona, CA 92881
