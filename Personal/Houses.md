@@ -16,14 +16,17 @@ Trip 5
 	- I think I looked before but took zero notes about it (wtf?)
 	- has listed since 2022 so could likely negotiate to 790k
 	- no hoa, 1800 sf
+	- huge 8,200 lot
 - 3370 Freeport, Corona, CA 92881
 	- 820k solar
 	- 4b, 2k sq
 	- only 3,900 lot
-- 145 Buckthorn, Corona, CA 92881
-	- think this is the area i hate
 - 142 Tamarack Dr, Corona, CA 92881
-	- I dont see a fucking mailbox?!!!
+	- I dont see a fucking mailbox?!!! (PROB DEAL BREAKER)
+	- 4298 lot
+	- price change MANY times - mamy times for sale
+	- pool + hot tub (guessing $500 elec bill)
+	- crappy floor like current
 - 3630 Vanderbilt Dr, Corona, CA 92881
 	- 838k, orig listed 920k
 Trip 4
