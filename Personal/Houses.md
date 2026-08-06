@@ -19,6 +19,7 @@ Trip 5
 - 3370 Freeport, Corona, CA 92881
 	- 820k solar
 	- 4b, 2k sq
+	- only 3,900 lot
 - 145 Buckthorn, Corona, CA 92881
 	- think this is the area i hate
 - 142 Tamarack Dr, Corona, CA 92881
