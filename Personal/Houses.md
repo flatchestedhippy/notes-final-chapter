@@ -29,6 +29,17 @@ Trip 5
 	- crappy floor like current
 - 3630 Vanderbilt Dr, Corona, CA 92881
 	- 838k, orig listed 920k
+- 1912 Silverwood Cir, Corona, CA 92881
+	- just listed 825k
+	- 4bdrm 1700 - 6k lot NO HOA
+- 2550 Hudson Ave, Corona, CA 92881
+	- just listed 838k
+	- 3bd 2200 - but uhm looks like a palace inside and out - granite outside place - omg crazy nice
+- 812 Poppyseed, Corona, CA 92881
+	- listed recent 790k
+	- 3bd 1500, 6k lot
+- 687 Pointe Vis, Corona, CA 92881
+	- nice house, not sure about lot
 Trip 4
 - 2630 Galisteo St, Corona, CA 92882
 - 3047 Mira Vis, Corona, CA 92881
