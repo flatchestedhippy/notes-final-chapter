@@ -146,6 +146,32 @@ Map areas to avoid
 
 
 
+---
+
+................................................................
+8/6/2026 5th visit
+
+
+### Notes for 142 Tamarack Dr, Corona, CA 92881
+
+The house looks really nice from the outside. It’s a five bedroom. The neighborhood looks really nice, but it is a bit tight and does have a large shared mailbox area.  
+  
+William says it’s a small tight road.  
+  
+  
+William says not a place he would like to ride his bike  
+  
+The area around here is extremely nice with new stores new buildings and it’s nice  
+  
+Overall 8 - only cause 5bdrm, pool & hot tub
+
+
+
+
+
+
+................................................................
+
 **5/21/2026 2nd visit**
 
 Houses
@@ -245,3 +271,4 @@ I don’t know if it’s where I came from but I did notice. I had to drive thro
 This is also a big house with a very big lot. The neighborhood looks great.
 
 ----
+
