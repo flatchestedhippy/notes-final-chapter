@@ -174,7 +174,21 @@ This is the first house actually went inside and looked at.  We called while on 
 - Pros
 	- VERY LARGE corner lot (so no neighbors or shared fence to left)
 	- Large privacy brick around property
+	- kitchen was updated recently, looks very nice - cupboards are nicely constructed but need some paint/clean (see below)
+	- very large master bedroom with part to double as an office
+	- large tub in master
+	- neighbor
+	- The front looks very nice and has a working fountain
+	- comes with nice wooden built in blinds
+	- love the current colors inside and out - though inside needs fresh paint (see below)
 - Cons
+	- windows / sliding doors feels on the cheap side
+	- much of the carpet needs replaced
+	- paint jobs for sure
+	- cabinets need cleaned up - prob easy paint job
+	- master closets are just ok -> is a walk in but has built in cabinets that need painted
+	- non master bath/shower is just ok - still I rate it better than in current house non master bath though
+	- store/micro/dishwasher - old
 
 
 ---
