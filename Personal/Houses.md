@@ -133,6 +133,7 @@ E = South Corona Hills
 | 3355 Shining Star, Corona, CA 92881                                                                             | $769,999   |                |              |      | [[#Notes for 3355 shinning star]]                                                  |           | 0     |
 | 1949 Lockwood, Corona, CA 92881                                                                                 |            |                |              |      | [[#Notes for 1949 Lockwood, Corona, CA 92881]]                                     |           | 0     |
 | 11268 Pinecone, Corona, CA 92883                                                                                | $735000    |                |              |      | [[#Notes for 11268 Pinecone, Corona, CA 92883]]                                    |           | 0     |
+| 142 Tamarack Dr, Corona, CA 92881                                                                               |            |                |              |      | [[#Notes for 142 Tamarack Dr, Corona, CA 92881]]                                   |           | 7     |
 
 
 Map showing places I like so far
@@ -149,8 +150,11 @@ Map areas to avoid
 ---
 
 ................................................................
-8/6/2026 5th visit
+**8/6/2026 5th visit**
 
+Houses
+- 142 Tamarack Dr, Corona, CA 92881
+- 
 
 ### Notes for 142 Tamarack Dr, Corona, CA 92881
 
@@ -163,13 +167,16 @@ William says not a place he would like to ride his bike
   
 The area around here is extremely nice with new stores new buildings and it’s nice  
   
-Overall 8 - only cause 5bdrm, pool & hot tub
+Overall 8 - only cause 5bdrm, pool & hot tub -> CHANGING TO 7 based on Williams Comments
+
+
+---
 
 
 
 
-
-
+---
+---
 ................................................................
 
 **5/21/2026 2nd visit**
