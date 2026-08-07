@@ -171,7 +171,10 @@ This is the first house actually went inside and looked at.  We called while on 
 - We both LOVE the neighborhood
 - Nice big yard ( 8k+ lot )
 - 4bdrm on docs but had build option for 3 with expanded master -> would work PERFECT for the office freeing up a whole bedroom (Me, William, Spare)
-- 
+- Pros
+	- VERY LARGE corner lot (so no neighbors or shared fence to left)
+	- Large privacy brick around property
+- Cons
 
 
 ---
