@@ -188,7 +188,8 @@ This is the first house actually went inside and looked at.  We called while on 
 	- would finally have a 'hall' closet for towels, etc.
 	- I like the floors where there is tile
 	- NO HOA
-	
+	- very nice yard
+	- single story
 - Cons
 	- windows / sliding doors feels on the cheap side
 	- much of the carpet needs replaced
@@ -201,6 +202,7 @@ This is the first house actually went inside and looked at.  We called while on 
 - Overall
 	- We would def. live here
 	- Needs TLC (paint, etc.)
+	- major upgrades with master bath, yard .. compared to current home
 
 
 ---
