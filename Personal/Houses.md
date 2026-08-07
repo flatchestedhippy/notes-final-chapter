@@ -207,6 +207,7 @@ This is the first house actually went inside and looked at.  We called while on 
 		- not all floor is carpet - so not sure what cost would be to replace
 		- I can do most of the painting (rooms,, etc) but would prefer professional in front (kitchen, living room, etc.)
 	- major upgrades with master bath, yard .. compared to current home
+	- the drive to the property was actually nice - no going through grime to get to the nicer parts
 
 
 ---
