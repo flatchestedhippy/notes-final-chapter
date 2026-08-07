@@ -19,6 +19,7 @@ Trip 5 (do in this order!) 8/6/26
 	- crappy floor like current
 - 687 Pointe Vis, Corona, CA 92881
 	- nice house, not sure about lot
+	- NOPE BAD LOT / NEIGHBORHOOD
 - 3047 Mira Vis, Corona, CA 92881
 	- It has more pics now, large yard no HOA
 	- I think I looked before but took zero notes about it (wtf?)
@@ -29,6 +30,7 @@ Trip 5 (do in this order!) 8/6/26
 	- 820k solar
 	- 4b, 2k sq
 	- only 3,900 lot
+	- NOPE BAD LOT / NEIGHBORHOOD
 - 3630 Vanderbilt Dr, Corona, CA 92881
 	- 838k, orig listed 920k
 - 1912 Silverwood Cir, Corona, CA 92881
@@ -181,7 +183,7 @@ This is the first house actually went inside and looked at.  We called while on 
 	- very large master bedroom with part to double as an office
 	- nice master bathroom / shower 
 		- large tub in master
-	- neighborhood is
+	- neighborhood is one of the better ones
 	- The front looks very nice and has a working fountain
 	- comes with nice wooden built in blinds
 	- love the current colors inside and out - though inside needs fresh paint (see below)
