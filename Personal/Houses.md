@@ -181,7 +181,7 @@ This is the first house actually went inside and looked at.  We called while on 
 	- very large master bedroom with part to double as an office
 	- nice master bathroom / shower 
 		- large tub in master
-	- neighbor
+	- neighborhood is
 	- The front looks very nice and has a working fountain
 	- comes with nice wooden built in blinds
 	- love the current colors inside and out - though inside needs fresh paint (see below)
@@ -202,6 +202,8 @@ This is the first house actually went inside and looked at.  We called while on 
 - Overall
 	- We would def. live here
 	- Needs TLC (paint, etc.)
+		- not all floor is carpet - so not sure what cost would be to replace
+		- I can do most of the painting (rooms,, etc) but would prefer professional in front (kitchen, living room, etc.)
 	- major upgrades with master bath, yard .. compared to current home
 
 
