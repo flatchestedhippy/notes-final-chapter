@@ -134,6 +134,8 @@ E = South Corona Hills
 | 1949 Lockwood, Corona, CA 92881                                                                                 |            |                |              |      | [[#Notes for 1949 Lockwood, Corona, CA 92881]]                                     |           | 0     |
 | 11268 Pinecone, Corona, CA 92883                                                                                | $735000    |                |              |      | [[#Notes for 11268 Pinecone, Corona, CA 92883]]                                    |           | 0     |
 | 142 Tamarack Dr, Corona, CA 92881                                                                               |            |                |              |      | [[#Notes for 142 Tamarack Dr, Corona, CA 92881]]                                   |           | 7     |
+| 687 Pointe Vis, Corona, CA 92881                                                                                |            |                |              |      | [[#Notes for 687 Pointe Vis, Corona, CA 92881]]                                    |           | 7     |
+| 3047 Mira Vis, Corona, CA 92881                                                                                 | $790000    |                |              |      | [[#Notes for 3047 Mira Vis, Corona, CA 92881]]                                     |           | 8.5   |
 
 
 Map showing places I like so far
@@ -154,7 +156,35 @@ Map areas to avoid
 
 Houses
 - 142 Tamarack Dr, Corona, CA 92881
+- 687 Pointe Vis, Corona, CA 92881
+- 3047 Mira Vis, Corona, CA 92881
 - 
+
+
+### Notes for 3047 Mira Vis, Corona, CA 92881
+Absolutely love this Neighborhood!
+
+This is the first house actually went inside and looked at.  We called while on visit and was able to get a tour.
+
+- house directly next to it just sold (look up sales price!!)
+- William loves the house
+- We both LOVE the neighborhood
+- Nice big yard ( 8k+ lot )
+- 4bdrm on docs but had build option for 3 with expanded master -> would work PERFECT for the office freeing up a whole bedroom (Me, William, Spare)
+- 
+
+
+---
+### Notes for 687 Pointe Vis, Corona, CA 92881
+Neighborhood what I thought it’s kind of like the previous one. It’s compact shared mailbox like I don’t even know where the hell the mailboxes are but the house itself looks nice. The neighborhood looks good. It’s tight kind of like a condo place.
+
+I would pass on this place.
+
+Also worth noting that I could not access the Internet for my phone while beside the house, I had to drive down the road
+
+This in the last place in the next place, we’re going to very very nice surrounding area
+
+---
 
 ### Notes for 142 Tamarack Dr, Corona, CA 92881
 
