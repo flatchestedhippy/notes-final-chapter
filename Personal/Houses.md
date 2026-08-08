@@ -17,9 +17,11 @@ Trip 5 (do in this order!) 8/6/26
 	- price change MANY times - mamy times for sale
 	- pool + hot tub (guessing $500 elec bill)
 	- crappy floor like current
+	- **OVERALL** - NOT INTERESTED, SEE NOTES ON PHONE APP
 - 687 Pointe Vis, Corona, CA 92881
 	- nice house, not sure about lot
 	- NOPE BAD LOT / NEIGHBORHOOD
+	- **OVERALL** - NOT INTERESTED, SEE NOTES ON PHONE APP
 - 3047 Mira Vis, Corona, CA 92881
 	- It has more pics now, large yard no HOA
 	- I think I looked before but took zero notes about it (wtf?)
@@ -30,9 +32,10 @@ Trip 5 (do in this order!) 8/6/26
 	- 820k solar
 	- 4b, 2k sq
 	- only 3,900 lot
-	- NOPE BAD LOT / NEIGHBORHOOD
+	- **NOPE BAD LOT / NEIGHBORHOOD**
 - 3630 Vanderbilt Dr, Corona, CA 92881
 	- 838k, orig listed 920k
+	- MI
 - 1912 Silverwood Cir, Corona, CA 92881
 	- just listed 825k
 	- 4bdrm 1700 - 6k lot NO HOA
