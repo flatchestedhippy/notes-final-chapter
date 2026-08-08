@@ -21,7 +21,7 @@ Trip 5 (do in this order!) 8/6/26
 - 687 Pointe Vis, Corona, CA 92881
 	- nice house, not sure about lot
 	- NOPE BAD LOT / NEIGHBORHOOD
-	- **OVERALL** - NOT INTERESTED, SEE NOTES ON PHONE APP
+	- **OVERALL** - **NOT INTERESTED, SEE NOTES ON PHONE APP**
 - 3047 Mira Vis, Corona, CA 92881
 	- It has more pics now, large yard no HOA
 	- I think I looked before but took zero notes about it (wtf?)
@@ -32,20 +32,23 @@ Trip 5 (do in this order!) 8/6/26
 	- 820k solar
 	- 4b, 2k sq
 	- only 3,900 lot
-	- **NOPE BAD LOT / NEIGHBORHOOD**
+	- **OVERALL NOPE BAD LOT / NEIGHBORHOOD**
 - 3630 Vanderbilt Dr, Corona, CA 92881
 	- 838k, orig listed 920k
-	- MI
+	- Nicest overall - touring on 8/8 at 2:30pm
 - 1912 Silverwood Cir, Corona, CA 92881
 	- just listed 825k
 	- 4bdrm 1700 - 6k lot NO HOA
+	- Nice neighborhood, didnt love the outside of the ouse
+	- 8/8/26 -> will look at inside today since has open house
 - 2550 Hudson Ave, Corona, CA 92881
 	- just listed 838k
 	- 3bd 2200 - but uhm looks like a palace inside and out - granite outside place - omg crazy nice
+	- **OVERALL condo feel neighborhood - will pass**
 - 812 Poppyseed, Corona, CA 92881
 	- listed recent 790k
 	- 3bd 1500, 6k lot
-	- 
+	- **OVERALL CONDO FEEL - PASS!**
 
 Trip 4
 - 2630 Galisteo St, Corona, CA 92882
