@@ -45,6 +45,7 @@ Trip 5 (do in this order!) 8/6/26
 - 812 Poppyseed, Corona, CA 92881
 	- listed recent 790k
 	- 3bd 1500, 6k lot
+	- 
 
 Trip 4
 - 2630 Galisteo St, Corona, CA 92882
