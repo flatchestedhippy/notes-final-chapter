@@ -1,4 +1,14 @@
 
+Requirements
+- 3bdrm+
+- 2bath+
+- 1500 sq ft
+- 5k+ lot
+- no condo, no large shared mailbox
+- solar a plus
+- pool not preferred but not a deal breaker
+
+
 7/13/2026
 - Got first offer of 1.35M
 

@@ -66,6 +66,23 @@
           {
             "id": "b468588b8e57c670",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/House Updates.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "House Updates"
+            }
+          },
+          {
+            "id": "e4c6527f1ddac07b",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -73,6 +90,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Houses"
             }
@@ -98,7 +116,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "custom",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -135,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "47c923d3d726f0e9",
@@ -247,11 +266,11 @@
   },
   "active": "b468588b8e57c670",
   "lastOpenFiles": [
+    "Personal/Houses.md",
+    "Personal/House Updates.md",
     "Start.md",
     "Business Ventures/Vending Machines.md",
     "Business Ventures/Govt Contracting.md",
-    "Personal/House Updates.md",
-    "Personal/Houses.md",
     "Business Ventures",
     "daily-notes/05.19.2026.md",
     "daily-notes/05.20.2026.md",
