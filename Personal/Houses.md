@@ -254,15 +254,16 @@ The neighborhood is very much tight condo shared mailbox feel but this house in 
 Very much of a condo field neighborhood shared mailboxes very nice very nice though. I don’t know if I’d live here but I might but probably not for the price in the garages are weird. They have two garages like all the houses here have a two car and one car garage, but the house is listed as a two car ride so I have no idea.  
   
   
-2550 Hudson Ave, Corona, CA 92881  
-Very much of a condo field neighborhood shared mailboxes very nice very nice though. I don’t know if I’d live here but I might but probably not for the price in the garages are weird. They have two garages like all the houses here have a two car and one car garage, but the house is listed as a two car ride so I have no idea.  
-  
 1912 Silverwood Cir, Corona, CA 92881  
+We visited this on trip 5.
+Very nice inside - seemed small but is currently lived in. is 1700 sq 4 bdrm - but 2 story. William said it seems small lol
 Nice older neighborhood very similar. Ours would definitely live in the neighborhood from the front of the house. It’s not the nicest. It’s a little worn down roof looks a bit old, but it’s not bad. I would live in this neighborhood.  
+The owner is the seller / realtor
+William didnt really seem interested but it seemed nice  enough to look further.
   
   
 3630 Vanderbilt Dr, Corona, CA 92881  
-We visited this on last trip.  Beautiful inside - very nice back yard.
+We visited this on trip 5.  Beautiful inside - very nice back yard.
 Perfect house except the front - the yard needs completely redone.
 Absolutely beautiful neighborhood probably the best so far.
 House looks like shit from outside (crappy sod, etc.)

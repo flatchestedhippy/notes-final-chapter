@@ -96,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -264,11 +264,11 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "e4c6527f1ddac07b",
+  "active": "b468588b8e57c670",
   "lastOpenFiles": [
+    "Personal/Houses.md",
     "Start.md",
     "Personal/House Updates.md",
-    "Personal/Houses.md",
     "Business Ventures/Vending Machines.md",
     "Business Ventures/Govt Contracting.md",
     "Business Ventures",
