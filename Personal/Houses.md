@@ -170,6 +170,7 @@ Houses
 - 
 
 
+
 ### Notes for 3047 Mira Vis, Corona, CA 92881
 Absolutely love this Neighborhood!
 
@@ -245,7 +246,65 @@ Overall 8 - only cause 5bdrm, pool & hot tub -> CHANGING TO 7 based on Williams 
 
 ---
 
+812 Poppyseed, Corona, CA 92881  
+The neighborhood is very much tight condo shared mailbox feel but this house in particular looks really, really nice from the outside.  
+  
+  
+2550 Hudson Ave, Corona, CA 92881  
+Very much of a condo field neighborhood shared mailboxes very nice very nice though. I don’t know if I’d live here but I might but probably not for the price in the garages are weird. They have two garages like all the houses here have a two car and one car garage, but the house is listed as a two car ride so I have no idea.  
+  
+  
+2550 Hudson Ave, Corona, CA 92881  
+Very much of a condo field neighborhood shared mailboxes very nice very nice though. I don’t know if I’d live here but I might but probably not for the price in the garages are weird. They have two garages like all the houses here have a two car and one car garage, but the house is listed as a two car ride so I have no idea.  
+  
+1912 Silverwood Cir, Corona, CA 92881  
+Nice older neighborhood very similar. Ours would definitely live in the neighborhood from the front of the house. It’s not the nicest. It’s a little worn down roof looks a bit old, but it’s not bad. I would live in this neighborhood.  
+  
+  
+3630 Vanderbilt Dr, Corona, CA 92881  
+We visited this on last trip.  Beautiful inside - very nice back yard.
+Perfect house except the front - the yard needs completely redone.
+Absolutely beautiful neighborhood probably the best so far.
+House looks like shit from outside (crappy sod, etc.)
+This is the worst looking house in the neighborhood - all of the others look much larger/nicer (3 car garages, etc.)
 
+  
+The price is 838 so out of range unless they would deal  ,,,
+The house is owned by opendoor and price has changed many times!
+Jul 29, 2026
+Price Changed
+$838,000
+$417/sq ft
+
+Jul 27, 2026
+Relisted
+—
+Jul 14, 2026
+Pending
+—
+May 27, 2026
+Price Changed
+$865,000
+$430/sq ft
+
+May 6, 2026
+Price Changed
+$873,000
+$434/sq ft
+
+Apr 22, 2026
+Price Changed
+$900,000
+$447/sq ft
+
+Apr 13, 2026
+Listed
+$920,000
+  
+  
+3370 Freeport, Corona, CA 92881  
+  
+Gated community so no go
 
 
 ---
