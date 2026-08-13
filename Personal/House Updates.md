@@ -1,5 +1,6 @@
 
 Requirements
+- ~800k
 - 3bdrm+
 - 2bath+
 - 1500 sq ft
