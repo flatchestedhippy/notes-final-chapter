@@ -95,8 +95,7 @@
               "title": "Houses"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -264,10 +263,10 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "e4c6527f1ddac07b",
+  "active": "c5b30f6a74799751",
   "lastOpenFiles": [
-    "Start.md",
     "Personal/Houses.md",
+    "Start.md",
     "Personal/House Updates.md",
     "Business Ventures/Vending Machines.md",
     "Business Ventures/Govt Contracting.md",
