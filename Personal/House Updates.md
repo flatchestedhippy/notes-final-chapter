@@ -10,6 +10,10 @@ Requirements
 - pool not preferred but not a deal breaker
 
 
+8/17/2026
+- Cash offer accepted yesterday, our new home:
+	- 3047 Mira Vista Corona, CA 92881
+
 7/13/2026
 - Got first offer of 1.35M
 
@@ -31,29 +35,9 @@ Upgrade / Fix costs
 $7,950 so far
 
 
-Cash Liquid, etc.
+Cash Liquid.
 S: $16,531
 F: $90,000
 B: $21,182
 ... -$38,500
 
-**House Spring Cleaning**
-- [x] Finish Bathroom ✅ 2026-05-05
-	- [x] Paint ✅ 2026-05-05
-	- [x] Install new transition strip ✅ 2026-05-05
-- [x] Paint top of garage where door damaged ✅ 2026-05-29
-- [ ] Details
-	- [ ] Clean window sills (including sliding glass)
-	- [x] clean and/or paint around door frames ✅ 2026-06-08
-- [x] Repairs ✅ 2026-05-29
-	- [x] Roof / Leak + now broken tiles ✅ 2026-05-29
-	- [x] Fix weather strip on garage ✅ 2026-05-29
-- [ ] General Cleaning
-	- [ ] Clean office 
-	- [ ] Clean master
-	- [ ] Clean Williams room
-	- [ ] Clean Living Room
-	- [ ] Clean Play Room
-	- [ ] Clean Kitchen
-- [x] Patch behind Williams door ✅ 2026-06-08
-- [ ] 
