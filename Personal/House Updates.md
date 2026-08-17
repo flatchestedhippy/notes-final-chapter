@@ -31,6 +31,10 @@ Upgrade / Fix costs
 $7,950 so far
 
 
+Cash Liquid, etc.
+Purchase: 
+
+
 **House Spring Cleaning**
 - [x] Finish Bathroom ✅ 2026-05-05
 	- [x] Paint ✅ 2026-05-05
