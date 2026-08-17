@@ -32,8 +32,10 @@ $7,950 so far
 
 
 Cash Liquid, etc.
-Purchase: 
-
+S: $16,531
+F: $90,000
+B: $21,182
+... -$38,500
 
 **House Spring Cleaning**
 - [x] Finish Bathroom ✅ 2026-05-05
