@@ -41,3 +41,11 @@ F: $90,000
 B: $21,182
 ... -$38,500
 
+
+8/18/2026
+- offer was accepted on Sunday. Trish said we could open escrow next day - but she is non responsive for most part - calling her to get an update on escrow and to see about scheduling an inspection
+	- Trish : 714.206.1449
+	- 10:45AM
+		- just give date/time for inspection
+			- she will send some inspector info
+		- she is getting escrow set up and will get back later today with deposit info
