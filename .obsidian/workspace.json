@@ -6,7 +6,7 @@
       {
         "id": "6af37589e57fc3e6",
         "type": "tabs",
-        "dimension": 37.87047200878156,
+        "dimension": 68.44660194174757,
         "children": [
           {
             "id": "ec6cf7477e95729a",
@@ -29,7 +29,7 @@
       {
         "id": "eaf18c739fdaf9ac",
         "type": "tabs",
-        "dimension": 62.12952799121844,
+        "dimension": 31.55339805825243,
         "children": [
           {
             "id": "c5b30f6a74799751",
@@ -95,8 +95,7 @@
               "title": "Houses"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "47c923d3d726f0e9",
@@ -265,12 +263,12 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "b468588b8e57c670",
+  "active": "c5b30f6a74799751",
   "lastOpenFiles": [
+    "Personal/House Updates.md",
     "Personal/Houses.md",
     "Business Ventures/Govt Contracting.md",
     "Start.md",
-    "Personal/House Updates.md",
     "Business Ventures/Vending Machines.md",
     "Business Ventures",
     "daily-notes/05.19.2026.md",
