@@ -50,3 +50,4 @@ B: $21,182
 			- she will send some inspector info
 		- she is getting escrow set up and will get back later today with deposit info
 - sent email to Joel Samuels asking if he could provide anything about the previous insurance claim for the water issue
+	- he responded - no details just that a claim was made
