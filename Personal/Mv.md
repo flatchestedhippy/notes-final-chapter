@@ -12,3 +12,9 @@ https://anthony.cnusd.k12.ca.us/
 - upload closing escrow document
 - utility bill after 30 days
 
+TODO
+- [ ] Internet / Phone
+- [ ] Electric
+- [ ] Gas
+- [ ] Trash
+- [ ] 
