@@ -17,6 +17,11 @@ TODO
 - [ ] Electric
 - [ ] Gas
 - [ ] Trash
+- [ ] xx
+	- [ ] Steam Cleaner
+	- [ ] Lawn mower
+	- [ ] Ring Camera
+	- [ ] Nest
 
 
 
