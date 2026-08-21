@@ -17,4 +17,9 @@ TODO
 - [ ] Electric
 - [ ] Gas
 - [ ] Trash
-- [ ] 
+
+
+
+Other:
+
+![[Pasted image 20260820191332.png]]
