@@ -64,38 +64,6 @@
             }
           },
           {
-            "id": "b468588b8e57c670",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/House Updates.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "House Updates"
-            }
-          },
-          {
-            "id": "e4c6527f1ddac07b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Houses.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Houses"
-            }
-          },
-          {
             "id": "7d5865ae6d4bb457",
             "type": "leaf",
             "state": {
@@ -110,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -278,13 +246,13 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "e4c6527f1ddac07b",
+  "active": "7d5865ae6d4bb457",
   "lastOpenFiles": [
+    "Personal/House Updates.md",
     "Personal/Mv.md",
+    "Personal/Houses.md",
     "Business Ventures/Govt Contracting.md",
     "Extras/Attachments/Pasted image 20260820191332.png",
-    "Personal/Houses.md",
-    "Personal/House Updates.md",
     "Business Ventures/Vending Machines.md",
     "Start.md",
     "Business Ventures",
