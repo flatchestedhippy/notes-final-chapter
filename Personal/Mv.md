@@ -35,6 +35,23 @@ Prep
 - furniture
 
 
+### Splendid Moving
+1 323 645 2636
+https://www.yelp.com/projects/FDsRwC1qNQeswHWScpljWA/conversation/0hvDZCrctw7tUzxLirU95w
+
+
+Customer: Keith Schmeichel
+Move date: September 3, 2026
+
+Arrival time: 9-10am
+Phone: (949) 236-1948
+From: 14862 Rattan St Irvine, CA 92604 
+
+Extra stop: 
+To: 3047 Mira Vista Way Corona, CA 92881
+Rate: $180 cash /$190 card
+Movers: 4
+
 
 Other:
 
