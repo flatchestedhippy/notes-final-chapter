@@ -25,6 +25,16 @@ TODO
 
 
 
+
+Prep
+- kitchen
+	- clean / wetvac fridge (after move)
+	- 
+- shine up grill, have it ready to rock when moved
+- furniture
+
+
+
 Other:
 
 ![[Pasted image 20260820191332.png]]
