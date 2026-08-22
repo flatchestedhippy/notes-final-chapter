@@ -12,6 +12,11 @@ https://anthony.cnusd.k12.ca.us/
 - upload closing escrow document
 - utility bill after 30 days
 
+8/22/2026
+- sent email to Allie Thompson asking for PDF
+
+---
+
 TODO
 - [x] Movers ✅ 2026-08-22
 	- September 3, 2026
