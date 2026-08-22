@@ -13,7 +13,9 @@ https://anthony.cnusd.k12.ca.us/
 - utility bill after 30 days
 
 TODO
-- [ ] Movers
+- [x] Movers ✅ 2026-08-22
+	- September 3, 2026
+	- Arrival time: 9-10am
 - [ ] Internet / Phone
 - [ ] Electric
 - [ ] Gas
