@@ -16,4 +16,4 @@ I can add a clean, modern, premium self-service market to your building with no 
 - Fully stocked and serviced
 - Cashless/tap-to-pay
 - Healthier options available
-- Ideal for employees, residents, customers, and visitors
+- Ideal for employees, residents, customers, and visitors............
