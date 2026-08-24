@@ -30,6 +30,7 @@ TODO
 - [ ] Gas
 - [ ] Trash
 - [ ] Insurance (shoudl be set but verify)
+	- fuck state farm! email this morning saying they wont offer any new insurance even though i got a quote!!!  New insurance ~2x
 - [ ] xx
 	- [ ] Steam Cleaner
 	- [ ] Lawn mower
