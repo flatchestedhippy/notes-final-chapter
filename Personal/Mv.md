@@ -14,6 +14,10 @@ https://anthony.cnusd.k12.ca.us/
 
 8/22/2026
 - sent email to Allie Thompson asking for PDF for the most current and signed IEP.
+8/24/2026
+- I'm pissed! Just got email from Joel saying State Farm now WILL NOT cover the house because they dont want anymore coverage in Corona!!!!
+	-  He gave alternative to call:  Tod Bearbower (949) 347-9909
+		- called ~9:15AM, he will send quote via email to my yahoo
 
 ---
 
