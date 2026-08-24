@@ -25,22 +25,24 @@ https://anthony.cnusd.k12.ca.us/
 ---
 
 TODO
+- [ ] School pre-reg 📅 2026-08-25 🔺 
+	- ugh just waiting on current school to send IEP
+- [ ] cleaners
 - [x] Movers ✅ 2026-08-22
 	- September 3, 2026
 	- Arrival time: 9-10am
 - [ ] Internet / Phone
-- [ ] Electric
+- [x] Electric ✅ 2026-08-24
 - [ ] Gas
 - [ ] Trash
-- [ ] Insurance (shoudl be set but verify)
+- [x] Insurance (shoudl be set but verify) ✅ 2026-08-24
 	- fuck state farm! email this morning saying they wont offer any new insurance even though i got a quote!!!  New insurance ~2x
-- [ ] xx
+	- completed / Mercury Insurance 
+- [ ] Other
 	- [ ] Steam Cleaner
 	- [ ] Lawn mower
 	- [ ] Ring Camera
 	- [ ] Nest
-
-
 
 
 Prep
