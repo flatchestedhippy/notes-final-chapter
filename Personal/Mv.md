@@ -25,6 +25,7 @@ TODO
 - [ ] Electric
 - [ ] Gas
 - [ ] Trash
+- [ ] Insurance (shoudl be set but verify)
 - [ ] xx
 	- [ ] Steam Cleaner
 	- [ ] Lawn mower
