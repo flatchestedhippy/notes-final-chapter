@@ -18,6 +18,9 @@ https://anthony.cnusd.k12.ca.us/
 - I'm pissed! Just got email from Joel saying State Farm now WILL NOT cover the house because they dont want anymore coverage in Corona!!!!
 	-  He gave alternative to call:  Tod Bearbower (949) 347-9909
 		- called ~9:15AM, he will send quote via email to my yahoo
+- school
+	- uploaded SCE doc to pre-reg
+	- submitted email to Gardenia letting her know i cant subit and have not gotten IEP from current school yet
 
 ---
 
