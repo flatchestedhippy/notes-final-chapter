@@ -4,6 +4,12 @@
 G O A L :: See [[The Father's Blueprint]]
 
 
+### William School
+**9/2 – Picture Day**
+9/3 – Back to School Night
+9/4 – MINIMUM DAY 
+9/7 – Labor Day Holiday
+
 ---
 **PAST DUE**
 ```tasks

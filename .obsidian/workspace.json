@@ -6,7 +6,7 @@
       {
         "id": "6af37589e57fc3e6",
         "type": "tabs",
-        "dimension": 26.468048359240075,
+        "dimension": 49.611398963730565,
         "children": [
           {
             "id": "ec6cf7477e95729a",
@@ -29,7 +29,7 @@
       {
         "id": "eaf18c739fdaf9ac",
         "type": "tabs",
-        "dimension": 73.53195164075993,
+        "dimension": 50.388601036269435,
         "children": [
           {
             "id": "c5b30f6a74799751",
@@ -246,10 +246,10 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "7d5865ae6d4bb457",
+  "active": "ec6cf7477e95729a",
   "lastOpenFiles": [
-    "Start.md",
     "Personal/Mv.md",
+    "Start.md",
     "Business Ventures/Vending Machines.md",
     "Personal/House Updates.md",
     "Personal/Houses.md",
