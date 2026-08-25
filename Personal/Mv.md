@@ -25,8 +25,9 @@ https://anthony.cnusd.k12.ca.us/
 ---
 
 TODO
-- [ ] School pre-reg 📅 2026-08-25 🔺 
+- [x] School pre-reg 🔺 📅 2026-08-25 ✅ 2026-08-25
 	- ugh just waiting on current school to send IEP
+	- sent latest no IEP but should good to continue until greentree provide IEP
 - [ ] cleaners
 - [x] Movers ✅ 2026-08-22
 	- September 3, 2026
