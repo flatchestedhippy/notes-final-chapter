@@ -44,6 +44,15 @@ TODO
 	- [ ] Lawn mower
 	- [ ] Ring Camera
 	- [ ] Nest
+- [ ] Cats move (only 1 cat carrier)
+
+
+Trish
+- good news & hiccup
+	- dad hospotilized yesterday (stroke)
+	- disclosures were due yesterday - probably be tomorrow
+	- good news
+		- new neighbors across street has boy/girl 7 & 8 years old
 
 
 Prep
