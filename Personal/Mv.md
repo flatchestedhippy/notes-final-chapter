@@ -62,7 +62,7 @@ Prep
 - shine up grill, have it ready to rock when moved
 - furniture
 
-
+---
 ### Splendid Moving
 1 323 645 2636
 https://www.yelp.com/projects/FDsRwC1qNQeswHWScpljWA/conversation/0hvDZCrctw7tUzxLirU95w
@@ -80,6 +80,7 @@ To: 3047 Mira Vista Way Corona, CA 92881
 Rate: $180 cash /$190 card
 Movers: 4
 
+---
 
 Other:
 
