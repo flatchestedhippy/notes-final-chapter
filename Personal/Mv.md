@@ -21,6 +21,12 @@ https://anthony.cnusd.k12.ca.us/
 - school
 	- uploaded SCE doc to pre-reg
 	- submitted email to Gardenia letting her know i cant subit and have not gotten IEP from current school yet
+8/27/1973
+- school
+	- submitted updated: Record of special services
+	- uploaded latest IEP
+	- emailed school to see if anything else needed
+
 
 ---
 
