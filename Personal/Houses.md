@@ -56,6 +56,7 @@ Trip 4
 	- limited pics, just listed, big lot
 - 2007 Aberdeen Dr, Corona, CA 92881
 	- limited pics, just listed, huge lot
+	- 4/10 SCHOOL - NO!!!!
 - All Above
 	- Border Park
 	- Close to 5 brdm that I liked 2251 Prescott Cir, Corona, CA 92881
@@ -260,6 +261,7 @@ Very nice inside - seemed small but is currently lived in. is 1700 sq 4 bdrm - b
 Nice older neighborhood very similar. Ours would definitely live in the neighborhood from the front of the house. It’s not the nicest. It’s a little worn down roof looks a bit old, but it’s not bad. I would live in this neighborhood.  
 The owner is the seller / realtor
 William didnt really seem interested but it seemed nice  enough to look further.
+SCHOOL 4/10 - NO NO NO!!!
   
   
 3630 Vanderbilt Dr, Corona, CA 92881  

@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Mv.md",
+                "file": "Personal/Houses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mv"
+              "title": "Houses"
             }
           }
         ],
@@ -248,8 +248,8 @@
   },
   "active": "7d5865ae6d4bb457",
   "lastOpenFiles": [
-    "Start.md",
     "Personal/Mv.md",
+    "Start.md",
     "Business Ventures/Vending Machines.md",
     "Personal/House Updates.md",
     "Personal/Houses.md",
