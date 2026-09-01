@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Houses"
             }
+          },
+          {
+            "id": "f5476265afd9d3ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Mv.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mv"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,14 +260,14 @@
       "always-color-text:Always Color Text": false
     }
   },
-  "active": "7d5865ae6d4bb457",
+  "active": "f5476265afd9d3ef",
   "lastOpenFiles": [
+    "Business Ventures/Govt Contracting.md",
+    "Business Ventures/Vending Machines.md",
+    "Personal/Houses.md",
     "Personal/Mv.md",
     "Start.md",
-    "Business Ventures/Vending Machines.md",
     "Personal/House Updates.md",
-    "Personal/Houses.md",
-    "Business Ventures/Govt Contracting.md",
     "Extras/Attachments/Pasted image 20260820191332.png",
     "Business Ventures",
     "daily-notes/05.19.2026.md",

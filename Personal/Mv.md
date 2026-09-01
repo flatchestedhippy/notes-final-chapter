@@ -7,6 +7,7 @@ https://anthony.cnusd.k12.ca.us/
 8/19/2026
 - Filled out pre-registration but wont allow submit without proof of residence.
 	- https://preenroll.cnusd.k12.ca.us
+	- FuckDumb10!
 
 8/20/2026
 - upload closing escrow document
