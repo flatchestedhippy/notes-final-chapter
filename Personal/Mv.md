@@ -92,3 +92,11 @@ Movers: 4
 Other:
 
 ![[Pasted image 20260820191332.png]]
+
+
+---
+Its now 9/1 - Trish did not call back last night as she stated she would (wtf?)
+- no idea if can move Thursday!!!
+- Validating info as cannot count on Trish at this time
+	- First American Title
+		- 
