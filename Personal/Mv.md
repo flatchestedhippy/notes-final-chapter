@@ -99,4 +99,6 @@ Its now 9/1 - Trish did not call back last night as she stated she would (wtf?)
 - no idea if can move Thursday!!!
 - Validating info as cannot count on Trish at this time
 	- First American Title
-		- 
+		- Spoke with Chris (Larry assistant)
+			- said they DID recieve trust / POA docs
+			- was not able to answer additional questions, said he would have Larry call me back when he is off of the phone
