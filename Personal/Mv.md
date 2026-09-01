@@ -44,6 +44,7 @@ TODO
 - [ ] Gas
 - [ ] Trash
 - [ ] Internet/Phone
+- [ ] Install plumbing for robot
 - [x] Insurance (shoudl be set but verify) ✅ 2026-08-24
 	- fuck state farm! email this morning saying they wont offer any new insurance even though i got a quote!!!  New insurance ~2x
 	- completed / Mercury Insurance 
