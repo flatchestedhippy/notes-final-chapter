@@ -43,6 +43,7 @@ TODO
 - [x] Electric ✅ 2026-08-24
 - [ ] Gas
 - [ ] Trash
+- [ ] Water
 - [ ] Internet/Phone
 - [ ] Install plumbing for robot
 - [x] Insurance (shoudl be set but verify) ✅ 2026-08-24
